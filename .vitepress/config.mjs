@@ -6,6 +6,8 @@ import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
 export default defineConfig({
   ...htmlOptions,
 
+  base: '/repo/',
+
   cleanUrls: true,
   srcDir: './src',
   lastUpdated: true,
