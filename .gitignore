@@ -2,7 +2,7 @@
 .DS_Store
 dist-ssr
 .cache
-*.local 
+*.local  
 
 
 # Logs
