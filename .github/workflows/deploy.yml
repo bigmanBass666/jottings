@@ -36,6 +36,8 @@ jobs:
       #   with:
       #     version: 9
       # - uses: oven-sh/setup-bun@v1 # 如果使用 Bun，请取消注释
+      - name: Install PNPM
+        run: npm install -g pnpm
       - name: Setup Node
         uses: actions/setup-node@v4
         with:
@@ -43,8 +45,6 @@ jobs:
           cache: pnpm # 或 pnpm / yarn
       - name: Setup Pages
         uses: actions/configure-pages@v4
-      - name: Install PNPM
-        run: npm install -g pnpm
       - name: Install dependencies
         run: pnpm ci # 或 pnpm install / yarn install / bun install
       - name: Build with VitePress
