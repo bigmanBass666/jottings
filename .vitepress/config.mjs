@@ -11,10 +11,9 @@ export default defineConfig({
 
   cleanUrls: true,
   srcDir: './src',
-  lastUpdated: true,
 
   srcExclude: ['哲思_人文_社科/遗愿清单.md'],
-  
+
 
   themeConfig: {
     // 左上角品牌
@@ -54,12 +53,20 @@ export default defineConfig({
     //返回顶部文字修改
     // returnToTopLabel: 'Return to top ↑',
 
+    // 编辑链接
+    editLink: {
+      pattern: 'https://gitee.com/bigmanBass666/jottings/edit/main/src/:path'
+    },
+
     //自定义上下页名
     docFooter: {
       prev: '←',
       next: '→',
     },
   },
+
+  // 最后更新时间
+  lastUpdated: true,
 
   // markdown配置
   markdown: {
