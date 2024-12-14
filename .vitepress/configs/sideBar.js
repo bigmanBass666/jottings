@@ -11,6 +11,9 @@ const globalOptions = {
   // 显示 index.md
   includeFolderIndexFile: true,
 
+  // 标题所有单词首字母大写
+  capitalizeEachWords: true,
+
   // ! 根据文件Frontmatter中title的值显示标题 (须同时开启)
   useTitleFromFrontmatter: true,
   // ! 根据文件中指定的Frontmatter中的键名显示菜单标题 (须同时开启)
@@ -40,7 +43,11 @@ const sideBars = [
   {
     scanStartPath: '自然科学',
     resolvePath: '/自然科学/',
-  }
+  },
+  {
+    scanStartPath: 'lyrics',
+    resolvePath: '/lyrics/',
+  },
 ]
 
 const mergedSideBars = sideBars.map(sidebar => ({

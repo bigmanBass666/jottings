@@ -12,8 +12,8 @@ hero:
     alt: 芝麻关门
   actions:
     - theme: brand
-      text: 啊啊
-      link: /#
+      text: Todo
+      link: /todo.md
     - theme: alt
       text: 哇哇
       link: /#

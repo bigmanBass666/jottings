@@ -49,7 +49,7 @@ export const nav = [
     items: [
       {
         items: [
-          { text: 'Purple Hat-SOFI TUKKER', link: '/lyrics/Purple Hat-SOFI TUKKER' },
+          { text: 'Wing', link: '/lyrics/wing/i_want_it' },
         ]
       }
     ]

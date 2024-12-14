@@ -5,6 +5,7 @@ import markdownItFootnote from 'markdown-it-footnote'
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
 import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
 
+
 export default defineConfig({
   ...htmlOptions,
 
@@ -13,17 +14,7 @@ export default defineConfig({
   lastUpdated: true,
 
   srcExclude: ['哲思_人文_社科/遗愿清单.md'],
-
-  // ignoreDeadLinks: [
-  // 忽略精确网址 "/护肤/哔站_皮科医生魏小博/药物#fn1"
-  // '/护肤/哔站_皮科医生魏小博/药物#fn1',
-
-  // 自定义函数，忽略所有包含 "#fn" 的链接
-  // (url) => {
-  //   return url.toLowerCase().includes('#fn')
-  // }
-  // ],
-  ignoreDeadLinks: true,
+  
 
   themeConfig: {
     // 左上角品牌
@@ -31,7 +22,7 @@ export default defineConfig({
     siteTitle: '杂记',
 
     // 搜索
-    // search: search,
+    search: search,
 
     // 导航栏
     nav: nav,
@@ -41,7 +32,8 @@ export default defineConfig({
 
     footer: {
       message: '我只身前行 却仿佛带着一万雄兵',
-      copyright: 'Copyright © 2024-present Jason Liu'
+      // copyright: 'Copyright © 2024-present Jason Liu'
+      copyright: '© Jason Liu'
     },
 
     // 深浅模式文字修改
