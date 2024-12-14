@@ -1,56 +1,35 @@
 {
-  "hash": "76522ccc",
-  "configHash": "b5570a18",
-  "lockfileHash": "74a06da9",
-  "browserHash": "664d686c",
+  "hash": "2ed02dce",
+  "configHash": "2d5e5139",
+  "lockfileHash": "b4b504fa",
+  "browserHash": "310f0368",
   "optimized": {
     "vue": {
       "src": "../../../node_modules/.pnpm/vue@3.5.13/node_modules/vue/dist/vue.runtime.esm-bundler.js",
       "file": "vue.js",
-      "fileHash": "9bfe3622",
+      "fileHash": "13dc956d",
       "needsInterop": false
     },
     "vitepress > @vue/devtools-api": {
       "src": "../../../node_modules/.pnpm/@vue+devtools-api@7.6.7/node_modules/@vue/devtools-api/dist/index.js",
       "file": "vitepress___@vue_devtools-api.js",
-      "fileHash": "381d338a",
+      "fileHash": "646d596a",
       "needsInterop": false
     },
     "vitepress > @vueuse/core": {
       "src": "../../../node_modules/.pnpm/@vueuse+core@11.3.0_vue@3.5.13/node_modules/@vueuse/core/index.mjs",
       "file": "vitepress___@vueuse_core.js",
-      "fileHash": "3883d2d0",
-      "needsInterop": false
-    },
-    "vitepress > @vueuse/integrations/useFocusTrap": {
-      "src": "../../../node_modules/.pnpm/@vueuse+integrations@11.3.0_focus-trap@7.6.2_vue@3.5.13/node_modules/@vueuse/integrations/useFocusTrap.mjs",
-      "file": "vitepress___@vueuse_integrations_useFocusTrap.js",
-      "fileHash": "2a25551e",
-      "needsInterop": false
-    },
-    "vitepress > mark.js/src/vanilla.js": {
-      "src": "../../../node_modules/.pnpm/mark.js@8.11.1/node_modules/mark.js/src/vanilla.js",
-      "file": "vitepress___mark__js_src_vanilla__js.js",
-      "fileHash": "d97a345f",
-      "needsInterop": false
-    },
-    "vitepress > minisearch": {
-      "src": "../../../node_modules/.pnpm/minisearch@7.1.1/node_modules/minisearch/dist/es/index.js",
-      "file": "vitepress___minisearch.js",
-      "fileHash": "aed41c30",
+      "fileHash": "0c1f4721",
       "needsInterop": false
     },
     "medium-zoom": {
       "src": "../../../node_modules/.pnpm/medium-zoom@1.1.0/node_modules/medium-zoom/dist/medium-zoom.esm.js",
       "file": "medium-zoom.js",
-      "fileHash": "ebb15f65",
+      "fileHash": "f071dbe0",
       "needsInterop": false
     }
   },
   "chunks": {
-    "chunk-FD6K6ETV": {
-      "file": "chunk-FD6K6ETV.js"
-    },
     "chunk-CQOUZRMK": {
       "file": "chunk-CQOUZRMK.js"
     }

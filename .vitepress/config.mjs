@@ -1,4 +1,6 @@
 import { defineConfig } from 'vitepress'
+// 脚注插件
+import markdownItFootnote from 'markdown-it-footnote'
 
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
 import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
@@ -12,13 +14,24 @@ export default defineConfig({
 
   srcExclude: ['哲思_人文_社科/遗愿清单.md'],
 
+  // ignoreDeadLinks: [
+    // 忽略精确网址 "/护肤/哔站_皮科医生魏小博/药物#fn1"
+    // '/护肤/哔站_皮科医生魏小博/药物#fn1',
+
+    // 自定义函数，忽略所有包含 "#fn" 的链接
+    // (url) => {
+    //   return url.toLowerCase().includes('#fn')
+    // }
+  // ],
+  ignoreDeadLinks: true,
+
   themeConfig: {
     // 左上角品牌
     logo: 'https://img.picgo.net/2024/12/08/melon_round06d334931cff05c9.png',
     siteTitle: '杂记',
 
     // 搜索
-    search: search,
+    // search: search,
 
     // 导航栏
     nav: nav,
@@ -47,7 +60,7 @@ export default defineConfig({
     },
 
     //返回顶部文字修改
-    // returnToTopLabel: '飞上去',
+    // returnToTopLabel: 'Return to top ↑',
 
     //自定义上下页名
     docFooter: {
@@ -59,9 +72,14 @@ export default defineConfig({
   // markdown配置
   markdown: {
     image: {
-      // 开启图片懒加载
+      // 图片懒加载
       lazyLoading: true
     },
+
+    config: (md) => {
+      // 脚注插件
+      md.use(markdownItFootnote)
+    }
   },
 
   // 站点地图

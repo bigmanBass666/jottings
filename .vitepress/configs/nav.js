@@ -12,7 +12,6 @@ export const nav = [
           { text: '其他', link: '/哲思_人文_社科/其他/分粥问题' },
           { text: '文采短句', link: '/哲思_人文_社科/文采短句/待定' },
           { text: '箴言', link: '/哲思_人文_社科/箴言' },
-          { text: 'lyrics', link: '/哲思_人文_社科/lyrics' },
         ]
       }
     ]
@@ -39,6 +38,18 @@ export const nav = [
         items: [
           { text: '物理学', link: '/自然科学/物理学/主动降噪' },
           { text: '营养学', link: '/自然科学/营养学/紫菜煮后变绿' },
+        ]
+      }
+    ]
+  },
+
+  // lyrics
+  {
+    text: 'lyrics',
+    items: [
+      {
+        items: [
+          { text: 'Purple Hat-SOFI TUKKER', link: '/lyrics/Purple Hat-SOFI TUKKER' },
         ]
       }
     ]
