@@ -15,13 +15,13 @@ export default defineConfig({
   srcExclude: ['哲思_人文_社科/遗愿清单.md'],
 
   // ignoreDeadLinks: [
-    // 忽略精确网址 "/护肤/哔站_皮科医生魏小博/药物#fn1"
-    // '/护肤/哔站_皮科医生魏小博/药物#fn1',
+  // 忽略精确网址 "/护肤/哔站_皮科医生魏小博/药物#fn1"
+  // '/护肤/哔站_皮科医生魏小博/药物#fn1',
 
-    // 自定义函数，忽略所有包含 "#fn" 的链接
-    // (url) => {
-    //   return url.toLowerCase().includes('#fn')
-    // }
+  // 自定义函数，忽略所有包含 "#fn" 的链接
+  // (url) => {
+  //   return url.toLowerCase().includes('#fn')
+  // }
   // ],
   ignoreDeadLinks: true,
 
@@ -36,7 +36,7 @@ export default defineConfig({
     // 导航栏
     nav: nav,
 
-    社交链接 (右上角)
+    // 社交链接 (右上角)
     socialLinks: socialLinks,
 
     footer: {
