@@ -36,7 +36,7 @@ export default defineConfig({
     // 导航栏
     nav: nav,
 
-    // 社交链接 (右上角)
+    社交链接 (右上角)
     socialLinks: socialLinks,
 
     footer: {
