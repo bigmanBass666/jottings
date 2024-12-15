@@ -10,6 +10,6 @@
 }
 
 /* 渐变标题选中背景不变色 */
-.clip[data-v-4a749ade]::selection {
+.name .clip::selection {
   background-color: -webkit-linear-gradient(120deg, var(--rainbow-prev) 30%, var(--rainbow-next)) !important;
 }
