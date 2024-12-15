@@ -11,8 +11,9 @@ import { onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 
 import './style.css'
+
+// custom css style
 import './style/index.css'
-import './style/custom.css'
 
 /** @type {import('vitepress').Theme} */
 export default {
@@ -24,7 +25,7 @@ export default {
   //   })
   // },
 
-  
+
   // 图片缩放
   setup() {
     const route = useRoute()
