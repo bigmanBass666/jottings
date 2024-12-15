@@ -1,7 +1,6 @@
 // https://vitepress.dev/guide/custom-theme
 // import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
-
 // 深浅外观的圆圈过渡
 import MyLayout from './components/MyLayout.vue'
 
@@ -11,9 +10,9 @@ import { onMounted, watch, nextTick } from 'vue'
 import { useRoute } from 'vitepress'
 
 import './style.css'
-
 // custom css style
 import './style/index.css'
+
 
 /** @type {import('vitepress').Theme} */
 export default {
