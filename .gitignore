@@ -1,7 +1,6 @@
 
 cache
 .DS_Store
-.vitepress/dist
 dist-ssr
 .cache
 *.local  
