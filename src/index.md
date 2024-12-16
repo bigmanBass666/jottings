@@ -13,7 +13,7 @@ hero:
   actions:
     - theme: brand
       text: Todo
-      link: /todo.md
+      link: /todo/todo.md
     - theme: alt
       text: 哇哇
       link: /#

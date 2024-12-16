@@ -1,5 +1,5 @@
 ---
-name: 1 i want it
+name: 1.i_want_it
 ---
 
 # I Want It
