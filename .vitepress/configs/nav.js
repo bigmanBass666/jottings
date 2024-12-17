@@ -23,7 +23,7 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '痤疮', link: '/护肤/痤疮/1.知乎_瑞颜医生' },
+          { text: '痤疮', link: '/护肤/1.痤疮/1.知乎_瑞颜医生' },
           { text: '洗发水', link: '/护肤/洗发水' },
           { text: '杂项', link: '/护肤/杂项' },
         ]

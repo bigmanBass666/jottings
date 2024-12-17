@@ -38,8 +38,6 @@ const sideBars = [
     scanStartPath: '哲思_人文_社科',
     resolvePath: '/哲思_人文_社科/',
     excludePattern: ['遗愿清单.md'],
-    // 排序完成之后, 如果值为 top，则所有文件夹都放在文件上方, bottom则在下方
-    // sortFolderTo: 'bottom',
   },
   {
     scanStartPath: '护肤',
