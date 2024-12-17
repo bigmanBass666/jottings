@@ -32,7 +32,7 @@ export default defineConfig({
     footer: {
       message: '我只身前行 却仿佛带着一万雄兵',
       // copyright: 'Copyright © 2024-present Jason Liu'
-      copyright: '© Jason Liu'
+      copyright: '©️ Jason Liu'
     },
 
     // 深浅模式文字修改
