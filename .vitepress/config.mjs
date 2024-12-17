@@ -75,10 +75,10 @@ export default defineConfig({
       lazyLoading: true
     },
 
-    config: (md) => {
-      // 脚注插件
-      md.use(markdownItFootnote)
-    }
+    // config: (md) => {
+    //   // 脚注插件
+    //   md.use(markdownItFootnote)
+    // }
   },
 
   // 站点地图
