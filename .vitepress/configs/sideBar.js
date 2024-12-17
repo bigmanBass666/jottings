@@ -20,9 +20,9 @@ const globalOptions = {
   frontmatterTitleFieldName: 'name',
 
   // 按名称对菜单项中的项目进行排序, 默认 false 是升序
-  // sortMenusByName: true,
+  sortMenusByName: true,
   // 排序完成之后, 如果值为 top，则所有文件夹都放在文件上方, bottom则在下方
-  // sortFolderTo: 'bottom',
+  sortFolderTo: 'top',
   // ['1-a', '10-a', '2-a'] -> ['1-a', '2-a', '10-a']
   sortMenusOrderNumericallyFromTitle: true,
 
