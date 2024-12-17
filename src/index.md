@@ -11,15 +11,15 @@ hero:
     src: https://img.picgo.net/2024/12/12/snow-481fbd0e5becfc045f.png
     alt: 芝麻关门
   actions:
-    - theme: brand
+    - theme: sponsor
       text: Todo
       link: /todo/todo.md
-    - theme: alt
-      text: 哇哇
-      link: /#
-    - theme: sponsor
-      text: 嘎嘎
-      link: /#
+    # - theme: alt
+    #   text: 哇哇
+    #   link: /#
+    # - theme: brand
+    #   text: 嘎嘎
+    #   link: /#
 
 # features:
 #   - title: Feature A
