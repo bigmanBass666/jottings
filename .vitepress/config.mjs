@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
+
 // 脚注插件
-import markdownItFootnote from 'markdown-it-footnote'
+// import markdownItFootnote from 'markdown-it-footnote'
 
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
 import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
@@ -56,6 +57,11 @@ export default defineConfig({
     // 编辑链接
     editLink: {
       pattern: 'https://gitee.com/bigmanBass666/jottings/edit/main/src/:path'
+    },
+
+    // 最后更新时间
+    lastUpdated: {
+      text: 'Updated at',
     },
 
     //自定义上下页名
