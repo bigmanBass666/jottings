@@ -1,8 +1,5 @@
 import { defineConfig } from 'vitepress'
 
-// 脚注插件
-// import markdownItFootnote from 'markdown-it-footnote'
-
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
 import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
 
@@ -80,11 +77,6 @@ export default defineConfig({
       // 图片懒加载
       lazyLoading: true
     },
-
-    // config: (md) => {
-    //   // 脚注插件
-    //   md.use(markdownItFootnote)
-    // }
   },
 
   // 站点地图
