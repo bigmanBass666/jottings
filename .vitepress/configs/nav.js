@@ -55,4 +55,20 @@ export const nav = [
       }
     ]
   },
+
+  // 穿搭
+  {
+    text: '穿搭',
+    items: [
+      {
+        items: [
+          { text: '前言', link: '/穿搭/前言' },
+          { text: '衣服', link: '/穿搭/1.衣服' },
+          { text: '裤子', link: '/穿搭/2.裤子' },
+          { text: '鞋子', link: '/穿搭/鞋子' },
+          { text: '总结', link: '/穿搭/总结' },
+        ]
+      }
+    ]
+  },
 ]

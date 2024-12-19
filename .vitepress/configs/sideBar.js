@@ -51,6 +51,10 @@ const sideBars = [
     scanStartPath: 'lyrics',
     resolvePath: '/lyrics/',
   },
+  {
+    scanStartPath: '穿搭',
+    resolvePath: '/穿搭/',
+  },
 ]
 
 const mergedSideBars = sideBars.map(sidebar => ({

@@ -77,6 +77,7 @@ export default defineConfig({
       // 图片懒加载
       lazyLoading: true
     },
+    math: true
   },
 
   // 站点地图
