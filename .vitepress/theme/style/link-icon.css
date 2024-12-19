@@ -1,6 +1,9 @@
 /* .vitepress/theme/style/link-icon.css */
 /* 在链接前显示平台icon */
 
+
+/* 微信 */
+.vp-doc a[href^="https://mp.weixin.qq.com/"]:before,
 /* 抖音 */
 .vp-doc a[href^="https://www.douyin.com/"]:before,
 /* 知乎 */
@@ -49,4 +52,9 @@
 /* 抖音 */
 .vp-doc a[href^="https://www.douyin.com/"]:before {
     background-image: url(/svg/douyin.svg);
+}
+
+/* 微信 */
+.vp-doc a[href^="https://mp.weixin.qq.com/"]:before {
+    background-image: url(/svg/weixin.svg);
 }
