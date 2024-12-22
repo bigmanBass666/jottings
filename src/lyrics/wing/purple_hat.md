@@ -1,4 +1,8 @@
-# Purple Hat-SOFI TUKKER
+# Purple Hat
+
+> SOFI TUKKER
+
+["地狱飛猫大紫帽" - WING & HELLCAT / Purple Hat](https://www.bilibili.com/video/BV1764y1o7M4)
 
 purple hat cheetah print dancing on the people rolled up at the after joint dancing dancing on the people people dancing on the people i got people on the people people dancing on the people with the people on the people smoke and co2 see me see you dancing on the people climb up on the booth hanging from the people on the people my head hits the roof dancing on the ceiling on the people i got people on the people dancing dancing on the people. i got purple hat...
 

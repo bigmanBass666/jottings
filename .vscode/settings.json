@@ -8,5 +8,9 @@
     "minisearch",
     "taobao",
     "vitepress"
-  ]
+  ],
+  "workbench.colorCustomizations": {
+    "editorCursor.background": "#528bff"
+  },
+  "Codegeex.RepoIndex": true
 }

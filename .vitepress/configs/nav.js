@@ -7,11 +7,11 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '博主 频道', link: '/哲思_人文_社科/1.博主_频道/jack' },
-          { text: '读书笔记', link: '/哲思_人文_社科/2.读书笔记/疯狂阅读_微阅读_文字课' },
-          { text: '积累本', link: '/哲思_人文_社科/3.积累本/待定' },
-          { text: '箴言', link: '/哲思_人文_社科/4.箴言' },
-          { text: '其他', link: '/哲思_人文_社科/5.其他/分粥问题' },
+          { text: '博主', link: '/Philosophy_Literature_SocialSciences/1.Blogger/jack' },
+          { text: '读书笔记', link: '/Philosophy_Literature_SocialSciences/2.Reading_Notes/Crazy_Reading_Micro_Reading_Writing_Lessons' },
+          { text: '积累本', link: '/Philosophy_Literature_SocialSciences/3.Accumulation/Undecided' },
+          { text: '箴言', link: '/Philosophy_Literature_SocialSciences/4.Aphorisms/1.introduction' },
+          { text: '其他', link: '/Philosophy_Literature_SocialSciences/5.Others/The_Porridge_Problem' },
         ]
       }
     ]
@@ -23,9 +23,9 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '痤疮', link: '/护肤/1.痤疮/1.知乎_瑞颜医生' },
-          { text: '洗发水', link: '/护肤/2.洗发水' },
-          { text: '杂项', link: '/护肤/杂项' },
+          { text: '痤疮', link: '/Skin_Care/1.Acne/1.Zhihu_Dr_Rui_Yan/1.Introduction' },
+          { text: '洗发水', link: '/Skin_Care/2.Shampoo' },
+          { text: '杂项', link: '/Skin_Care/Miscellaneous' },
         ]
       }
     ]
@@ -37,8 +37,8 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '物理学', link: '/自然科学/物理学/主动降噪' },
-          { text: '营养学', link: '/自然科学/营养学/紫菜煮后变绿' },
+          { text: '物理学', link: '/Natural_Sciences/Physics/Active_Noise_Cancelling' },
+          { text: '营养学', link: '/Natural_Sciences/Nutrition/Seaweed_Turns_Green_After_Boiling' },
         ]
       }
     ]
@@ -62,11 +62,11 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '前言', link: '/穿搭/前言' },
-          { text: '衣服', link: '/穿搭/1.衣服' },
-          { text: '裤子', link: '/穿搭/2.裤子' },
-          { text: '鞋子', link: '/穿搭/鞋子' },
-          { text: '总结', link: '/穿搭/总结' },
+          { text: '前言', link: '/Fashion/Introduction' },
+          { text: '衣服', link: '/Fashion/1.Clothes/1.introduction' },
+          { text: '裤子', link: '/Fashion/2.Pants/1.introduction' },
+          { text: '鞋子', link: '/Fashion/Shoes' },
+          { text: '总结', link: '/Fashion/Summary' },
         ]
       }
     ]

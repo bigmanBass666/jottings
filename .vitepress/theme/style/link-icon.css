@@ -12,6 +12,7 @@
 /* 天猫 */
 .vp-doc a[href^="https://detail.tmall.com/"]:before,
 /* 哔哩哔哩 */
+.vp-doc a[href^="https://space.bilibili.com/"]:before,
 .vp-doc a[href^="https://www.bilibili.com/"]:before,
 /* 淘宝 */
 .vp-doc a[href^="https://s.click.taobao.com/"]:before,
@@ -28,6 +29,7 @@
 }
 
 /* 哔哩哔哩 */
+.vp-doc a[href^="https://space.bilibili.com/"]:before,
 .vp-doc a[href^="https://www.bilibili.com/"]:before {
     background-image: url(/svg/bilibili.svg);
 }

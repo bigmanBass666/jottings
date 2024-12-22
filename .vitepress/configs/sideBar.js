@@ -9,15 +9,24 @@ const globalOptions = {
   underscoreToSpace: true,
 
   // 显示 index.md
-  includeFolderIndexFile: true,
+  // includeFolderIndexFile: true,
 
   // 标题所有单词首字母大写
   capitalizeEachWords: true,
 
+  // 如果值为 true，则显示带有 .md 文件中 h1 标题内容的标题。如果文件中不存在 h1 标题，则显示 Unknown。
+  useTitleFromFileHeading: true,
   // ! 根据文件Frontmatter中title的值显示标题 (须同时开启)
   useTitleFromFrontmatter: true,
   // ! 根据文件中指定的Frontmatter中的键名显示菜单标题 (须同时开启)
-  frontmatterTitleFieldName: 'name',
+  frontmatterTitleFieldName: 'fileTitle',
+  // 如果该值为 true，则使用当前文件夹的 index.md 文件中的信息来获取菜单名称。
+  // 如果不存在 index.md 文件，则使用文件夹名称。
+  // 由于我们通常从 index.md 文件中获取 index 名称，
+  // 因此建议同时使用 useTitleFromFileHeading 或 useTitleFromFrontmatter 选项，
+  // 从该文件的 Markdown 标题或 Frontmatter 中获取标题。
+  useFolderTitleFromIndexFile: true,
+  
 
   // 按名称对菜单项中的项目进行排序, 默认 false 是升序
   // sortMenusByName: true,
@@ -35,25 +44,25 @@ const globalOptions = {
 const sideBars = [
   // 自动生成sidebar https://vitepress-sidebar.cdget.com/zhHans/guide/options#scanstartpath
   {
-    scanStartPath: '哲思_人文_社科',
-    resolvePath: '/哲思_人文_社科/',
-    excludePattern: ['遗愿清单.md'],
+    scanStartPath: 'Philosophy_Literature_SocialSciences',
+    resolvePath: '/Philosophy_Literature_SocialSciences/',
+    excludePattern: ['Bucket List.md'],
   },
   {
-    scanStartPath: '护肤',
-    resolvePath: '/护肤/',
+    scanStartPath: 'Skin_Care',
+    resolvePath: '/Skin_Care/',
   },
   {
-    scanStartPath: '自然科学',
-    resolvePath: '/自然科学/',
+    scanStartPath: 'Natural_Sciences',
+    resolvePath: '/Natural_Sciences/',
   },
   {
     scanStartPath: 'lyrics',
     resolvePath: '/lyrics/',
   },
   {
-    scanStartPath: '穿搭',
-    resolvePath: '/穿搭/',
+    scanStartPath: 'Fashion',
+    resolvePath: '/Fashion/',
   },
 ]
 

@@ -1,4 +1,4 @@
-// https://vitepress.dev/guide/custom-theme
+// https://vitepress.dev/zh/guide/custom-theme
 // import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
 // 深浅外观的圆圈过渡
