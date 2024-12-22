@@ -7,6 +7,8 @@
 
 # Todo
 
+- icon
+
 - ✅ ~~洗发水, 沐浴露等笔记~~
   > finished at 2024 December 17 Tuesday 00:49
   
