@@ -35,6 +35,9 @@ export default defineConfig({
 
     // 深浅模式文字修改
     darkModeSwitchLabel: '斗转星移 →',
+    // hover文字
+    lightModeSwitchTitle: '黑夜给了我黑色的眼睛, 我却用它来寻找光明',
+    darkModeSwitchTitle: '所谓万丈深渊, 下去, 也是前程万里',
 
     // 侧边栏
     sidebar: sideBar,
