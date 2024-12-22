@@ -23,7 +23,7 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '痤疮', link: '/Skin_Care/1.Acne/1.Zhihu_Dr_Rui_Yan/1.Introduction' },
+          { text: '痤疮', link: '/Skin_Care/1.Acne/1.Zhihu_Dr_Rui_Yan/1.introduction' },
           { text: '洗发水', link: '/Skin_Care/2.Shampoo' },
           { text: '杂项', link: '/Skin_Care/Miscellaneous' },
         ]
@@ -62,7 +62,7 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '前言', link: '/Fashion/Introduction' },
+          { text: '前言', link: '/Fashion/1.introduction' },
           { text: '衣服', link: '/Fashion/1.Clothes/1.introduction' },
           { text: '裤子', link: '/Fashion/2.Pants/1.introduction' },
           { text: '鞋子', link: '/Fashion/Shoes' },
