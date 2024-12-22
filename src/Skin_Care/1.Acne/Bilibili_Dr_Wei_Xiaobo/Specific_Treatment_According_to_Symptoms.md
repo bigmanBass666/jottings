@@ -2,21 +2,21 @@
 
 ## 粉刺(黑头和白头)
 
-- 白天: [过氧苯甲酰](药物.md#过氧苯甲酰凝胶)
-- 晚上: [阿达帕林](药物.md#阿达帕林凝胶)
+- 白天: [过氧苯甲酰](Specific_Treatment_According_to_Symptoms.md#过氧苯甲酰凝胶)
+- 晚上: [阿达帕林](Specific_Treatment_According_to_Symptoms.md#阿达帕林凝胶)
 
 ## 如果在粉刺的基础上肿起来了(丘疹)
 
-- [过氧苯甲酰](药物.md#过氧苯甲酰凝胶)
+- [过氧苯甲酰](Specific_Treatment_According_to_Symptoms.md#过氧苯甲酰凝胶)
 
 ## 感染重的, 深在型的(结节和囊肿)
 
-- [夫西地酸](药物.md#夫西地酸乳膏)
+- [夫西地酸](Specific_Treatment_According_to_Symptoms.md#夫西地酸乳膏)
 
 ## 突然大面积爆发, 可能合并玫瑰痤疮的痘痘
 
 - 甲硝唑
-- [克林霉素甲硝唑](药物.md#克林霉素甲硝唑搽剂)
+- [克林霉素甲硝唑](Specific_Treatment_According_to_Symptoms.md#克林霉素甲硝唑搽剂)
 
 ---
 
