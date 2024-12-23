@@ -8,7 +8,7 @@
 
 # Todo
 
-- ⬜ Iconify [VitePress 不完全优化指南|纸鹿摸鱼处](https://blog.zhilu.cyou/2024/vitepress-enhancement#优化样式)
+- ⬜ 痤疮: 个人经验分享
   > 2024 December 23 Monday 00:07 →
 
 - ⬜ 穿搭
@@ -16,7 +16,7 @@
   - ...
   > 2024 December 23 Monday 00:07 →
 
-- ⬜ 痤疮: 个人经验分享
+- ⬜ Iconify [VitePress 不完全优化指南|纸鹿摸鱼处](https://blog.zhilu.cyou/2024/vitepress-enhancement#优化样式)
   > 2024 December 23 Monday 00:07 →
 
 - ✅ ~~洗发水, 沐浴露等笔记~~
