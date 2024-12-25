@@ -50,7 +50,7 @@ fileTitle: z.个人经验分享
 
 ### 外用药
 
-#### [如何涂药膏](apply_the_ointment.md)
+#### [如何涂药膏](4.apply_the_ointment.md)
 
 必须看
 
