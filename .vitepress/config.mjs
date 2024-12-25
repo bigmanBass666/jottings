@@ -15,7 +15,7 @@ export default defineConfig({
 
   themeConfig: {
     // 左上角品牌
-    logo: 'https://img.picgo.net/2024/12/08/melon_round06d334931cff05c9.png',
+    logo: 'https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/melon_round06d334931cff05c9_90967a56c0b4b.png',
     siteTitle: '杂记',
 
     // 搜索
@@ -48,7 +48,7 @@ export default defineConfig({
     outline: {
       level: [2, 6], // 显示2-6级标题
       // level: 'deep', // 显示2-6级标题
-      // label: '当前页大纲' // 文字显示
+      label: '本文章节' // 文字显示
     },
 
     //返回顶部文字修改

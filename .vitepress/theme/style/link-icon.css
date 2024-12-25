@@ -1,7 +1,8 @@
 /* .vitepress/theme/style/link-icon.css */
 /* 在链接前显示平台icon */
 
-
+/* 知网 */
+.vp-doc a[href^="https://kns.cnki.net/"]:before,
 /* 微信 */
 .vp-doc a[href^="https://mp.weixin.qq.com/"]:before,
 /* 抖音 */
@@ -16,47 +17,60 @@
 .vp-doc a[href^="https://www.bilibili.com/"]:before,
 /* 淘宝 */
 .vp-doc a[href^="https://s.click.taobao.com/"]:before,
-.vp-doc a[href^="https://item.taobao.com/"]:before {
-    content: '';
-    width: 20px;
-    height: 20px;
-    display: inline-block;
-    vertical-align: middle;
-    position: relative;
-    background-size: cover;
-    top: -2px;
-    margin-right: 4px;
+.vp-doc a[href^="https://item.taobao.com/"]:before
+{
+  content: '';
+  width: 20px;
+  height: 20px;
+  display: inline-block;
+  vertical-align: middle;
+  position: relative;
+  background-size: cover;
+  top: -2px;
+  margin-right: 4px;
 }
 
 /* 哔哩哔哩 */
 .vp-doc a[href^="https://space.bilibili.com/"]:before,
-.vp-doc a[href^="https://www.bilibili.com/"]:before {
-    background-image: url(/svg/bilibili.svg);
+.vp-doc a[href^="https://www.bilibili.com/"]:before
+{
+  background-image: url(/svg/bilibili.svg);
 }
 
 /* 淘宝 */
 .vp-doc a[href^="https://s.click.taobao.com/"]:before,
-.vp-doc a[href^="https://item.taobao.com/"]:before {
-    background-image: url(/svg/taobao.svg);
+.vp-doc a[href^="https://item.taobao.com/"]:before
+{
+  background-image: url(/svg/taobao.svg);
 }
 
 /* 天猫 */
-.vp-doc a[href^="https://detail.tmall.com/"]:before {
-    background-image: url(/svg/tianmao.svg);
+.vp-doc a[href^="https://detail.tmall.com/"]:before
+{
+  background-image: url(/svg/tianmao.svg);
 }
 
 /* 知乎 */
 .vp-doc a[href^="https://www.zhihu.com/"]:before,
-.vp-doc a[href^="https://zhuanlan.zhihu.com/"]:before {
-    background-image: url(/svg/zhihu.svg);
+.vp-doc a[href^="https://zhuanlan.zhihu.com/"]:before
+{
+  background-image: url(/svg/zhihu.svg);
 }
 
 /* 抖音 */
-.vp-doc a[href^="https://www.douyin.com/"]:before {
-    background-image: url(/svg/douyin.svg);
+.vp-doc a[href^="https://www.douyin.com/"]:before
+{
+  background-image: url(/svg/douyin.svg);
 }
 
 /* 微信 */
-.vp-doc a[href^="https://mp.weixin.qq.com/"]:before {
-    background-image: url(/svg/weixin.svg);
+.vp-doc a[href^="https://mp.weixin.qq.com/"]:before
+{
+  background-image: url(/svg/weixin.svg);
+}
+
+/* 知网 */
+.vp-doc a[href^="https://kns.cnki.net/"]:before
+{
+  background-image: url(/svg/zhiwang.svg);
 }

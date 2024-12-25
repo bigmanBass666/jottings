@@ -1,3 +1,7 @@
+---
+fileTitle: z.个人经验分享
+---
+
 # 个人经验分享
 
 > [!WARNING] 免责声明：
@@ -13,37 +17,62 @@
 
 用药不要求与我相同, 商品品牌也不要求与我相同, 只要成分有效即可
 
-请务必在全面熟读 [得此文者得天下](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md) 的情况下来阅读本文章
+请务必在全面熟读 [得此文者得天下](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md) 的情况下阅读本文章
 
 因为本文只起到一个记录本人痤疮治疗过程的作用, 而并无指导之意
+
+## 流程
+
+### 早上
+
+1. 洗面奶洗脸
+2. 抹大宝
+3. 点涂 **过氧苯甲酰**
+
+### 晚上
+
+洗澡时
+
+1. 洗面奶洗脸
+2. 抹大宝
+3. 点涂 **阿达帕林**
 
 ## 装备
 
 ### 洗面奶
 
-芙丽芳丝
+芙丽芳丝 (太贵了, 没必要买)
+
+![freePlus.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/freePlus_888043d23a312.jpg)
+
+> "这些氨基酸洗面奶, 真正使用起来他们的感受不会差太多, 所以我也不建议大家花太多钱在洗面奶上"
+> -- [北大医学博士：这些冤枉钱没必要花！我最常遇到的10个错误护肤理念｜全嘻嘻x皮科医生魏小博]( https://www.bilibili.com/video/BV1LW4y1V7ot/?share_source=copy_web&vd_source=dbdac2a7096f7d2656e413a441bd7afe&t=906 )
 
 ### 外用药
 
+#### [如何涂药膏](apply_the_ointment.md)
+
+必须看
+
 #### [过氧苯甲酰凝胶 (班赛)](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md#banSai)
 
-刺激性很大, 个人用完之后凡是有碰到药膏的地方, 都会发红, 严重点会脱皮
-
-所以个人的用法: 用量尽可能少, 点涂范围尽可能小
+刺激性很大, **务必点涂**, 需严格按照 [建立耐受](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md#建立耐受) 执行, 否则会有恐怖后果😱😱😱😱
 
 #### [阿达帕林](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md#阿达帕林)
 
-也有刺激性, 但稍弱于过氧苯甲酰
+刺激性也大, **务必点涂**, 需严格按照 [建立耐受](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md#建立耐受) 执行, 否则会有恐怖后果😱😱😱😱
 
 #### [夫西地酸乳膏](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md#夫西地酸乳膏)
 
 涂一些特别严重的痘痘, 如囊肿和结节
 
+但是需要注意**不可滥用**, 因为它是抗生素, 滥用会诱导病菌耐药
+
 ### 无菌棉签
 
 > "用手涂，不要用棉签涂，这个的具体原理我们真没去做过实验验证，但是根据经验，棉签涂药的患者，效果普遍不如手涂药的患者。" -- [得此文者得天下](1.Zhihu_Dr_Rui_Yan/He_Who_Gets_This_Article_Gets_the_World.md)
 
-但是我嫌太麻烦了, 毕竟每次都要去用洗手液洗干净手, 而且随便洗洗也洗不干净, 那我就还又要用七步洗手法来洗, 可是天气又冷, 这么一来二去, 我选择无菌棉签
+但是我嫌太麻烦了, 毕竟每次都要去用洗手液洗干净手, 而且随便洗洗也洗不干净, 那我就还要用七步洗手法来洗, 可是天气又冷, 这么一来二去, 我选择无菌棉签
 
 普通棉签是非无菌型的, 别用, 用无菌型的医用棉签
 
@@ -57,3 +86,13 @@
 一个道理的, 12小时后就 **"切勿再使用其处理创口"** 了
 
 ![ziFengKouWuJvnMianQian.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/ziFengKouWuJvnMianQian_0e190ce8e50cb.jpg)
+
+### 大宝
+
+- 因为洗面奶洗完脸后, 皮肤较干, 天气也很干燥
+- 同时也可以减少药物的刺激
+
+> 有的同学觉得先涂了保湿修复霜会影响药效，其实完全不影响，你在之前涂只会让皮肤更快吸收，刺激感更强。
+> -- [阿达帕林详解](https://www.zhihu.com/question/64456413/answer/1768882365)
+
+![daBao.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/daBao_45b74ca12cb46.jpg)

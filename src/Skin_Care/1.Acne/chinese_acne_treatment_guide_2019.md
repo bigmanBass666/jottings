@@ -1,0 +1,19 @@
+---
+fileTitle: 3.中国痤疮治疗指南
+---
+
+# 中国痤疮治疗指南 (2019修订版)
+
+[图片版](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/中国痤疮治疗指南（2019修订版）_鞠强_dd7082b4bf29d.png)
+
+知网原文: [中国痤疮治疗指南 (2019修订版)](https://kns.cnki.net/kcms2/article/abstract?v=kz9ikNiCkdpnEKxmBl5ZtRItmCG9VsmLACJVm1QFaW9ycPZnhQCYXDcXAXMVehyqNShYwB9JIBk4f61JePySmQXnPlsHnj4mW3FwxZVEbWVP2DCDqa7eo_WOqmTXlAsTrIPBuq9XqMNpXztxqwcyL_HNUU8Dy1WMDHHLW0L3aFM=&uniplatform=NZKPT)
+
+## 摘抄
+
+### 健康教育
+
+限制**高糖**和**油腻饮食**及**奶制品**尤其是**脱脂牛奶**的摄入, 适当控制体重、规律作息、避免熬夜及过度日晒等均有助于预防和改善痤疮发生。
+
+### 痤疮推荐治疗方案
+
+![痤疮推荐治疗方案.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/痤疮推荐治疗方案_54890de233df7.png)
