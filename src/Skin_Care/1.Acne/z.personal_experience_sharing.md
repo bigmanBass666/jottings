@@ -21,6 +21,10 @@ fileTitle: z.个人经验分享
 
 因为本文只起到一个记录本人痤疮治疗过程的作用, 而并无指导之意
 
+## 认识痘痘类型
+
+👉 [【皮肤科】全类型痘痘攻克指南](https://www.bilibili.com/video/BV17i4y1w7a5/?spm_id_from=333.1387.homepage.video_card.click&vd_source=942ec2795cc080ceaf2fd0b1df0ff190)
+
 ## 流程
 
 ### 早上

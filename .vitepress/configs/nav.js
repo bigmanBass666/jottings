@@ -1,9 +1,9 @@
 // 导航栏
 
 export const nav = [
-  // 哲思 人文 社科
+  // 哲思 文学 社科
   {
-    text: '哲思 人文 社科',
+    text: '哲思 文学 社科',
     items: [
       {
         items: [
