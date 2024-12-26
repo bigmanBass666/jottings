@@ -12,7 +12,7 @@
   - ⬜ summary
   - ...
 
-- ⬜ Iconify [VitePress 不完全优化指南|纸鹿摸鱼处](https://blog.zhilu.cyou/2024/vitepress-enhancement#优化样式)
+- ❌ ~~Iconify [VitePress 不完全优化指南|纸鹿摸鱼处](https://blog.zhilu.cyou/2024/vitepress-enhancement#优化样式)~~
 
 - ✅ ~~痤疮: 个人经验分享~~
   > 2024 December 23 Monday 00:07 → 2024 December 25 Wednesday 22:49
