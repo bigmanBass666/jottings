@@ -5,7 +5,7 @@ import { generateSidebar } from 'vitepress-sidebar'
 const globalOptions = {
   documentRootPath: 'src',
   collapsed: true,
-  collapseDepth: 2,
+  collapseDepth: 1,
   underscoreToSpace: true,
 
   // 显示 index.md

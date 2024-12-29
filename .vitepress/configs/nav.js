@@ -51,6 +51,7 @@ export const nav = [
       {
         items: [
           { text: 'Wing', link: '/lyrics/wing/i_want_it' },
+          { text: 'Osis', link: '/lyrics/osis/cash' },
         ]
       }
     ]
@@ -62,9 +63,9 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '前言', link: '/Fashion/1.intro' },
-          { text: '衣服', link: '/Fashion/1.Clothes/1.intro' },
-          { text: '裤子', link: '/Fashion/2.Pants/1.intro' },
+          { text: '前言', link: '/Fashion/intro' },
+          { text: '衣服', link: '/Fashion/Clothes/1.intro' },
+          { text: '裤子', link: '/Fashion/Pants/1.intro' },
           { text: '鞋子', link: '/Fashion/Shoes' },
           { text: '总结', link: '/Fashion/Summary' },
         ]

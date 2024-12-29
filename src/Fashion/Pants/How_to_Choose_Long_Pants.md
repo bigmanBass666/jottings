@@ -36,7 +36,7 @@ $$脚踝裤长=身高 \times 0.55$$
 
 脚踝裤长 + 15cm
 
-### ⭐计算结果
+### ⭐计算结果 {id=result}
 
 - 到脚踝: 90.2cm
 - ⭐**到鞋面(最显腿长): 95.2cm**⭐
@@ -59,7 +59,7 @@ $$脚踝裤长=身高 \times 0.55$$
 
 ![腿围大于15cm.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/腿围大于15cm_e08fa9d65473a.png)
 
-## 推荐🎉
+## 推荐🎉 {id=recommendation}
 
 ### [弯刀牛仔裤](https://item.taobao.com/item.htm?ak=27696150&ali_trackid=2%3Amm_2300980027_2816900356_114689550381%3A1734616763425_560361492_0&bxsign=tbke8lKQiD6PXloovamRA4cnDE8j08U0-AKFZPfovSkn0u7kNGLd-4O69JRWMV31AwJTtkWMzxSl7uZ-58C0BbU0VeARADxm-jjVqbaPUthuCvnSw5awWqcXBLoJ8mfZjPP6WoAQ6NAJEWJQ2GfmEJAyDZf32Prwr1_-Jdw9oRQZmgq4qTicqbP99_ftRxu3KK3&id=722569101464&tkSid=1734616763425_560361492_0.0&union_lens=lensId%3ATAPI%401700579165%40212c1aa5_0f5f_18bf26ac3d7_b007%4001%3Brecoveryid%3A560361492_0%401734616763425)
 
