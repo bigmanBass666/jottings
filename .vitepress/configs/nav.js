@@ -66,8 +66,8 @@ export const nav = [
           { text: '前言', link: '/Fashion/intro' },
           { text: '衣服', link: '/Fashion/Clothes/1.intro' },
           { text: '裤子', link: '/Fashion/Pants/1.intro' },
-          { text: '鞋子', link: '/Fashion/Shoes' },
-          { text: '总结', link: '/Fashion/Summary' },
+          { text: '鞋子', link: '/Fashion/shoes/intro' },
+          { text: '总结', link: '/Fashion/cart' },
         ]
       }
     ]

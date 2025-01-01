@@ -1,6 +1,8 @@
 /* .vitepress/theme/style/link-icon.css */
 /* 在链接前显示平台icon */
 
+/* 1688 */
+.vp-doc a[href^="https://detail.1688.com/"]:before,
 /* 知网 */
 .vp-doc a[href^="https://kns.cnki.net/"]:before,
 /* 微信 */
@@ -73,4 +75,10 @@
 .vp-doc a[href^="https://kns.cnki.net/"]:before
 {
   background-image: url(/svg/zhiwang.svg);
+}
+
+/* 1688 */
+.vp-doc a[href^="https://detail.1688.com/"]:before
+{
+  background-image: url(/svg/1688.svg);
 }
