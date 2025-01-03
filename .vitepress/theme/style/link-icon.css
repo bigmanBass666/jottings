@@ -1,6 +1,9 @@
 /* .vitepress/theme/style/link-icon.css */
 /* 在链接前显示平台icon */
 
+/* youtube */
+.vp-doc a[href^="https://www.youtube.com/"]:before,
+.vp-doc a[href^="https://youtu.be"]:before,
 /* 1688 */
 .vp-doc a[href^="https://detail.1688.com/"]:before,
 /* 知网 */
@@ -81,4 +84,11 @@
 .vp-doc a[href^="https://detail.1688.com/"]:before
 {
   background-image: url(/svg/1688.svg);
+}
+
+/* youtube */
+.vp-doc a[href^="https://www.youtube.com/"]:before,
+.vp-doc a[href^="https://youtu.be"]:before
+{
+  background-image: url(/svg/youtube.svg);
 }
