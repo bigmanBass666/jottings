@@ -27,6 +27,15 @@ fileTitle: zzz.个人数据
 
 ### 衣
 
+#### 四件黑/白长袖T恤
+
+::: details 尺码表
+![1736063329592.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736063329592_9770f8d14a084.jpg)
+:::
+
+- 71cm的衣长略长
+- 56cm的袖长略长, 主要还是袖长
+
 #### [紫MA-1夹克](https://detail.1688.com/offer/766283085578.html?spm=a360q.8274423.0.0.37424c9aWFlD6W)
 
 ::: details 商品图
@@ -83,7 +92,7 @@ fileTitle: zzz.个人数据
   > - 58cm的大腿围只比自身大腿围大了1cm
   > - 臀围大了8.5cm, 还好
 
-- 还有裤长也有些太长了 | [上身效果 Todo](#)
+- 还有裤长好像似乎有一点点长了 | [上身效果](https://imgur.la/images/2025/01/05/903e71f565a55566fbffdb5ae3e5d867.webm)
   > 100.2cm浅堆叠 < 103cm的裤长 < 105.2cm强堆叠
 
 总结: 问题出在 **裤长**, **大腿围**, **臀围**
