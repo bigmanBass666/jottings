@@ -1,6 +1,9 @@
 /* .vitepress/theme/style/link-icon.css */
 /* 在链接前显示平台icon */
 
+
+/* 拼多多 */
+.vp-doc a[href^="https://mobile.yangkeduo.com/"]:before,
 /* youtube */
 .vp-doc a[href^="https://www.youtube.com/"]:before,
 .vp-doc a[href^="https://youtu.be"]:before,
@@ -84,6 +87,12 @@
 .vp-doc a[href^="https://detail.1688.com/"]:before
 {
   background-image: url(/svg/1688.svg);
+}
+
+/* 拼多多 */
+.vp-doc a[href^="https://mobile.yangkeduo.com/"]:before
+{
+  background-image: url(/svg/pdd.svg);
 }
 
 /* youtube */

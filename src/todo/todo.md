@@ -9,8 +9,6 @@
 # Todo
 
 - ✅ ~~穿搭~~
-  - ✅ ~~summary~~
-  - ✅ ~~...~~
   > → 2025 January 4 Saturday 13:46
 
 - ❌ ~~Iconify [VitePress 不完全优化指南|纸鹿摸鱼处](https://blog.zhilu.cyou/2024/vitepress-enhancement#优化样式)~~

@@ -8,7 +8,7 @@ export const nav = [
       {
         items: [
           { text: '博主', link: '/Philosophy_Literature_SocialSciences/1.Blogger/jack' },
-          { text: '读书笔记', link: '/Philosophy_Literature_SocialSciences/2.Reading_Notes/Crazy_Reading_Micro_Reading_Writing_Lessons' },
+          { text: '读书笔记', link: '/Philosophy_Literature_SocialSciences/2.Reading_Notes/Writing_Lessons' },
           { text: '积累本', link: '/Philosophy_Literature_SocialSciences/3.Accumulation/Undecided' },
           { text: '箴言', link: '/Philosophy_Literature_SocialSciences/4.Aphorisms/1.intro' },
           { text: '其他', link: '/Philosophy_Literature_SocialSciences/5.Others/The_Porridge_Problem' },
