@@ -12,12 +12,6 @@ fileTitle: 6.工厂
 
 老爹鞋挺不错的, 其他运动鞋也有
 
-### [瑞安市超萌鞋业有限公司](https://sale.1688.com/factory/card.html?memberId=b2b-22124855740585c505)
-
-> 男式板鞋 男式运动单鞋 男式马丁靴
-
-店里没有超过30的鞋, 须谨慎
-
 ## 综合
 
 - [换个平台买，几十买几百！1688平价男装工厂推荐！](https://www.bilibili.com/video/BV1QZ42157W1/?share_source=copy_web&vd_source=dbdac2a7096f7d2656e413a441bd7afe&t=196)
