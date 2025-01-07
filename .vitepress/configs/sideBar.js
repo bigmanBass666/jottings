@@ -57,8 +57,8 @@ const sideBars = [
     resolvePath: '/Natural_Sciences/',
   },
   {
-    scanStartPath: 'lyrics',
-    resolvePath: '/lyrics/',
+    scanStartPath: 'beatbox',
+    resolvePath: '/beatbox/',
   },
   {
     scanStartPath: 'Fashion',

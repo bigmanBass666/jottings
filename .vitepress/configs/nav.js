@@ -44,14 +44,15 @@ export const nav = [
     ]
   },
 
-  // lyrics
+  // beatbox
   {
-    text: 'lyrics',
+    text: 'beatbox',
     items: [
       {
         items: [
-          { text: 'Wing', link: '/lyrics/wing/i_want_it' },
-          { text: 'Osis', link: '/lyrics/osis/cash' },
+          { text: 'Wing', link: '/beatbox/wing/i_want_it' },
+          { text: 'Osis', link: '/beatbox/osis/cash' },
+          { text: 'Improver', link: '/beatbox/improver/The_Business' },
         ]
       }
     ]
