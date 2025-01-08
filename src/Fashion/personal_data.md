@@ -76,6 +76,19 @@ fileTitle: zzz.个人数据
 
 ### 裤
 
+#### [直筒 原色牛仔](https://detail.1688.com/offer/623840204468.html)
+
+  ::: details 商品图
+  ![直筒-原色牛仔.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/直筒-原色牛仔_f4c9d16a8810b.png)
+  :::
+  
+  ::: details 尺码表
+  ![1736081701755.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736081701755_673b106e03549.png)
+  :::
+
+- 可以再买小一码
+  > 101cm的裤长略长了
+
 #### [微喇牛仔裤](https://detail.1688.com/offer/606744934792.html?spm=a360q.8274423.0.0.61344c9a9W1Myd)
 
 ::: details 商品图
