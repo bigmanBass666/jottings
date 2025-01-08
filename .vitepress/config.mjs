@@ -52,7 +52,7 @@ export default defineConfig({
     },
 
     //返回顶部文字修改
-    // returnToTopLabel: 'Return to top ↑',
+    returnToTopLabel: '飞上去',
 
     // 编辑链接
     editLink: {
