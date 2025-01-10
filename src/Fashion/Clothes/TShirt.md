@@ -11,3 +11,16 @@ fileTitle: 2.T恤
 ## 版型
 
 ![640.webp](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_722182eeaaeff.webp)
+
+### @Kk今天穿什么
+
+[一米六小个子男生如何通过穿搭逆袭](https://www.bilibili.com/video/BV11p421Q7PG/?spm_id_from=333.1387.upload.video_card.click&vd_source=942ec2795cc080ceaf2fd0b1df0ff190)
+
+- 肩宽
+  - 正肩版型加1～3cm
+  - 微落肩版型加6～10cm
+  - oversize落肩加10cm
+
+- 胸围
+  - 不选少于自身胸围加10cm的
+  - 加15cm～20cm是比较合适的尺寸

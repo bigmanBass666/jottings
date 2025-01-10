@@ -123,9 +123,16 @@ fileTitle: zzz.个人数据
 
 [裤长效果视频](https://imgur.la/images/2025/01/05/f2353ac2befa84770eec3095b67f6dfe.mp4)
 
+- **脚口太窄了**
 - 屁股周围很臃肿
 - 92cm的裤长不够
 - 难看, 丑
+
+#### 灰色冰丝长裤
+
+::: details 尺码表
+![灰色冰丝长裤](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/IMG_20250111_002339_05bf203bb23ef.png)
+:::
 
 ### 鞋
 
