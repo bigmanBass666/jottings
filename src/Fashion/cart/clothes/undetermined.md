@@ -1,34 +1,28 @@
----
-fileTitle: zz.购物车
----
+# 衣
 
-# 购物车
-
-## 衣
-
-### T恤
+## T恤
 
 - [山水印花T恤](https://s.click.taobao.com/AJNxtot)
 
   ![山水印花T恤.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/山水印花T恤_48a8e76242b66.png)
 
-### 毛衣
+## 毛衣
 
 - [亨利针织衫](https://s.click.taobao.com/CYNNW9t)
 
   ![640.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_164a19903114a.png)
 
-### 卫衣
+## 卫衣
 
 - [显高 短宽 Boxy](Clothes/sweatshirt.md#显高-短宽-boxy)
 
-### 衬衫
+## 衬衫
 
 - [格子衬衫](https://s.click.taobao.com/5n0T0Et)
 
   ![640.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_a8b3aad2a48f4.png)
 
-### 夹克
+## 夹克
 
 - [紫 MA-1 夹克](https://s.click.taobao.com/NTFmDPt)
 
@@ -42,7 +36,7 @@ fileTitle: zz.购物车
 
   ![cleanfit伐木撞钉夹克.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/cleanfit伐木撞钉夹克_1de298020a791.png)
 
-### 羽绒
+## 羽绒
 
 - [SOCKKEY](https://item.taobao.com/item.htm?id=749879628170&tkSid=1735307050708_557676847_0.0&ali_trackid=2:mm_2300980027_2816900356_115806650087:1735307050708_557676847_0&union_lens=lensId:TAPI@1729600160@2107fa6d_0f30_192b43403a1_bdd3@01;recoveryid:557676847_0@1735307050708&ak=27696150&bxsign=tbkVXCzx5szNMorM4tiDAt5UKNe8SRyB9coXD005oik2bN8E17-jKWBPa95BuPF5ET06uz8z26ga5qMbPG3CamPTaINewD1GRnwEmpFYc3Ozs_dhPzmleunUNtOOyO8O-ksuIYGzG4R7sn5LeM1CEhroVgcxg8nl6e6Ct_9oaXu2Bae1kGywrih8xuo7rzaNkeS)
 
@@ -61,33 +55,3 @@ fileTitle: zz.购物车
   ![f5b35a42d28e2e2a0afdc102d1a701b.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/f5b35a42d28e2e2a0afdc102d1a701b_f084ae9babab9.png)
 
   ![640.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_e5d749d8f0e8e.png)
-
-## 裤
-
-### 长裤
-
-- [最显高 直筒](Pants/Taller_Appearing_Long_Pants.md#最显高)
-
-- [烟灰牛仔裤](Pants/Taller_Appearing_Long_Pants.md#牛仔裤)
-
-- [弯刀牛仔裤](Pants/How_to_Choose_Long_Pants.md#弯刀牛仔裤)
-
-- [水洗做旧牛仔裤](https://s.click.taobao.com/AAg1fUt)
-
-  ![640.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_5a562557a0f75.png)
-
-### 短裤
-
-...
-
-## 鞋
-
-- [马丁靴](shoes/source_Style.md#马丁靴)
-
-- [黑色小碎冰](https://s.click.taobao.com/swnDqnt)
-
-  ![黑色小碎冰.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/黑色小碎冰_b70ee013fb219.png)
-  
-- [哑光德比鞋](https://s.click.taobao.com/ShIDIZt)
-
-  ![德比鞋.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/德比鞋_61135e4a79030.png)

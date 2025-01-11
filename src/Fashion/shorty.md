@@ -29,7 +29,7 @@ fileTitle: 9.矮个
 
 ### 低脚背
 
-::: details 低脚背
+::: details 但是他右边那只脚有些伸出来了
 ![低脚背.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/低脚背_56ddbd37e6b40.png)
 :::
 
