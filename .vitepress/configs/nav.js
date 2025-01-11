@@ -64,7 +64,7 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '衣', link: '/Fashion/Clothes/intro' },
+          { text: '衣', link: '/Fashion/Clothes/TShirt' },
           { text: '裤', link: '/Fashion/Pants/intro' },
           { text: '鞋', link: '/Fashion/shoes/intro' },
         ]
