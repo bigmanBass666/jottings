@@ -14,7 +14,7 @@
 
 ## 卫衣
 
-- [显高 短宽 Boxy](Clothes/sweatshirt.md#显高-短宽-boxy)
+- [显高 短宽 Boxy](../../Clothes/sweatshirt.md#显高-短宽-boxy)
 
 ## 衬衫
 

@@ -1,6 +1,6 @@
 # 鞋
 
-- [马丁靴](shoes/source_Style.md#马丁靴)
+- [马丁靴](../../shoes/source_Style.md#马丁靴)
 
 - [黑色小碎冰](https://s.click.taobao.com/swnDqnt)
 
