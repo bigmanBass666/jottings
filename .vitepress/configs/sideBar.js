@@ -44,8 +44,8 @@ const globalOptions = {
 const sideBars = [
   // 自动生成sidebar https://vitepress-sidebar.cdget.com/zhHans/guide/options#scanstartpath
   {
-    scanStartPath: 'Philosophy_Literature_SocialSciences',
-    resolvePath: '/Philosophy_Literature_SocialSciences/',
+    scanStartPath: 'Philosophy',
+    resolvePath: '/Philosophy/',
     excludePattern: ['Bucket List.md'],
   },
   {

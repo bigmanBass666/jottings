@@ -10,7 +10,7 @@ export default defineConfig({
   cleanUrls: true,
   srcDir: './src',
 
-  srcExclude: ['Philosophy_Literature_SocialSciences/Bucket List.md'],
+  srcExclude: ['Philosophy/Bucket List.md'],
 
 
   themeConfig: {
