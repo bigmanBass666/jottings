@@ -3,30 +3,26 @@
 
 
 /* 拼多多 */
-.vp-doc a[href^="https://mobile.yangkeduo.com/"]:before,
+.vp-doc a[href*="https://mobile.yangkeduo.com/"]:before,
 /* youtube */
-.vp-doc a[href^="https://www.youtube.com/"]:before,
-.vp-doc a[href^="https://youtu.be"]:before,
+.vp-doc a[href*="youtube.com"]:before,
+.vp-doc a[href*="youtu.be"]:before,
 /* 1688 */
-.vp-doc a[href^="https://detail.1688.com/"]:before,
-.vp-doc a[href^="https://sale.1688.com/"]:before,
+.vp-doc a[href*="1688.com"]:before,
 /* 知网 */
-.vp-doc a[href^="https://kns.cnki.net/"]:before,
+.vp-doc a[href*="https://kns.cnki.net/"]:before,
 /* 微信 */
-.vp-doc a[href^="https://mp.weixin.qq.com/"]:before,
+.vp-doc a[href*="https://mp.weixin.qq.com/"]:before,
 /* 抖音 */
-.vp-doc a[href^="https://www.douyin.com/"]:before,
+.vp-doc a[href*="douyin.com"]:before,
 /* 知乎 */
-.vp-doc a[href^="https://www.zhihu.com/"]:before,
-.vp-doc a[href^="https://zhuanlan.zhihu.com/"]:before,
+.vp-doc a[href*="zhihu.com"]:before,
 /* 天猫 */
-.vp-doc a[href^="https://detail.tmall.com/"]:before,
+.vp-doc a[href*="tmall.com"]:before,
 /* 哔哩哔哩 */
-.vp-doc a[href^="https://space.bilibili.com/"]:before,
-.vp-doc a[href^="https://www.bilibili.com/"]:before,
+.vp-doc a[href*="bilibili.com"]:before,
 /* 淘宝 */
-.vp-doc a[href^="https://s.click.taobao.com/"]:before,
-.vp-doc a[href^="https://item.taobao.com/"]:before
+.vp-doc a[href*="taobao.com"]:before
 {
   content: '';
   width: 20px;
@@ -40,66 +36,62 @@
 }
 
 /* 哔哩哔哩 */
-.vp-doc a[href^="https://space.bilibili.com/"]:before,
-.vp-doc a[href^="https://www.bilibili.com/"]:before
+.vp-doc a[href*="bilibili.com"]:before
 {
   background-image: url(/svg/bilibili.svg);
 }
 
 /* 淘宝 */
-.vp-doc a[href^="https://s.click.taobao.com/"]:before,
-.vp-doc a[href^="https://item.taobao.com/"]:before
+.vp-doc a[href*="taobao.com"]:before
 {
   background-image: url(/svg/taobao.svg);
 }
 
 /* 天猫 */
-.vp-doc a[href^="https://detail.tmall.com/"]:before
+.vp-doc a[href*="tmall.com"]:before
 {
   background-image: url(/svg/tianmao.svg);
 }
 
 /* 知乎 */
-.vp-doc a[href^="https://www.zhihu.com/"]:before,
-.vp-doc a[href^="https://zhuanlan.zhihu.com/"]:before
+.vp-doc a[href*="zhihu.com"]:before
 {
   background-image: url(/svg/zhihu.svg);
 }
 
 /* 抖音 */
-.vp-doc a[href^="https://www.douyin.com/"]:before
+.vp-doc a[href*="douyin.com"]:before
 {
   background-image: url(/svg/douyin.svg);
 }
 
 /* 微信 */
-.vp-doc a[href^="https://mp.weixin.qq.com/"]:before
+.vp-doc a[href*="https://mp.weixin.qq.com/"]:before
 {
   background-image: url(/svg/weixin.svg);
 }
 
 /* 知网 */
-.vp-doc a[href^="https://kns.cnki.net/"]:before
+.vp-doc a[href*="https://kns.cnki.net/"]:before
 {
   background-image: url(/svg/zhiwang.svg);
 }
 
 /* 1688 */
-.vp-doc a[href^="https://sale.1688.com/"]:before,
-.vp-doc a[href^="https://detail.1688.com/"]:before
+.vp-doc a[href*="1688.com"]:before
 {
   background-image: url(/svg/1688.svg);
 }
 
 /* 拼多多 */
-.vp-doc a[href^="https://mobile.yangkeduo.com/"]:before
+.vp-doc a[href*="https://mobile.yangkeduo.com/"]:before
 {
   background-image: url(/svg/pdd.svg);
 }
 
 /* youtube */
-.vp-doc a[href^="https://www.youtube.com/"]:before,
-.vp-doc a[href^="https://youtu.be"]:before
+.vp-doc a[href*="youtube.com"]:before,
+.vp-doc a[href*="youtu.be"]:before
 {
   background-image: url(/svg/youtube.svg);
 }

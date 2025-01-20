@@ -3,15 +3,18 @@
     "adipiscing",
     "amet",
     "beatbox",
+    "bilibili",
     "consectetur",
+    "douyin",
     "elit",
     "gitee",
     "minisearch",
     "taobao",
-    "vitepress"
+    "tianmao",
+    "tmall",
+    "vitepress",
+    "weixin",
+    "youtu",
+    "zhiwang"
   ],
-  "workbench.colorCustomizations": {
-    "editorCursor.background": "#528bff"
-  },
-  "Codegeex.RepoIndex": true
 }

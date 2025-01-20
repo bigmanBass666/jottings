@@ -1,4 +1,4 @@
-// 导航栏
+// 导航栏 https://vitepress.dev/zh/reference/default-theme-nav
 
 export const nav = [
   // 哲思 文学 社科
@@ -61,14 +61,15 @@ export const nav = [
   // 穿搭
   {
     text: '穿搭',
-    items: [
-      {
-        items: [
-          { text: '衣', link: '/Fashion/Clothes/TShirt' },
-          { text: '裤', link: '/Fashion/Pants/intro' },
-          { text: '鞋', link: '/Fashion/shoes/intro' },
-        ]
-      }
-    ]
+    link: '/Fashion/fabric'
+    // items: [
+    //   {
+    //     items: [
+    //       { text: '衣', link: '/Fashion/Clothes/TShirt' },
+    //       { text: '裤', link: '/Fashion/Pants/intro' },
+    //       { text: '鞋', link: '/Fashion/shoes/intro' },
+    //     ]
+    //   }
+    // ]
   },
 ]

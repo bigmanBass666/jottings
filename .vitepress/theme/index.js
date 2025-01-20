@@ -1,6 +1,6 @@
 // https://vitepress.dev/zh/guide/custom-theme
-// import { h } from 'vue'
 import DefaultTheme from 'vitepress/theme'
+
 // 深浅外观的圆圈过渡
 import MyLayout from './components/MyLayout.vue'
 
@@ -13,17 +13,10 @@ import './style.css'
 // custom css style
 import './style/index.css'
 
-
 /** @type {import('vitepress').Theme} */
 export default {
   extends: DefaultTheme,
   Layout: MyLayout,
-  // Layout: () => {
-  //   return h(DefaultTheme.Layout, null, {
-  //     // https://vitepress.dev/guide/extending-default-theme#layout-slots
-  //   })
-  // },
-
 
   // 图片缩放
   setup() {
@@ -41,8 +34,6 @@ export default {
     )
   },
 
-
-  enhanceApp({ app, router, siteData }) {
-    // ...
-  }
+  // enhanceApp({ app, router, siteData }) {
+  // }
 }
