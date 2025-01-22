@@ -4,7 +4,7 @@ fileTitle: 2.裤
 
 # 裤
 
-## [直筒 加绒卫裤](https://detail.1688.com/offer/860326994515.html)
+## [微阔 加绒卫裤](https://detail.1688.com/offer/860326994515.html)
 
 > 浙江良汭服饰有限公司
 
@@ -16,8 +16,13 @@ fileTitle: 2.裤
 ![1737380958210.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1737380958210_a4bdf9fbf1b95.png)
 :::
 
+- 大腿和臀部有些紧了
+  > 臀围98cm, 大腿围(手工测量)58cm
+- 裤腰也有点紧
+- 裤长可以在长一些
+- ~~我觉得可能要换成M码的,~~ 要换成L码的
+- 不是高腰, 记住
 - 710g
-- 我觉得可能要换成M码的, 注意腿围
 
 ## [直筒 加绒卫裤 无绳 无扣](https://detail.1688.com/offer/743600890153.html)
 
