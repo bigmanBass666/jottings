@@ -24,6 +24,15 @@ fileTitle: 2.裤
 - 不是高腰, 记住
 - 710g
 
+### size L
+
+- 完美~
+- 宽松, 阔腿板型
+
+| 尺码 | 前裆 |
+| :--: | :--: |
+|  L   |  33  |
+
 ## [直筒 加绒卫裤 无绳 无扣](https://detail.1688.com/offer/743600890153.html)
 
 > 浙江良汭服饰有限公司
@@ -62,6 +71,11 @@ fileTitle: 2.裤
 
 ::: details 尺码表
 ![1736081701755.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736081701755_673b106e03549.png)
+
+| 尺码 | 前裆 |
+| :--: | :--: |
+|  M   |  31  |
+
 :::
 
 - 可以再买小一码
@@ -84,6 +98,11 @@ fileTitle: 2.裤
 
 ::: details 尺码表
 ![1736009693102.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736009693102_1d6b88ffcb2f6.png)
+
+| 尺码 | 前裆 |
+| :--: | :--: |
+|  S   |  28.5  |
+
 :::
 
 真的是特别好看的一条裤子, 但是
@@ -106,8 +125,6 @@ fileTitle: 2.裤
 ::: details 尺码表
 ![87bc9e1c75c7805b0e5044184a92c6b.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/87bc9e1c75c7805b0e5044184a92c6b_f873dd2f636d1.png)
 :::
-
-[裤长效果视频](https://imgur.la/images/2025/01/05/f2353ac2befa84770eec3095b67f6dfe.mp4)
 
 - **脚口太窄了**
 - 屁股周围很臃肿
