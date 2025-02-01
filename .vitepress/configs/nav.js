@@ -7,7 +7,7 @@ export const nav = [
     items: [
       {
         items: [
-          { text: '博主', link: '/Philosophy/1.Blogger/jack' },
+          { text: '博主', link: '/Philosophy/1.Blogger/jack/reading_order' },
           { text: '读书笔记', link: '/Philosophy/2.Reading_Notes/Writing_Lessons' },
           { text: '积累本', link: '/Philosophy/3.Accumulation/Undecided' },
           { text: '箴言', link: '/Philosophy/4.Aphorisms/1.intro' },
