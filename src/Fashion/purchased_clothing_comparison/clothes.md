@@ -13,7 +13,7 @@ fileTitle: 1.衣
 - 71cm的衣长略长
 - 56cm的袖长略长, 主要还是袖长
 
-## 黑色毛衣
+## 古老黑色毛衣
 
 ::: details 平铺图
 ![黑色毛衣](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/IMG_20250122_231619_a0c2ee619b4f9.jpg)
@@ -27,6 +27,14 @@ fileTitle: 1.衣
 
 - 穿上是修身款式
 - 衣服可以堆在腰间, 所以衣长看起来会比较短
+
+## 黑与白中领毛衣
+
+::: details 尺码表
+![O1CN01rbzP7k1PJbp6Vj6J0_!!3007911820-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01rbzP7k1PJbp6Vj6J0_!!3007911820-0-cib_5d5faaf942464.jpg)
+:::
+
+- 修身, 比古老黑毛衣稍大一丝丝
 
 ## 灰色卫衣
 
