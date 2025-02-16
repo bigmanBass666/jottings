@@ -13,7 +13,7 @@ fileTitle: 2.裤
 :::
 
 ::: details 尺码表
-![1737380958210.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1737380958210_a4bdf9fbf1b95.png)
+![1739697537032.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1739697537032_7bda0c55bca38.png)
 :::
 
 - 大腿和臀部有些紧了
