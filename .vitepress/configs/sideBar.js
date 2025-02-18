@@ -46,7 +46,6 @@ const sideBars = [
   {
     scanStartPath: 'Philosophy',
     resolvePath: '/Philosophy/',
-    excludePattern: ['Bucket List.md'],
   },
   {
     scanStartPath: 'Skin_Care',

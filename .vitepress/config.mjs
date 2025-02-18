@@ -10,8 +10,6 @@ export default defineConfig({
   cleanUrls: true,
   srcDir: './src',
 
-  srcExclude: ['Philosophy/Bucket List.md'],
-
 
   themeConfig: {
     // 左上角品牌
