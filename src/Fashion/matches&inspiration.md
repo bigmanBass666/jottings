@@ -6,6 +6,10 @@ fileTitle: 7.搭配&灵感
 
 ⭐[男生需要哪些穿搭基本单品?](https://mp.weixin.qq.com/s/RiLbmuSmMRw8sJd19ecKWA)⭐
 
+::: details 黄背心+黄黑鬼塚虎
+![1739951494536.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1739951494536_e06370859863b.png)
+:::
+
 ::: details 短款羽绒服
 ![640.webp](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/640_da9a29c4337c9.webp)
 :::

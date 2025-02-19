@@ -6,6 +6,26 @@ fileTitle: 1.衣
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
+## [240g落肩黑T](https://detail.1688.com/offer/696384861945.html)
+
+> 广州惠本服饰有限公司
+
+::: details 尺码表
+![1739942138894.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1739942138894_4ed8f6d56075f.png)
+:::
+
+::: details 平铺图
+![O1CN01ElLQL11whJSvVAaxG_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01ElLQL11whJSvVAaxG_!!2213972956339-0-cib_86fa8f80c8296.jpg)
+![O1CN012xvxse1whJTFeVMbU_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN012xvxse1whJTFeVMbU_!!2213972956339-0-cib_5fd8c42352a59.jpg)
+:::
+
+::: details 上身效果
+![上身效果](https://img.alicdn.com/imgextra/i2/O1CN01JRVxIb22CzA142eXn_!!4611686018427382461-0-rate.jpg)
+:::
+
+- 袖子略长
+- 面料挺阔
+
 ## 古早黑白双T
 
 测的是黑T
@@ -21,7 +41,7 @@ fileTitle: 1.衣
 - 有些显胸
 - **落肩**款式, 袖子距离手肘还有一个大拇指距离
 
-## 四件黑/白长袖T恤
+## 四件黑/白长T
 
 ::: details 尺码表
 ![1736063329592.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736063329592_9770f8d14a084.jpg)
@@ -29,6 +49,7 @@ fileTitle: 1.衣
 
 - 71cm的衣长略长
 - 56cm的袖长略长, 主要还是袖长
+- 230g
 
 ## 古老黑色毛衣
 
