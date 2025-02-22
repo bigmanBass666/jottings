@@ -6,6 +6,32 @@ fileTitle: 1.衣
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
+## [230g正肩黑T](https://detail.1688.com/offer/696384861945.html)
+
+> 广州惠本服饰有限公司
+
+::: details 尺码表
+![1740232630980.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1740232630980_b3088170eeaba.png)
+:::
+
+::: details 平铺图
+![O1CN01mfl7QY1whJSv3sflj_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01mfl7QY1whJSv3sflj_!!2213972956339-0-cib_abeadb828c937.jpg)
+![O1CN01NOMF7S1whJfod6bVb_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01NOMF7S1whJfod6bVb_!!2213972956339-0-cib_44ddca300649f.jpg)
+:::
+
+::: details 上身效果
+![70998013bdcf4ef27486e6352ccb7ca.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/70998013bdcf4ef27486e6352ccb7ca_f814b9bd179d4.jpg)
+:::
+
+### S
+
+- 精神小伙
+- 有点显肌肉了
+  > 袖子显二头, 胸围有点小显胸, 肩宽有些窄显肩窄
+- 总结: 修身
+
+### M
+
 ## [240g落肩黑T](https://detail.1688.com/offer/696384861945.html)
 
 > 广州惠本服饰有限公司

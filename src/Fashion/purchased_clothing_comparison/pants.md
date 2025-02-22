@@ -4,6 +4,31 @@ fileTitle: 2.裤
 
 # 裤
 
+## [春夏阔腿裤](https://detail.1688.com/offer/885667192883.html)
+
+::: details 平铺图
+![O1CN01VHpZ8O1C84tVw6vte_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01VHpZ8O1C84tVw6vte_!!2316160035-0-cib_908b0939edcbd.jpg)
+:::
+
+::: details 尺码表
+![1740230994094.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1740230994094_bc16b6729a735.png)
+:::
+
+::: details 上身效果
+![春夏阔腿裤.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/春夏阔腿裤_23119204731ac.png)
+:::
+
+常规, 不是加长尺寸
+
+### M
+
+### L
+
+- 100cm裤长有些过长了
+  > 因为脚口比较大(`60.5cm`), 所以裤子不会堆在鞋子那里, 会直接垂下去
+- 100cm臀围比较显辟谷
+- 裆稍微比[微阔 加绒卫裤](#微阔-加绒卫裤)的`33cm`短一点
+
 ## [微阔 加绒卫裤](https://detail.1688.com/offer/860326994515.html)
 
 > 浙江良汭服饰有限公司
@@ -16,17 +41,21 @@ fileTitle: 2.裤
 ![1739697537032.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1739697537032_7bda0c55bca38.png)
 :::
 
+- 710g
+
+### S
+
 - 大腿和臀部有些紧了
   > 臀围98cm, 大腿围(手工测量)58cm
 - 裤腰也有点紧
 - 裤长可以在长一些
 - ~~我觉得可能要换成M码的,~~ 要换成L码的
-- 710g
 
-### size L
+### L {id=微阔-加绒卫裤L}
 
 - 完美~
 - 宽松, 阔腿板型
+- 脚口有稍微的收小
 
 | 尺码 | 前裆 |
 | :--: | :--: |
