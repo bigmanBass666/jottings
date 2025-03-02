@@ -6,6 +6,20 @@ fileTitle: 1.衣
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
+## 很紧深蓝背心
+
+::: details 平铺图
+![IMG_20250302_221303.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/03/IMG_20250302_221303_73b8dba8cfd89.jpg)
+:::
+
+| 衣长 | 胸围 | 肩宽 |
+| :--: | :--: | :--: |
+|  56  |  78  |  27  |
+
+- 擦边必备
+- 紧
+  > `78cm`的胸围
+
 ## [230g正肩黑T](https://detail.1688.com/offer/696384861945.html)
 
 > 广州惠本服饰有限公司
