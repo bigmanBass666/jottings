@@ -1,8 +1,8 @@
 ---
-fileTitle: 2.裤
+fileTitle: 2.长裤
 ---
 
-# 裤
+# 长裤
 
 ## [春夏阔腿裤](https://detail.1688.com/offer/885667192883.html)
 

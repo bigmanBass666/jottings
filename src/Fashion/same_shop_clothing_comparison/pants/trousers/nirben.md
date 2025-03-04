@@ -4,7 +4,7 @@ fileTitle: 1.广州市尼本服饰有限公司
 
 # [广州市尼本服饰有限公司](https://nirben.1688.com/)
 
-之前买的那条[微喇牛仔裤](../../../purchased_clothing_comparison/pants.md#微喇牛仔裤)太长了, 大腿周围太紧了
+之前买的那条[微喇牛仔裤](../../../purchased_clothing_comparison/pants/trousers.md#微喇牛仔裤)太长了, 大腿周围太紧了
 
 ## 裤长98
 
@@ -27,7 +27,7 @@ fileTitle: 1.广州市尼本服饰有限公司
 
 ### [直筒 原色牛仔 48](https://detail.1688.com/offer/623840204468.html) ⭐ <Badge type="warning" text="已买" />
 
-[已买衣物对照](../../../purchased_clothing_comparison/pants.md#直筒-原色牛仔)
+[已买衣物对照](../../../purchased_clothing_comparison/pants/trousers.md#直筒-原色牛仔)
 
   ::: details 商品图
   ![直筒-原色牛仔.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/直筒-原色牛仔_f4c9d16a8810b.png)

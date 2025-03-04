@@ -10,7 +10,7 @@ fileTitle: 2.浙江良汭服饰有限公司
 
 ## [春夏阔腿裤](https://detail.1688.com/offer/885667192883.html) <Badge type="warning" text="买过" />
 
-[已买衣物对照](../../../purchased_clothing_comparison/pants.md#春夏阔腿裤)
+[已买衣物对照](../../../purchased_clothing_comparison/pants/trousers.md#春夏阔腿裤)
 
 ::: details 平铺图
 ![O1CN01VHpZ8O1C84tVw6vte_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01VHpZ8O1C84tVw6vte_!!2316160035-0-cib_908b0939edcbd.jpg)
@@ -22,7 +22,7 @@ fileTitle: 2.浙江良汭服饰有限公司
 
 ## [微阔 加绒卫裤](https://detail.1688.com/offer/860326994515.html) <Badge type="warning" text="买过" />
 
-[已买衣物对照](../../../purchased_clothing_comparison/pants.md#微阔-加绒卫裤)
+[已买衣物对照](../../../purchased_clothing_comparison/pants/trousers.md#微阔-加绒卫裤)
 
 ::: details 平铺图
 ![O1CN01GDbXRq1C84saEMRjs_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/O1CN01GDbXRq1C84saEMRjs_!!2316160035-0-cib_97b1efa10a078.jpg)
@@ -36,7 +36,7 @@ fileTitle: 2.浙江良汭服饰有限公司
 
 ## [直筒 加绒卫裤 无绳 无扣](https://detail.1688.com/offer/743600890153.html) <Badge type="warning" text="买过" />
 
-[已买衣物对照](../../../purchased_clothing_comparison/pants.md#直筒-加绒卫裤-无绳-无扣)
+[已买衣物对照](../../../purchased_clothing_comparison/pants/trousers.md#直筒-加绒卫裤-无绳-无扣)
 
 ::: details 商品图
 ![O1CN01fiek2e1C84kVOG2vq_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/O1CN01fiek2e1C84kVOG2vq_!!2316160035-0-cib_db3fdeb4c9ac4.jpg)
