@@ -62,14 +62,11 @@ export const nav = [
   {
     text: '穿搭',
     link: '/Fashion/fabric'
-    // items: [
-    //   {
-    //     items: [
-    //       { text: '衣', link: '/Fashion/Clothes/TShirt' },
-    //       { text: '裤', link: '/Fashion/Pants/intro' },
-    //       { text: '鞋', link: '/Fashion/shoes/intro' },
-    //     ]
-    //   }
-    // ]
+  },
+
+  // Tim英语学习
+  {
+    text: 'Tim英语学习',
+    link: '/tim_english_study/p69_adjective'
   },
 ]

@@ -63,6 +63,10 @@ const sideBars = [
     scanStartPath: 'Fashion',
     resolvePath: '/Fashion/',
   },
+  {
+    scanStartPath: 'tim_english_study',
+    resolvePath: '/tim_english_study/',
+  },
 ]
 
 const mergedSideBars = sideBars.map(sidebar => ({
