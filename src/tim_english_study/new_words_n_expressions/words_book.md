@@ -1,3 +1,3 @@
 # 单词
 
-[flocking](../part_of_speech_conversion_technique/class_notes.md)
+[flocking](../WordFormation_Tips/class_notes.md)
