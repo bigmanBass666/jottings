@@ -11,7 +11,7 @@ fileTitle: 1.新题型单词搭配
 1. athletic ✅
 2. badly ✅
 3. behavior ✅
-4. We should never forget that all our associates are human beings and hunger ___ appreciation. ❌
+4. We should never forget that all our **associates** are human beings and hunger ___ appreciation. ❌
 ::: details 答案
 不会写 ❌
 
