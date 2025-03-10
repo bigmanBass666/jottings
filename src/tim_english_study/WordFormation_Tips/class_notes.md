@@ -50,3 +50,27 @@ We drink the tea ___ (happy).
 happily ✅
 
 ## 名词 p40
+
+### 随堂练习
+
+9.This switch has decreased ___ (pollute) in the country's major lakes and **reservoirs** and made drinking water safer for people.
+
+pollution ✅
+
+---
+
+10.Some people think that the great Chinese scholar Confucius, who lived from roughly 551 to 479 B.C., **influenced** the ___ (develop) of chopsticks.
+
+development ✅
+
+---
+
+11.Their ___ (happy) is based on money.
+
+happiness ✅
+
+---
+
+12.The woman did not get promoted because she did not follow her manager's ___ (instruct).
+
+instruction ✅
