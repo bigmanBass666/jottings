@@ -11,7 +11,7 @@ fileTitle: 1.新题型单词搭配
 1. athletic ✅
 2. badly ✅
 3. behavior ✅
-4. We should never forget that all our **associates** are human beings and hunger ___ appreciation. ❌
+4. We should never forget that all our **associates** are human beings and hunger ____ appreciation. ❌
 ::: details 答案
 不会写 ❌
 
@@ -22,7 +22,7 @@ for；搭配hunger for“渴望”。
 ::: details 笔记
 associates: n.同伴; 合作人; 联合公司
 :::
-5. It was becoming more and more difficult to live ___ his salary. ❌
+5. It was becoming more and more difficult to live ____ his salary. ❌
 ::: details 答案
 by ❌
 
@@ -34,7 +34,7 @@ on；搭配live on“靠…生活, 以…为食”。
 
 1. beginning ✅
 2. beneficial ✅
-3. Do you turn to food for comfort, or when you're ___ (bore)? Many people do. ❌
+3. Do you turn to food for comfort, or when you're ____ (bore)? Many people do. ❌
 ::: details 答案
 boring ❌
 
@@ -42,7 +42,7 @@ bored；由句意可知表示“感到无聊的”，故用形容词；注意bor
 翻译：你会通过进食寻求慰藉吗？你会通过进食打发无聊吗？很多人会这么做。
 :::
 4. cautious ✅
-5. I look forward to ___ (see) researchers expand our understanding of the issue so we can translate it into effective education and policy. ❌
+5. I look forward to ____ (see) researchers expand our understanding of the issue so we can translate it into effective education and policy. ❌
 ::: details 答案
 seeing ✅ 蒙对
 
@@ -54,7 +54,7 @@ seeing ✅ 蒙对
 
 [Hi，你还在吗【单词带背47-48】](https://mp.weixin.qq.com/s/lrO1_KaD6l2hWpU9gwTmpw)
 
-1. The weather is very ___ (change) at this time of year. ❌
+1. The weather is very ____ (change) at this time of year. ❌
 ::: details 答案
 ❌
 
@@ -65,7 +65,7 @@ changeable；由句意可知此处表示“很多变”，故用形容词。
 :::
 2. collection ✅
 3. creative ✅
-4. Emotional eating happens when a person is in need ___ comfort. ❌
+4. Emotional eating happens when a person is in need ____ comfort. ❌
 ::: details 答案
 ❌
 
@@ -74,7 +74,7 @@ for；搭配in need of“需要”。
 
 错因: 不知道固定搭配
 :::
-5. I got a place next ___ the window, so I had a good view of the sidewalk. ❌
+5. I got a place next ____ the window, so I had a good view of the sidewalk. ❌
 ::: details 答案
 with ❌
 
@@ -87,7 +87,7 @@ to；搭配next to“紧邻; 仅次于”。
 ## 48 ❌3
 
 1. criminal ✅
-2. War turns morality **inside out**: killing and ___ (cruel) are virtues. ❌
+2. War turns morality **inside out**: killing and ____ (cruel) are virtues. ❌
 ::: details 答案
 ❌
 
@@ -96,7 +96,7 @@ cruelty；由并列连词and前面的动名词killing可知空格处填动名词
 
 错因: 不知道cruelty
 :::
-3. New research is trying to find how we learn and make ___ (decide) exactly. ❌
+3. New research is trying to find how we learn and make ____ (decide) exactly. ❌
 ::: details 答案
 decision ❌
 
@@ -104,7 +104,7 @@ decisions；“做决定”make a/the decision或make decisions，**注意decisi
 
 错因: 复数知识与可数名词知识
 :::
-4. I can't **stand** people who are cruel ___ animals. ❌
+4. I can't **stand** people who are cruel ____ animals. ❌
 ::: details 答案
 ❌
 
@@ -131,7 +131,7 @@ to；搭配be cruel to sb/sth“对...残忍”。
 2. determination ✅
 3. difference ✅
 4. the ✅
-5. In some countries, the governments control the installment plan to ensure that people can pay ___ what they buy. ❌
+5. In some countries, the governments control the installment plan to ensure that people can pay ____ what they buy. ❌
 ::: details 答案
 ❌
 
@@ -148,15 +148,15 @@ for；搭配pay for“支付; 为…承担后果或责任”。
 1. disappointment ✅
 2. disturbing ✅
 3. effective ✅ <br>
-  Every **means** has been tried but it's not so ___ (effect).
-4. A college education is likely to have a **lasting effect** ___ your knowledge and values. ❌
+  Every **means** has been tried but it's not so ____ (effect).
+4. A college education is likely to have a **lasting effect** ____ your knowledge and values. ❌
 ::: details 答案
 to ❌
 
 on；搭配effect on sb./sth.“影响”。
 翻译：大学教育很可能对你的知识和价值观始终产生着影响。
 :::
-5. I felt very excited yesterday because the taxi driver came back to return the money ___ person. I am really grateful. ❌
+5. I felt very excited yesterday because the taxi driver came back to return the money ____ person. I am really grateful. ❌
 ::: details 答案
 for ❌
 
@@ -176,7 +176,7 @@ met ❌
 meeting；搭配enjoy doing“喜欢做某事“。
 翻译：他们通常很友好、开放、喜欢结交新朋友。
 :::
-5. He laughed ___ pleasure when people said he looked like YanZu. ✅
+5. He laughed ____ pleasure when people said he looked like YanZu. ✅
 ::: details 答案
 with ✅
 :::

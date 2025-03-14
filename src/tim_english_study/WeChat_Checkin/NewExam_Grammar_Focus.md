@@ -4,11 +4,11 @@ fileTitle: 2.新题型语法考点
 
 # 新题型语法考点带背
 
-## 47
+## 47 ✅
 
 [来看看不放弃英语的后来怎样了【语法带背47-48】](https://mp.weixin.qq.com/s/fGkfLgvqBFf4O8FT2p7sCQ)
 
-Four is one ___ (three) of a **dozen**. ✅
+Four is one ____ (three) of a **dozen**. ✅
 
 ::: details 答案
 third ✅
