@@ -41,7 +41,7 @@ export default defineConfig({
     // 侧边栏
     sidebar: sideBar,
     //侧边栏文字更改(移动端)
-    // sidebarMenuLabel: '目录',
+    sidebarMenuLabel: '目录',
 
     // 右侧大纲
     outline: {
@@ -51,7 +51,7 @@ export default defineConfig({
     },
 
     //返回顶部文字修改
-    returnToTopLabel: '飞上去',
+    returnToTopLabel: '上去',
 
     // 编辑链接
     editLink: {
