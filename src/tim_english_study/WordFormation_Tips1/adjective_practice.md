@@ -27,7 +27,7 @@ charming ✅
 
 was boring ❌
 
-::: details deepSeek analysis
+::: details deepSeek analysis 🤖
 
 在句子“I found the discussion ______ (bore)”中，正确答案是**boring**，而不是“was boring”。以下是原因分析：
 
@@ -64,7 +64,7 @@ sensitive ✅
 
 所以sensible显然是不行的, 我对sensible的词义掌握不够, 我不知道它有强调理性的意思
 
-::: details deepSeek analysis
+::: details deepSeek analysis 🤖
 
 这道题填**sensitive**而非**sensible**，原因如下：
 

@@ -39,6 +39,9 @@ const globalOptions = {
   removePrefixAfterOrdering: true,
   // ! 从提取的菜单文本中删除指定数量字符（至少一个）的第一部分, 默认为 '.' (须同时开启)
   prefixSeparator: '.',
+
+  // 如果选项值为exclude,则菜单中不会显示内容包含exclude: true的文档。
+  excludeFilesByFrontmatterFieldName: 'exclude'
 }
 
 const sideBars = [
@@ -66,6 +69,7 @@ const sideBars = [
   {
     scanStartPath: 'tim_english_study',
     resolvePath: '/tim_english_study/',
+    excludePattern: ['DeepSeek_Analyses/'],
   },
 ]
 

@@ -1,3 +1,4 @@
+// https://vitepress.dev/zh/guide/getting-started
 import { defineConfig } from 'vitepress'
 
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
@@ -9,7 +10,7 @@ export default defineConfig({
 
   cleanUrls: true,
   srcDir: './src',
-
+  appearance: true,
 
   themeConfig: {
     // 左上角品牌

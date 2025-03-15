@@ -22,9 +22,9 @@ for；搭配hunger for“渴望”。
 ::: details 笔记
 associates: n.同伴; 合作人; 联合公司
 :::
-5. It was becoming more and more difficult to live ____ his salary. ❌
+5. It was becoming more and more difficult to live ____ his salary. ❌2
 ::: details 答案
-by ❌
+by ❌2
 
 on；搭配live on“靠…生活, 以…为食”。
 翻译：他越来越难以靠他的工资维持生计了。
