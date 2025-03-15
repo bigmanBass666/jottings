@@ -1,6 +1,7 @@
 ---
 prev: false
 next: false
+editLink: false
 ---
 
 # Literature must consist of words, just ____ music must consist of sounds. ❌ <Badge type="danger" text="固定搭配"/>
