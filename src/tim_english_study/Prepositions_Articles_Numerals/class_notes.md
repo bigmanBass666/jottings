@@ -8,11 +8,10 @@ fileTitle: 1.课堂笔记
 
 On, in, at, of, after, by, from, with...
 
-介词必须接宾语，其宾语可以是名词、代词、动名
-词或者是what从句
+介词必须接宾语，其宾语可以是名词、代词、动名词或者是what从句
 
-- 注意1: 介词后接动名词
-- 注意2: 情态动词后接动词原形
+注意1: 介词后接动名词  
+注意2: 情态动词后接动词原形
 
 若空格后是名词、代词或动名词时且他们不是在句中作主语，也不是在动词后作宾语时，这个空就很可能考介词。
 
@@ -48,13 +47,11 @@ in memory of
 
 ## 冠词 p60
 
-- 定冠词-the-特指
-- 不定冠词-a/an-泛指
+定冠词-the-特指  
+不定冠词-a/an-泛指
 
-___
-
-- Yan zu is the teacher who teaches us English.
-- Yan zu is an English teacher.
+Yan zu is the teacher who teaches us English.  
+Yan zu is an English teacher.
 
 ### 小练习
 
@@ -62,8 +59,7 @@ ___
 
 > *mine: A book is on a desk.*
 
-The desk has book. ❌
-
+The desk has book. ❌  
 There is book on the desk. ❌
 
 #### 注意
@@ -72,34 +68,35 @@ There is book on the desk. ❌
 
 若想单独出现，得变复数。
 
-There is **a** **book** on the desk. ✅
-
+There is **a** **book** on the desk. ✅  
 There are **books** on the desk. ✅
 
 ### 不定冠词
 
-- A: 单词以辅音发音开头 university Europe
-- An: 单词以元音发音开头 hour umbrella
+A: 单词以辅音发音开头 university Europe  
+An: 单词以元音发音开头 hour umbrella
+
+[🤖 DeepSeek 元辅音从入门到精通](DeepSeek_Analyses/Vowel_consonant.md)
 
 ### 定冠词
 
 #### 不加the
 
-- 球类运动: play football
-- 一日三餐: have lunch
+球类运动: play football  
+一日三餐: have lunch
 
 #### 加the
 
-- 演奏乐器: play the piano
-- 最高级: the most important
+演奏乐器: play the piano  
+最高级: the most important
 
 ### 随堂练习 ✅4 🟨1
 
 We study five days ____ week and on Sundays we usually play ____ football. ✅
 ::: details answer
 
-- a ✅
-- / ✅
+a ✅  
+/ ✅
 :::
 
 The truth is that this idea is ____ unfortunate imaginary story. 🟨
