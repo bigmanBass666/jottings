@@ -1,200 +1,198 @@
 ---
-fileTitle: 2.完成时态-书
+fileTitle: 2.非谓语-书
 ---
 
-# 完成时态
+# 非谓语
 
-复习全书 p110
+复习全书 p129
 
-[✨ 练习数据总览](DeepSeek_Analyses/motivation.md)
+## 动名词 ✅1 🟨2
 
-| 模块       | 总题数 | ✅ 正确数 | ❌ 错误数 | 正确率   |
-|------------|--------|-----------|-----------|----------|
-| **一、现在完成时** | 5      | 3         | 2         | 60%      |
-| **二、过去完成时** | 14     | 14        | 0         | 100% 💥   |
-| **三、将来完成时** | 7      | 6         | 1         | 85.7%    |
-| **四、完成进行时** | 6      | 6         | 0         | 100% 💥   |
-| **总计**     | **32** | **29**    | **3**     | **90.6%** |
-
-## 一 ✅3 ❌2
-
-You ____ (ask) that question three times already. ✅
+—Where are you going, Tom? ✅  
+—To Bill's workshop. The engine of my car needs ____ (repair).
 ::: details answer
-have asked
+repairing ✅  
+/to be repaired ✅  不定式
 :::
 
-I ____ (study) at this school for two years. ✅
-::: details answer
-have studied
-:::
-
-It ____ (witness) tremendous changes in the means of transportation over the last decade. ❌ <Badge type="danger" text="粗心"/>
-::: details answer
-have witnessed ❌  
-has witnessed ✅
-:::
-
-A dream of the Red Mansion **is said to** ____ (translate) into dozens of languages in the last decades. ❌
+Now more and more people are busy ____ (learn) about the Internet. 🟨 <Badge type='danger' text='固定搭配'/>
 ::: details answer 🤖
-have translated ❌  
-have been translated ✅
-
-be said to do“据说”，in the last decades“过去几十年里”提醒用完成时；此外，书本与翻译是被动关系。  
-
-" 据说在过去的几十年里，《红楼梦》已经被翻译成数十种语言。 "
-
-[DeepSeek Analysis](DeepSeek_Analyses/translate.md)
-
-错因在于被动时态be+done, 没有加上be
+learning 🟨  
+be busy doing sth（忙于做某事）  
+[DeepSeek Analysis](DeepSeek_Analyses/busy.md)
 :::
 
-The play ____ (be) on for five minutes. You are a little late. ✅
+It's too hot. Would you mind ____ (open) the door? 🟨 <Badge type='danger' text='固定搭配'/>
 ::: details answer
-has been
+opening
 :::
 
-## 二 ✅14
+## 动词不定式 ✅7 ❌2
 
-He said he ____ (have) already given the book to the teacher. ✅
+It's our duty ____ (clean) the room every day. ✅
 ::: details answer
-had
+to clean (我太厉害了)
 :::
 
-The meeting ____ (begin) when Tim got to school. ✅
+It's hard for us ____ (learn) English well. ✅
 ::: details answer
-had begun
+to learn
 :::
 
-He told me that he ____ (be) here for ten minutes. ✅
+It's very nice ____ you to get me two tickets to the World Cup. ✅
 ::: details answer
-had been
+of 👍
 :::
 
-We ____ (learn) five English songs by the end of last term. ✅
+Robert often asks us ____ (help) him with his Chinese, so his Chinese is much better than before. ✅
 ::: details answer
-had learnt/had learned
+to help
 :::
 
-He said that it was at least ten years since he ____ (enjoy) a good drink. ✅
+Mr. Li often teaches his Japanese friends ____ (cook) Chinese food. ✅
 ::: details answer
-had enjoyed
+to cook
 :::
 
-By the end of 1976, many buildings ____ (build) in the city. ✅
+Boys, don't forget ____ (close) the windows before you leave the classroom. ✅
 ::: details answer
-had been built (我焯我太厉害了)
+to close
 :::
 
-I ____ (be) at the bus stop for 20 minutes when a bus finally came. ✅
+My mother often asks me ____ (do) some cleaning on Sundays. ✅
 ::: details answer
-had been (太棒了💥)
+to do
 :::
 
-No sooner ____ (have) the game started than it began to rain heavily. ✅
-::: details answer
-had
-:::
-
-Hardly ____ (have) he begun to speak when the audience interrupted him. ✅
-::: details answer
-had
-:::
-
-No sooner ____ (have) he arrived at the airport than he was informed that the flight had been cancelled. ✅
-::: details answer
-had
-:::
-
-They ____ (have) wanted to help but could not get there in time. ✅
-::: details answer
-had
-:::
-
-By the time the class was over, the rain ____ (stop). ✅
-::: details answer
-had stopped
-:::
-
-We ____ (have) just finished our assignment when the teacher came to the door. ✅
-::: details answer
-had
-:::
-
-We found that the plane ____ (have) already taken off when we got to the airport. ✅
-::: details answer
-had
-:::
-
-## 三 ✅6 ❌1
-
-When you come tonight at eight o'clock, I ____ (review) eight lessons. ✅
-::: details answer
-will have reviewed
-:::
-
-She has been studying here for five years and by the end of next summer she ____ (graduate). ❌
+-"Is Bob still performing?" ❌  
+-"I'm afraid not. He is said ____ (leave) the stage already as he has become an official."
 ::: details answer 🤖
-will has graduated ❌  
-will have graduated ✅
+to leave ❌  
+to have left ✅
 
-[DeepSeek Analysis](DeepSeek_Analyses/graduate.md): "will" 后必须接动词原形，因此 "will have" 是固定结构，不可改为 "will has"。
+首先，leave作“离开”讲时是不及物动词，没有被动形式；  
+其次，句中的already表示完成概念；  
+最后，be said to do表示“据说”，其后接to do形式；综合之下故填表示主动兼完成的to have left。
+
+“鲍勃还演戏吗？”“恐怕没有，据说他已经离开舞台成为一名官员了。”  
+
+[DeepSeek Analysis](DeepSeek_Analyses/Bob.md): 填 to leave ❌ 忽略时间副词 already，无法体现动作的完成性，导致时态矛盾
 :::
 
-By the year 2030, scientists probably ____ (discover) a cure for cancer. ✅
-::: details answer
-will have discovered
+For a long time I regretted not ____ (do) much sport. ❌ <Badge type='danger' text='固定搭配'/>
+::: details answer 🤖
+to doing ❌  
+doing ✅
+
+regret not doing "后悔没做"  
+[DeepSeek Analysis](DeepSeek_Analyses/regret.md)
 :::
 
-By the time you arrive in London, we ____ (stay) in Europe for two weeks. ✅
+## 分词 ✅6 ❌7 🟨1
+
+The research scientists often meet with problems ____ (require) new types of instruments for their solution. 🟨
 ::: details answer
-will have stayed
+requiring 🟨
+
+科研人员经常遇到一些问题，而解决这些问题需要新型的仪器。
 :::
 
-By the end of this month, all this ____ (change). ✅
+While ____ (exercise) your imagination, you should be alone and undisturbed. ✅
 ::: details answer
-will have changed
+exercising
 :::
 
-By the end of this year, Elizabeth ____ (work) here for ten years. ✅
-::: details answer
-will have worked
+Millions of people rushed to California, ____ (convince) that they would find gold and become rich. ❌
+::: details answer 🤖
+were convinced ❌  
+convinced ✅
+
+[DeepSeek Analysis](DeepSeek_Analyses/California.md):  
+常见误区：误填 were convinced（需注意句子结构是否允许完整谓语）  
+convinced 是形容词化的过去分词，直接描述主语状态，无需助动词（were）。
 :::
 
-By the time you come back, I ____ (finish) cleaning the house. ✅
-::: details answer
-will have finished
+____ (expect) to wait for hours, she brought along a book to read. ❌
+::: details answer 🤖
+expected ❌  
+Expecting ✅
+
+[DeepSeek Analysis](DeepSeek_Analyses/expect.md):
 :::
 
-## 四 ✅6
-
-— Where is mother? ✅  
-— She is in the kitchen. She ____ (do) the housework all morning.
+____ (walk) in the street, he could feel the happiness of Christmas. ✅
 ::: details answer
-has been doing (我真是厉害)
+Walking
 :::
 
-You know, I ____ (look) for a job for three months, and this is my first formal interview. ✅
+The furniture arrived ____ (damage), so we had to send it back. ✅
 ::: details answer
-have been looking
+damaged
 :::
 
-— There is so much snow these days, isn't there? ✅  
-— Yes, it ____ (snow) for a few days.
+____ (consider) the strength of the **opposition**, we did very well to score two goals. ❌
 ::: details answer
-has been snowing
+Having considered ❌
+Considering ✅
+
+分词作状语，主语we和consider之间是主动关系，用现在分词。
+
+考虑到对手的实力，攻进两球我们已经做得很好了。
+
+*opposition 看成 position 了...*
 :::
 
-In order to find the missing child, villagers ____ (do) all they can over the past five hours. ✅
+____ (consider) the plan carefully, he rejected it. ✅
 ::: details answer
-have been doing
+Having considered (太棒了👍)
 :::
 
-Tim ____ (study) in the library every night over the last three months. ✅
+____ (lie) on the grassland, I watched the clouds and listened to the singing of the birds. ✅
 ::: details answer
-have been studying
+Lying (太棒ang~~~~~~~~~~~~~~了🥰)
 :::
 
-He ____ (work) on his term paper the whole morning but he hasn't written a word. ✅
+Not ____ (want) to hurt her, he did not tell her the question. ❌
+::: details answer 🤖
+having wanted ❌  
+wanting ✅
+
+用现在分词作状语，与he是主动关系。
+
+[DeepSeek Analysis](DeepSeek_Analyses/want.md)
+:::
+
+____ (compare) with the size of the whole earth, the highest mountain does not seem high at all. ❌
+::: details answer 🤖
+Having compared ❌  
+Compared ✅
+
+[DeepSeek Analysis](DeepSeek_Analyses/compare.md)
+:::
+
+____ (save) a little money, Jimmy was able to buy his mother a lovely new lamp. ❌
+::: details answer 🤖
+Saving ❌ (以不发音的 -e 结尾的动词：去 e 加 -ing)  
+Having saved ✅
+
+现在分词的完成式having done表示的动作发生在谓语动词be able to buy 之前。吉米先积攒了一些钱，然后才买台灯。
+
+攒了一些钱后，吉米可以给妈妈买一盏美丽的新台灯了。
+
+[DeepSeek Analysis](DeepSeek_Analyses/save.md)
+:::
+
+With the money ____ (lose), he couldn't buy any ticket. ❌
+::: details answer 🤖
+losing ❌  
+lost ✅
+
+with+n.+过去分词，表示被动；money与lose之间是被动关系，用过去分词表被动。
+
+[DeepSeek Analysis](DeepSeek_Analyses/lose.md)
+:::
+
+The teacher came into the classroom, ____ (follow) by his students. ✅
 ::: details answer
-has been working
+followed
 :::
