@@ -67,8 +67,8 @@ const sideBars = [
     resolvePath: '/Fashion/',
   },
   {
-    scanStartPath: 'tim_english_study',
-    resolvePath: '/tim_english_study/',
+    scanStartPath: 'tim_english',
+    resolvePath: '/tim_english/',
     excludePattern: ['DeepSeek_Analyses/'],
   },
 ]

@@ -67,6 +67,6 @@ export const nav = [
   // Tim英语学习
   {
     text: 'Tim英语',
-    link: '/tim_english_study/WordFormation_Tips1/adjective_practice'
+    link: '/tim_english/WordFormation1/adjective_practice'
   },
 ]
