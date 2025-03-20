@@ -9,8 +9,6 @@ editLink: false
 ::: details answer
 expected ❌  
 Expecting ✅
-
-[DeepSeek Analysis](DeepSeek_Analyses/expect.md):
 :::
 
 ## 🌟 分词选择终极心法  
