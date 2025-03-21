@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # ❓You can distinguish the twins very easily, ____ Tim is quiet while Jack is active. ❌

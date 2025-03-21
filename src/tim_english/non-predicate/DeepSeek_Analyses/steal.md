@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # When they entered the room, they found the windows open and something ____ (steal). ❌

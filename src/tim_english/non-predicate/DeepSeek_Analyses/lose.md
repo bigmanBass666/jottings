@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # With the money ____ (lose), he couldn't buy any ticket. ❌

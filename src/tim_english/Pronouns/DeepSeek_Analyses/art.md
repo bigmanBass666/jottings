@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # In terms of artistic value, it is hard to say that one country's art form is greater than ____ of another. ❌

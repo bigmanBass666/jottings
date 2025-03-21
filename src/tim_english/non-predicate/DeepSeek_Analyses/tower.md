@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # ____ (See) from far away, the 600-meter tower is stretching into the sky. ❌

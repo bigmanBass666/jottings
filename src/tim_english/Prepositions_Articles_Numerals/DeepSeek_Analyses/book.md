@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # ____ receiving the book, she went over the most interesting chapters first

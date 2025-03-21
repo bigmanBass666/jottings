@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # Now more and more people are busy ____ (learn) about the Internet

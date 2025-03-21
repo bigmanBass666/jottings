@@ -22,7 +22,11 @@
 /* 哔哩哔哩 */
 .vp-doc a[href*="bilibili.com"]:before,
 /* 淘宝 */
-.vp-doc a[href*="taobao.com"]:before
+.vp-doc a[href*="taobao.com"]:before,
+/* 混元 */
+.vp-doc a[href*="yuanbao.tencent.com"]:before,
+/* DeepSeek */
+.vp-doc a[href*="DeepSeek_Analyses"]:before
 {
   content: '';
   width: 20px;
@@ -33,6 +37,18 @@
   background-size: cover;
   top: -2px;
   margin-right: 4px;
+}
+
+/* DeepSeek */
+.vp-doc a[href*="DeepSeek_Analyses"]:before
+{
+  background-image: url(/svg/deepseek.svg);
+}
+
+/* 混元 */
+.vp-doc a[href*="yuanbao.tencent.com"]:before
+{
+  background-image: url(/svg/hunyuan.svg);
 }
 
 /* 哔哩哔哩 */

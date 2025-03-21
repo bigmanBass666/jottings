@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # ____ (consider) the plan carefully, he rejected it. ❌

@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # First impressions are the most lasting. After all, you never get ____ second chance to make ____ first impression. ❌

@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # He was **left alone** in the room with ____ to **look after** him though he was only five years old

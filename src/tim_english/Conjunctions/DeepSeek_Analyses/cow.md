@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # The cow was their only means of support, in fact. One day, the cow was eating grass ____ it began to rain heavily. ❌

@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # I like a house with a beautiful garden, but I don't have enough money to buy ____ ❌

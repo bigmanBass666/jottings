@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # There are two windows in his bedroom. ____ of them face south, overlooking a beautiful park. ❌

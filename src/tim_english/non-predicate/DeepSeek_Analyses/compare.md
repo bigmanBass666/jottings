@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # ____ (compare) with the size of the whole earth, the highest mountain does not seem high at all. ❌

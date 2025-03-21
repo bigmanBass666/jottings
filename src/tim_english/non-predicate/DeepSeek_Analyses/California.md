@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # Millions of people rushed to California, ____ (convince) that they would find gold and become rich. ❌

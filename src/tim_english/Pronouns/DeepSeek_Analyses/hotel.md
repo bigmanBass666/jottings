@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # John had planned to leave but he decided to stay in the hotel for ____ two days because of the heavy rain. 🟨

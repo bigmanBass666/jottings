@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # Since we have ____ money **left**, we can't afford the expensive computer. ❌

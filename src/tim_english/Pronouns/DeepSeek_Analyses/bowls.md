@@ -1,7 +1,7 @@
 ---
 prev: false
 next: false
-editLink: false
+
 ---
 
 # Many people prefer the bowls made of steel to the ____ made of plastic
