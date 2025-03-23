@@ -143,4 +143,3 @@ The day after tomorrow I will go to the park ______ a flower show is being held.
 It is an online platform ______ people can buy and sell many kinds of things. (2020-22)
 ::: details answer
 :::
-
