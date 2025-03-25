@@ -4,7 +4,7 @@ fileTitle: 2.定语从句-书
 
 # 定语从句
 
-[📊 定语从句练习统计表（按题目后标记 ✅/❌）](https://yuanbao.tencent.com/bot/app/share/chat/yv49CS6u2RLN)
+[📊 定语从句练习统计表](https://yuanbao.tencent.com/bot/app/share/chat/yv49CS6u2RLN)
 
 | **总题数** | **正确题数 (✅)** | **错误题数 (❌)** | **正确率** | **错误率** |  
 |------------|-------------------|-------------------|------------|------------|  
