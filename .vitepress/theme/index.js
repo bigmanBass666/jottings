@@ -33,7 +33,4 @@ export default {
       () => nextTick(() => initZoom())
     )
   },
-
-  // enhanceApp({ app, router, siteData }) {
-  // }
 }

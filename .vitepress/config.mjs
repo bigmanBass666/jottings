@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
 import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
 
+import { visualizer } from 'rollup-plugin-visualizer'
 
 export default defineConfig({
   ...htmlOptions,
@@ -29,7 +30,7 @@ export default defineConfig({
     footer: {
       message: '我只身前行 却仿佛带着一万雄兵',
       // copyright: 'Copyright © 2024-present Jason Liu'
-      copyright: '©️ Jason Liu'
+      copyright: '©️ Jason Liu',
     },
 
     // 深浅模式文字修改
@@ -47,7 +48,7 @@ export default defineConfig({
     outline: {
       level: [2, 6], // 显示2-6级标题
       // level: 'deep', // 显示2-6级标题
-      label: '本文章节' // 文字显示
+      label: '本文章节', // 文字显示
     },
 
     //返回顶部文字修改
@@ -55,7 +56,7 @@ export default defineConfig({
 
     // 编辑链接
     editLink: {
-      pattern: 'https://gitee.com/bigmanBass666/jottings/edit/main/src/:path'
+      pattern: 'https://gitee.com/bigmanBass666/jottings/edit/main/src/:path',
     },
 
     // 最后更新时间
@@ -77,13 +78,35 @@ export default defineConfig({
   markdown: {
     image: {
       // 图片懒加载
-      lazyLoading: true
+      lazyLoading: true,
     },
-    math: true
+    math: true,
+  },
+
+  vite: {
+    build: {
+      reportCompressedSize: true, // 启用压缩报告
+      rollupOptions: {
+        output: {
+          manualChunks: (id) => {
+            // 🔥 核心修改：精确匹配搜索索引路径
+            if (
+              id.includes('localSearchIndex') ||
+              id.includes('LocalSearchIndex')
+            ) {
+              // 按文档目录分割（假设你的文档按目录组织）
+              const dirMatch = id.match(/src\/(.*?)\//)
+              return dirMatch ? `search-${dirMatch[1]}` : 'search-global'
+            }
+          },
+        },
+      },
+    },
+    plugins: [visualizer()],
   },
 
   // 站点地图
   sitemap: {
     hostname: 'https://jason-jottings.netlify.app/',
-  }
+  },
 })

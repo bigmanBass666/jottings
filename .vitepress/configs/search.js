@@ -3,10 +3,20 @@
 export const search = {
   provider: 'local',
   options: {
+    shouldSkip: (content) => {
+      const skipKeywords = [
+        '<div class="language-',
+        '<pre>',
+        'class="code-group"',
+        '![](', // 跳过图片描述
+      ]
+      return skipKeywords.some((k) => content.includes(k))
+    },
+
     translations: {
       button: {
         buttonText: '搜索',
-        buttonAriaLabel: '搜索'
+        buttonAriaLabel: '搜索',
       },
       modal: {
         displayDetails: '详情',
@@ -21,8 +31,8 @@ export const search = {
           navigateDownKeyAriaLabel: '向下',
           closeText: '关闭',
           closeKeyAriaLabel: '关闭',
-        }
-      }
-    }
-  }
+        },
+      },
+    },
+  },
 }
