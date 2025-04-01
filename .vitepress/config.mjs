@@ -19,7 +19,7 @@ export default defineConfig({
     siteTitle: '杂记',
 
     // 搜索
-    search: search,
+    search: search('algolia'),
 
     // 导航栏
     nav: nav,
