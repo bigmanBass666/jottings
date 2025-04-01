@@ -4,8 +4,6 @@ import { defineConfig } from 'vitepress'
 // 站点元数据, 导航栏, 社交链接, 侧边栏代码
 import { htmlOptions, search, nav, socialLinks, sideBar } from './configs'
 
-import { visualizer } from 'rollup-plugin-visualizer'
-
 export default defineConfig({
   ...htmlOptions,
 
@@ -83,27 +81,6 @@ export default defineConfig({
     math: true,
   },
 
-  vite: {
-    build: {
-      reportCompressedSize: true, // 启用压缩报告
-      rollupOptions: {
-        output: {
-          manualChunks: (id) => {
-            // 🔥 核心修改：精确匹配搜索索引路径
-            if (
-              id.includes('localSearchIndex') ||
-              id.includes('LocalSearchIndex')
-            ) {
-              // 按文档目录分割（假设你的文档按目录组织）
-              const dirMatch = id.match(/src\/(.*?)\//)
-              return dirMatch ? `search-${dirMatch[1]}` : 'search-global'
-            }
-          },
-        },
-      },
-    },
-    plugins: [visualizer()],
-  },
 
   // 站点地图
   sitemap: {

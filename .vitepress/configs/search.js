@@ -53,7 +53,7 @@ export const searchAlgolia = {
   options: {
     appId: 'F8U9MT51BN',
     apiKey: '9579a880a61a1a6ecac339a0000cdce9',
-    indexName: '<INDEX_NAME>',
+    indexName: 'jason-jottings',
     locales: {
       root: {
         placeholder: '搜索文档',
