@@ -10,3 +10,5 @@ dist-ssr
 
 # Dependency directories
 node_modules/
+
+test/
