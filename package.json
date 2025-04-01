@@ -9,7 +9,7 @@
     "docs:dev": "vitepress dev",
     "docs:build": "vitepress build",
     "docs:preview": "vitepress preview",
-    "start": "node ./crawler-config.js --log-level debug"
+    "start": "node ./test/crawler-config.js --log-level debug"
   },
   "dependencies": {
     "crawlee": "3.13.0",
