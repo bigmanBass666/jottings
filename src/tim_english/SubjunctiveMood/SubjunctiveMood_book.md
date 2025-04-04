@@ -2,10 +2,13 @@
 fileTitle: 2.虚拟语气-书
 ---
 
-# 定语从句
+# 虚拟语气
 
 p171  
-上次写到 p175
+
+| **总题数** | **正确✅** | **错误❌** | **正确率** | **最强模块**          | **最需改进**       |
+| ---------- | ---------- | ---------- | ---------- | --------------------- | ------------------ |
+| 20         | 17         | 3          | 85%        | 虚拟条件句 & 倒装结构 | 建议类从句被动语态 |
 
 If you ______ (come) to my birthday party yesterday, you would have met our old friend Tim. ✅  
 ::: details answer  
@@ -76,54 +79,77 @@ I was very tired. Otherwise, I would ______ (go) to the theatre with you for the
 have gone ✅ (666啊我焯)
 :::
 
-Teachers recommend parents not ______ (allow) their children under 12 to ride bicycles to school for safety.  
+Teachers recommend parents not ______ (allow) their children under 12 to ride bicycles to school for safety. ✅  
 ::: details answer  
+因为 recommend 所以: (should) not allow...  
+allow
 :::
 
 Mr. Green requires that his son ______ (write) a composition every other week.  
-::: details answer  
+::: details answer ✅  
+key word: requires  
+write
 :::
 
-The suggestion has been made that the basketball game ______ put off.  
+The suggestion has been made that the basketball game ______ put off. ❌  
 ::: details answer  
+should ❌  
+be/should be ✅ (注意被动)
 :::
 
-The order came that the medical supplies ______ (send) to Beijing for the SARS soon.  
+The order came that the medical supplies ______ (send) to Beijing for the SARS soon. ❌ <Badge type='tip' text='笑死我了'/>  
 ::: details answer  
+(should) were sent ❌  
+(should) **be** sent ✅
 :::
 
-It is necessary that a college student ______ (master) at least a foreign language.  
+It is necessary that a college student ______ (master) at least a foreign language. ✅  
 ::: details answer  
+(should) master
 :::
 
-It is important that you ______ (have) sports every day.  
+It is important that you ______ (have) sports every day. ✅  
 ::: details answer  
+(should) have
 :::
 
-She insists that he ______ (take) his vacation now.  
+She insists that he ______ (take) his vacation now. ✅  
 ::: details answer  
+(should) take
 :::
 
-It was essential that the application forms ______ (send) back before the deadline.  
+It was essential that the application forms ______ (send) back before the deadline. ✅  
 ::: details answer  
+(should) be sent
 :::
 
-The general's command was that the soldiers ______ (leave) the place and carry out more important tasks.  
+The general's command was that the soldiers ______ (leave) the place and carry out more important tasks. ❌  
 ::: details answer  
+(should) left ❌ (哈哈哈自作聪明画蛇添足多此一举了哈哈哈)  
+(should) leave ✅ (should do 结构是用的"do"--**动词原形**)
 :::
 
-Our teacher suggested that each of us ______ (make) a study plan for the long summer vacation.  
+Our teacher suggested that each of us ______ (make) a study plan for the long summer vacation. ✅  
 ::: details answer  
+(should) make
 :::
 
-How I wish every family ______ (have) a large house with a beautiful garden!  
+How I wish every family ______ (have) a large house with a beautiful garden! ✅  
 ::: details answer  
+感觉不是对过去虚拟, 所以用were(一般过去时)  
+had ✅ (wokao太厉害了)
 :::
 
-I wish I ______ (know) what is happening there in his room.  
+I wish I ______ (know) what is happening there in his room. ✅  
 ::: details answer  
+感觉不是对过去虚拟, 关键词应该是happening, 如果是对过去虚拟的话它应该是happened, 所以  
+knew
 :::
 
-To tell the truth, I wish I ______ (run) a marathon years ago.  
+To tell the truth, I wish I ______ (run) a marathon years ago. ✅  
 ::: details answer  
+"我希望我已经跑了一年马拉松", 不难看出这是对过去虚拟, 所以从句用过去完成时had done, 所以  
+had run ✅ (不是我怎么这么厉害)
+
+其实理解得不太对, 正确翻译应该是: 说实话，我希望我多年前就跑马拉松了
 :::
