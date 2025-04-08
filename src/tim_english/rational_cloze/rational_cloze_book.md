@@ -4,7 +4,20 @@ fileTitle: 语法填空-书
 
 # 语法填空
 
-写到p203 冠词
+[语法填空练习正误统计表](https://yuanbao.tencent.com/bot/app/share/chat/43SniTGrm8VI)
+
+| **题型分类**         | **正确数** | **错误数** | **正确率** | **薄弱点**                                                                 |
+|----------------------|------------|------------|------------|----------------------------------------------------------------------------|
+| **动词-谓语**        | 4          | 1          | 80%        | 主谓一致（三单）、现在完成时                                              |
+| **动词-非谓语**      | 7          | 2          | 78%        | 不定式与动名词辨析（to prove）、非谓语完成时（Having considered）         |
+| **词性转换**         | 7          | 0          | 100%       | 无                                                                        |
+| **形容词/副词**      | 6          | 0          | 100%       | 无                                                                        |
+| **代词**             | 3          | 2          | 60%        | 物主代词（its）、不定代词（everything/neither）                           |
+| **名词**             | 5          | 0          | 100%       | 无                                                                        |
+| **无提示词-介词**    | 5          | 1          | 83%        | 介词搭配（methods of tracking）                                           |
+| **无提示词-冠词**    | 5          | 0          | 100%       | 无                                                                        |
+| **无提示词-连词**    | 5          | 1          | 83%        | 并列连词（but）                                                           |
+| **无提示词-从句**    | 7          | 2          | 78%        | 定语从句关系词（when）、宾语从句疑问词（who）                             |
 
 ## 提示词为动词
 
@@ -257,52 +270,197 @@ Can you translate this letter ______ me? ✅
 for
 :::
 
-### 考查冠词 p203
+### 考查冠词
 
-I'm not sure ______ is more frightened, me or the female gorilla (大猩猩) that suddenly appears out of nowhere.
+We had ______ excellent coach who gave us guidance and training tips. ✅
 ::: details answer
+an
 :::
 
-Modern science has given clear evidence ______ smoking can lead to many diseases.
+When we got a call saying she was short-listed, we thought it was ______ joke. ✅
 ::: details answer
+a
 :::
 
-I realized that ______ I wanted to take part in such a big race, I had to be willing to try.
+Now, years later, this river is one of ______ most outstanding examples of environmental cleanup. ✅
 ::: details answer
+the
 :::
 
-______ he asked the villagers on the banks of the river where he could find the legendary artist, they smiled and pointed down the river.
+Corn production has jumped nearly 125 percent over ______ past 25 years, while rice has increased only 7 percent. ✅
 ::: details answer
+the
 :::
 
-Peter often accompanies his parents to the concert, ______ he does not like pop music at all.
+As ______ result, people will eat more food to try to make up for that something missing. ✅
 ::: details answer
+a
 :::
 
-They were well trained by their masters ______ had great experience with caring for these animals.
+The nursery team switches him every few days with his sister so that while one is being bottle-fed, ______ other is with mum. ✅
 ::: details answer
+the
 :::
 
-A prosperity ______ has never been seen before appears in the countryside.
+### 考查代词
+
+However, the railway quickly proved to be a great success and within six months, more than 25,000 people were using ______ every day. ✅
 ::: details answer
+it
 :::
 
-He is the man ______ I saw yesterday.
+Please give me one more day, and I will get ______ ready. ❌
 ::: details answer
+it ❌  
+everything ✅
+
+错因: 不知道代词有哪些
 :::
 
-The little problems ______ we meet in our daily lives may be inspirations for great inventions.
+My mother and father were invited to the party, but ______ of them went. ❌
 ::: details answer
+both ❌  
+neither ✅
+
+逆天, 也不知道是怎么错的, 脑子里想的是两者都不, 写下来就成了both了
 :::
 
-Kate, ______ sister I shared a room with when we were at college, has gone to work in Australia.
+### 考查并列连词
+
+There were many people waiting at the bus stop, ______ some of them looked very anxious. ✅
 ::: details answer
+and
 :::
 
-We have entered into an age ______ dreams have the best chance of coming true.
+Although Mary loved flowers, ______ she nor her husband was known as a gardener. ✅
 ::: details answer
+neither
 :::
 
-Their child is at the stage ______ she can say individual words but not full sentences.
+My bike was old and shaky ______ did the job. ❌ <Badge type='danger' text='毫无头绪'/>
 ::: details answer
+❌  
+but ✅
+
+解决办法: 连词题，优先考虑but，and，because，if, though/although unless
+:::
+
+School in the cities are well equipped, ______ those in the countryside are poor. ✅
+::: details answer
+but
+:::
+
+Follow your doctor’s advice, ______ your cough will get worse. ✅
+::: details answer
+otherwise ✅ (我厉不厉害?)  
+/or ✅
+:::
+
+Read this story, ______ you will realize that not everything can be bought with money. ✅
+::: details answer
+and
+:::
+
+### 考查从句的连接词
+
+I saw a marathon on TV and made up my mind that was ______ I wanted to do. ✅
+::: details answer
+what
+:::
+
+______ you said at the meeting describes a bright future for the company. ✅
+::: details answer
+主语从句, 从句said缺宾语  
+
+What
+:::
+
+I'm not sure ______ is more frightened, me or the female gorilla (大猩猩) that suddenly appears out of nowhere. ❌
+::: details answer
+显然缺成分, 从句缺主语
+
+what ❌  
+who ✅
+
+我不知道谁更害怕，是我还是突然出现的雌性大猩猩。
+:::
+
+Modern science has given clear evidence ______ smoking can lead to many diseases. ✅
+::: details answer
+空格前句子完整, 考虑定语从句, 空格后句子也完整, 填that感觉很通顺, 那就不是定语从句了, 应该是同位语从句
+
+that
+:::
+
+I realized that ______ I wanted to take part in such a big race, I had to be willing to try. ✅
+::: details answer
+~~空格前后句子都完整, 考虑定语从句, 副词~~ ❌大错特错❌  
+考的是条件状语从句
+
+if
+:::
+
+______ he asked the villagers on the banks of the river where he could find the legendary artist, they smiled and pointed down the river. ✅
+::: details answer
+When 直觉 ✅ (逆天)  
+时间状语从句
+:::
+
+Peter often accompanies his parents to the concert, ______ he does not like pop music at all. ✅
+::: details answer
+although ✅  
+/though  
+让步状语从句
+:::
+
+#### 定语从句
+
+They were well trained by their masters ______ had great experience with caring for these animals. ✅
+::: details answer
+从句缺主语, 填关系代词: that, who, whom, which, **as**  
+先行词指人 -> who/whom/that, 且从句缺主语 -> who/that
+
+who
+:::
+
+A prosperity ______ has never been seen before appears in the countryside. ✅
+::: details answer
+先行词: 物; 从句缺主语
+
+that ✅  
+/which ✅
+:::
+
+He is the man ______ I saw yesterday. ✅
+::: details answer
+whom
+
+先行词: 人; 从句缺宾语, 所以不用who而用whom
+:::
+
+The little problems ______ we meet in our daily lives may be inspirations for great inventions. ✅
+::: details answer
+先行词: 物; 从句缺宾语
+
+which
+:::
+
+Kate, ______ sister I shared a room with when we were at college, has gone to work in Australia. ✅
+::: details answer
+whose
+:::
+
+We have entered into an age ______ dreams have the best chance of coming true. ❌
+::: details answer
+whose ❌
+when ✅
+
+先行词 age 表时间
+:::
+
+Their child is at the stage ______ she can say individual words but not full sentences. ✅
+::: details answer
+先行词 stage 为地点? ~~阶段的意思的话应该是物~~, 还是地点
+
+where
 :::

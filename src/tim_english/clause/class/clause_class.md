@@ -58,8 +58,7 @@ complete ❌
 completes ✅
 :::
 
-If people ______ (be) overanxious about remembering something, they will forget it. ❌
+If people ______ (be) overanxious about remembering something, they will forget it. ✅
 ::: details answer
-are ❌  
-is ✅ 为什么??
+are ✅
 :::
