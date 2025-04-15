@@ -125,6 +125,8 @@ will have cleaned
 
 ## 现在完成进行时
 
+[现在完成时 vs 现在完成进行时 —— 核心区别图解](https://yuanbao.tencent.com/bot/app/share/chat/G2SYjrhQyptV)
+
 have been doing  
 一直
 
