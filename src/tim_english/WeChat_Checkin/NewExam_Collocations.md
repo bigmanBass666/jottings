@@ -180,3 +180,43 @@ meeting；搭配enjoy doing“喜欢做某事“。
 ::: details 答案
 with ✅
 :::
+
+## 以下为26备考内容
+
+## 1 ❌2
+
+::: details stranger
+be afraid of
+:::
+
+Trump, the US president, used to be an ____ (act). ✅  
+::: details answer  
+actor
+:::
+
+We should like to offer our ______ (apologize) for the delay to your flight today. ❌  
+::: details answer  
+apology ❌  
+apologies ✅
+
+由空格前的our可知填名词形式，此外，apology是可数名词。  
+翻译：今天航班误点，敬请原谅。
+:::
+
+The fact that women can compete in the Olympics encourages many to become ______ (act) in the various Olympic activities. ✅  
+::: details answer  
+active
+:::
+
+Do anything ______ sit. If you cut down on the time you spend sitting, you might live longer.  
+::: details answer ✅  
+but
+:::
+
+People are often afraid ______ things they don’t understand. ❌  
+::: details answer  
+the ❌  
+of ✅
+
+搭配be afraid of “害怕”。
+:::
