@@ -220,3 +220,35 @@ of ✅
 
 搭配be afraid of “害怕”。
 :::
+
+## 2
+
+[各专业最低分多少上岸？英语30可以吗-普通专升本英语单词带背02](https://mp.weixin.qq.com/s/NCN-0LFbDBVMVuGl-HCWjg)
+
+The little bird killed the poor pig ______ (anger). ✅
+::: details answer
+angrily
+:::
+
+The most important thing is to reach an ______ (agree) and to avoid a trade war. ✅
+::: details answer
+agreement
+:::
+
+The old woman was ______ (anxious) awaiting the return of her relatives. ✅
+::: details answer
+anxiously
+:::
+
+I believe you are most painfully anxious ______ Tim. ✅
+::: details answer
+about
+:::
+
+Don’t be too proud to ask ______ help. ❌
+::: details answer
+a ❌  
+for ✅  
+搭配ask for help“寻求帮助”。  
+翻译：不要放不下自尊而不求人帮忙。
+:::
