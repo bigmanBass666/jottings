@@ -221,7 +221,7 @@ of ✅
 搭配be afraid of “害怕”。
 :::
 
-## 2
+## 2 ✅4
 
 [各专业最低分多少上岸？英语30可以吗-普通专升本英语单词带背02](https://mp.weixin.qq.com/s/NCN-0LFbDBVMVuGl-HCWjg)
 
@@ -251,4 +251,68 @@ a ❌
 for ✅  
 搭配ask for help“寻求帮助”。  
 翻译：不要放不下自尊而不求人帮忙。
+:::
+
+## 4 ✅3
+
+[插本院校新增大量专业，期待加入插本招生-普通专升本英语单词带背04](https://mp.weixin.qq.com/s/_Z4nf5G9mgQx5bn4Kr8CXQ)
+
+What was the worst was that he found himself ____ (able) to ask for help.
+::: details answer ❌
+was unable ❌  
+unable ✅ (讲一下为什么, 不是be able to吗?)  
+对, 确实是be able to, 但是这跟我unable有什么关系? 这里考的是able的派生, 而不是考你固定搭配be able to
+:::
+
+It was his parents’ help that ____ (able) him to buy an apartment in the big city.
+::: details answer ❌
+enable (为什么不填enabled? 这句话不是过去式吗?) ❌  
+enabled ✅ (就是填enabled😅)
+:::
+
+I was ____ (absolute) attracted by her story.
+::: details answer ✅
+absolutely
+:::
+
+By his own ____ (admit), he is not playing well. 🟨 <Badge type='danger' text='差点拼对'/>
+::: details answer ✅
+admission
+:::
+
+Lions belong ____ the cat family.
+::: details answer ✅
+to
+:::
+
+## 5 ✅3
+
+[26复习各科都考什么题型-普通专升本英语单词带背05](https://mp.weixin.qq.com/s/ciEjwVzdXQeastlmfYy5Cw)
+
+Some students are able to find jobs after graduation while others will return to school for an ____ (advance) degree.
+::: details answer ✅
+advanced
+:::
+
+I would ____ (actual) tell them what was happening.
+::: details answer ✅
+actually
+:::
+
+The ____ (announce) had a dramatic effect on house prices. <Badge type='danger' text='拼写错误'/>
+::: details answer ❌
+annoucement ❌  
+announcement ✅
+:::
+
+He'd better ____ (write) down the telephone number before he forgets it.
+::: details answer ❌🤖
+writes ❌
+write ✅ (为什么不能填writes呢?) (因为固定搭配)
+[如何区分 ’d 是 would 还是 had？​](https://yuanbao.tencent.com/bot/app/share/chat/hi6HQfD3SkqV)
+:::
+
+We enjoyed ____ (us) very much at the party.
+::: details answer ✅
+ourselves
 :::
