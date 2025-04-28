@@ -316,3 +316,31 @@ We enjoyed ____ (us) very much at the party.
 ::: details answer ✅
 ourselves
 :::
+
+## 6
+
+1. ______ (Apply) for the Olympic volunteers must be able to contribute excellent services to meet the `demands` of the Games.  
+::: details answer ❌
+Applications ❌  
+Applicants ✅
+:::
+
+2. It is widely recognized that beauty lies not only in ______ (appear) but also in heart.  
+::: details answer ✅  
+appearance
+:::
+
+3. Many people in the United States worry about not looking young and ______ (attract).  
+::: details answer ✅  
+attractive
+:::
+
+4. One of Britain’s few `distinctive` contributions to world culture may come to ______ end.  
+::: details answer ✅  
+an
+:::
+
+5. We can be sure that he will be different ______ what he is today.  
+::: details answer ✅  
+from
+:::
