@@ -221,7 +221,7 @@ of ✅
 搭配be afraid of “害怕”。
 :::
 
-## 2 ✅4
+## 2 ❌1
 
 [各专业最低分多少上岸？英语30可以吗-普通专升本英语单词带背02](https://mp.weixin.qq.com/s/NCN-0LFbDBVMVuGl-HCWjg)
 
@@ -253,7 +253,7 @@ for ✅
 翻译：不要放不下自尊而不求人帮忙。
 :::
 
-## 4 ✅3
+## 4 ❌2
 
 [插本院校新增大量专业，期待加入插本招生-普通专升本英语单词带背04](https://mp.weixin.qq.com/s/_Z4nf5G9mgQx5bn4Kr8CXQ)
 
@@ -285,7 +285,7 @@ Lions belong ____ the cat family.
 to
 :::
 
-## 5 ✅3
+## 5 ❌2
 
 [26复习各科都考什么题型-普通专升本英语单词带背05](https://mp.weixin.qq.com/s/ciEjwVzdXQeastlmfYy5Cw)
 
@@ -317,7 +317,9 @@ We enjoyed ____ (us) very much at the party.
 ourselves
 :::
 
-## 6
+## 6 ❌1
+
+[已缩招近4千！今年民办大缩招吗-普通专升本英语单词带背06](https://mp.weixin.qq.com/s/35M27qOf-Z-vcQaRwjXN-A)
 
 1. ______ (Apply) for the Olympic volunteers must be able to contribute excellent services to meet the `demands` of the Games.  
 ::: details answer ❌
@@ -343,4 +345,39 @@ an
 5. We can be sure that he will be different ______ what he is today.  
 ::: details answer ✅  
 from
+:::
+
+## 7 ❌2
+
+[等成绩焦虑到绝经，亲戚45天没来-普通专升本英语单词带背07](https://mp.weixin.qq.com/s/xugfBWwf_ubf23h3ijlmew)
+
+It takes a great deal of courage to face the situation ______ (brave).
+::: details answer ✅
+bravely
+:::
+
+In the distance, the sky was beginning to ______ (bright).
+::: details answer 🟨❌
+adj. bright  
+n. brightness  
+v. brighten  
+
+brightness ❌  
+brighten ✅
+:::
+
+No school I have taught in has ever ignored spelling or considered it unimportant as a ______ (base) skill.
+::: details answer ✅
+basic
+:::
+
+A teacher should be good ______ drawing inferences about other cases from one instance.
+::: details answer 🟨❌
+in ❌  
+at ✅
+:::
+
+On ______ other hand, people from other cultures may dislike the American lifestyle.
+::: details answer ✅
+the
 :::
