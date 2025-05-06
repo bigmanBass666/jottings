@@ -381,3 +381,34 @@ On ______ other hand, people from other cultures may dislike the American lifest
 ::: details answer ✅
 the
 :::
+
+## 8
+
+It is widely recognized that ______ (beautiful) lies not only in appearance but also in heart.
+::: details answer ❌
+beautiful ❌  
+beauty ✅  
+根据句意可知用 “美” 的名词；也可根据空格后的动词lies得知空格处缺主语，用名词可充当。
+翻译：人们普遍认为美不仅在于外表也在于内心。
+:::
+
+According to some religious ______ (believe), the world is created by God.
+::: details answer ❌
+belief ❌  
+beliefs ✅
+:::
+
+Once we reach an arrangement, we can go ahead with the ______ (build) project.
+::: details answer ✅
+building
+:::
+
+On the day of receiving the second letter, ______ (thousand) of employees rushed back to the company.
+::: details answer ✅
+thousands
+:::
+
+The writer wants to tell readers how to be popular ______ other people.
+::: details answer ✅
+with
+:::
