@@ -3,9 +3,12 @@
 layout: home
 
 hero:
-  name: "风中的纸屑"
-  text: "只是随手捕获"
-  tagline: 灵感和想法<br>风花雪月与浅斟低唱
+  # name: "风中的纸屑"
+  # text: "只是随手捕获"
+  # tagline: 灵感和想法<br>风花雪月与浅斟低唱
+  name: "电子垃圾桶"
+  text: "杂货间, 剪贴板"
+  tagline: 随手记下<br>想到什么写什么
   image:
     # src: /logo.png
     # src: https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/snow-481fbd0e5becfc045f_0130e00ad368c.png
