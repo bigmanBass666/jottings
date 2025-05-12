@@ -4,6 +4,16 @@ fileTitle: 2.长裤
 
 # 长裤
 
+## [LKTM 微喇牛仔裤](https://detail.1688.com/offer/741690038837.html)
+
+::: details 尺码表
+![1740230994094.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/1747056472801_b591fa93cdec2.png)
+:::
+
+::: details 模特图
+![O1CN018L0Sqq2FfSdntB4Ka_!!1818268907-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/O1CN018L0Sqq2FfSdntB4Ka_!!1818268907-0-cib_f59adb07701a2.jpg)
+:::
+
 ## [春夏阔腿裤](https://detail.1688.com/offer/885667192883.html)
 
 ::: details 平铺图
@@ -115,7 +125,7 @@ fileTitle: 2.长裤
 - 修身, 多穿一条秋裤, 抬腿有些勒
   > 63cm大腿围, 只比自身大腿围(58cm)大了`5cm`
 
-## [微喇牛仔裤](https://detail.1688.com/offer/606744934792.html?spm=a360q.8274423.0.0.61344c9a9W1Myd)
+## [尼本微喇牛仔裤](https://detail.1688.com/offer/606744934792.html?spm=a360q.8274423.0.0.61344c9a9W1Myd)
 
 > 广州市尼本服饰有限公司
 

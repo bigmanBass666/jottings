@@ -6,6 +6,25 @@ fileTitle: 1.衣
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
+## [女背心](https://detail.1688.com/offer/885256318360.html)
+
+::: details 尺码表
+![1747052886841.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/1747052886841_486a6c84cfc3c.png)
+:::
+
+::: details 平铺图
+![O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib_5d26a73560580.jpg)
+:::
+
+### L
+
+- 从视频里来看, L码视觉效果最好, 因为腰收紧了, 衣长更短, 但是第一人称看着有些过于紧致擦边了
+  > 胸围`82cm`, 比红背心小`2cm`
+
+### XL
+
+- 第一人称看着正常, 毕竟胸围`88cm`比红背心大了`4cm`
+
 ## 红背心
 
 ::: details 平铺图
