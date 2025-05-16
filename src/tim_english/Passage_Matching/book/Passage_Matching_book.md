@@ -334,42 +334,43 @@ D. Remember, your doctor and other caregivers are on your side.
 
 E. Bring your medical history, including a list of your current medicines.
 
-::: details 1
+::: details 1 🟨
+C
 :::
 
-\_\_1\_\_ Invite 5—10 people so you have a nice selection. Less people than that, and there may not be enough things to choose from; more than that, and it becomes uncontrollable.
+Invite 5—10 people so you have a nice selection. Less people than that, and there may not be enough things to choose from; more than that, and it becomes uncontrollable.
 
-\_\_2\_\_They should also prepare plenty of reusable bags to carry their“new”clothes home.
+\_\_1\_\_They should also prepare plenty of reusable bags to carry their“new”clothes home.
 
-A. Less people than that
+~~A. Less people than that~~
 
 B. Hold a clothing swap
 
-C. Just keep music playing throughout
+~~C. Just keep music playing throughout~~
 
-D. Have everyone put their clothes in the right spots
+~~D. Have everyone put their clothes in the right spots~~
 
 E. Tell everyone to bring clean clothes in good condition
 
-::: details 1
-:::
-
-::: details 2
+::: details 2 ❌
+B ❌  
+D ✅
 :::
 
 \_\_1\_\_ Do not follow the people who make you feel not-good-enough. Why do you follow them? Are you hoping that eventually you will feel empowered because your life is better than theirs? Know that your life is your own; you are the only you in this world.
 
-A. Feeling upset again?
+~~A. Feeling upset again?~~
 
-B. Where do you start?
+~~B. Where do you start?~~
 
-C. Nothing is too small to celebrate.
+~~C. Nothing is too small to celebrate.~~
 
-D. Remember, you are only human.
+~~D. Remember, you are only human.~~
 
 E. Stop comparing yourself with others.
 
-::: details 1
+::: details 1 ✅
+E
 :::
 
 Taking good notes is a time-saving skill that will help you to become a better student in several ways. \_\_1\_\_ Second, your notes are excellent materials to refer to when you are studying for a test. Third, note-taking offers variety to your study time and helps you to hold your interest.
@@ -384,7 +385,8 @@ D. That means you must first decide what is important enough to include in your 
 
 E. First, the simple act of writing something down makes it easier for you to understand and remember it.
 
-::: details 1
+::: details 1 ✅
+E
 :::
 
 We all grew up hearing people tell us to “go out and get some fresh air.” \_\_1\_\_ According to recent studies, the answer is a big YES, if the air quality in your camping area is good.
@@ -399,37 +401,41 @@ D. But is fresh air really as good for you as your mother always said?
 
 E. All across the country, recovery centers have begun building Healing Gardens.
 
-::: details 1
+::: details 1 ✅
+D
 :::
 
 Your personal circumstances are equally important. For example, you may want to be a Pilot but can’t become one because your eyesight is not good enough. \_\_1\_\_ You should reassess your goals, and motivate yourself to set a fresh goal.
 
-A. This can affect your work.
+~~A. This can affect your work.~~
 
 B. So how should you motivate yourself?
 
-C. However, this should not discourage you.
+~~C. However, this should not discourage you.~~
 
 D. They can change according to circumstances.
 
-E. Without motivation you can neither set a goal nor reach it.
+~~E. Without motivation you can neither set a goal nor reach it.~~
 
-::: details 1
+::: details 1 ❌
+D ❌  
+C ✅
 :::
 
-You also need to judge the quality and depth of your motivation. This is quite important, because it is directly related to your commitment. There are times when your heart is not in your work. \_\_1\_\_ So, slow down and think what you really want to do at that moment. Clarity (清晰) of thoughts can help you move forward.
+You also need to judge the quality and depth of your motivation. This is quite important, because it is directly related to your `commitment`. `There are times` when your heart is not in your work. \_\_1\_\_ So, slow down and think what you really want to do at that moment. Clarity (清晰) of thoughts can help you move forward.
 
 A. This can affect your work.
 
-B. So how should you motivate yourself?
+~~B. So how should you motivate yourself?~~
 
-C. However, this should not discourage you.
+~~C. However, this should not discourage you.~~
 
 D. They can change according to circumstances.
 
 E. Without motivation you can neither set a goal nor reach it.
 
-::: details 1
+::: details 1 ✅
+A
 :::
 
 “The message ‘bridge out’ would actually mean ‘Meet me.’ \_\_1\_\_ However, it is also hard to keep a code book secret for long. So codes must be changed frequently.
@@ -444,22 +450,25 @@ D. With a code book, you might write down words that would stand for other words
 
 E. Another way to hide a message is to use symbols to stand for specific letters of the alphabet.
 
-::: details 1
+::: details 1 ✅
+A
 :::
 
 \_\_1\_\_ On our first morning in Paris, I went around the corner to the food market to pickup some groceries. I bought a handful of perfectly ripe small strawberries and a little sweet melon. My husband and I agreed they were the best fruit we had ever eaten. But they cost $18! In France, quality of life is much more important than efficiency.
 
 A. Not all the customers are tourists.
 
-B. There was a nice kitchen and a comfortable bed.
+~~B. There was a nice kitchen and a comfortable bed.~~
 
 C. That’s not the only reason the French eat less than we do.
 
-D. Our aim was to see if we could live, in some way, like real Parisians.
+~~D. Our aim was to see if we could live, in some way, like real Parisians.~~
 
 E. The food is so delicious that you don’t need much of it to make you happy.
 
-::: details 1
+::: details 1 ❌
+E ❌  
+C ✅
 :::
 
 When people go to the movies today, they can settle in to watch and listen to a story. But what if when the lights dimmed and the movie began, there was no dialogue, sound effects, or music? \_\_1\_\_ Those silent films are important to film history.
@@ -475,6 +484,7 @@ D. However, there was no sound in the movie itself.
 E. Many silent film performers had trouble with the new format.
 
 ::: details 1
+B
 :::
 
 ## 22年真题
@@ -489,7 +499,7 @@ The first movie with sound, The Jazz Singer, was released in 1927. \_\_5\_\_ Aft
 
 A. It marked the beginning of a new era.
 
-B. That’s what the first movies were like.
+~~B. That’s what the first movies were like.~~
 
 C. Music was chosen to fit the mood of the movie.
 
@@ -497,17 +507,22 @@ D. However, there was no sound in the movie itself.
 
 E. Many silent film performers had trouble with the new format.
 
-::: details 1
+::: details 1 ✅
+B
 :::
 
-::: details 2
+::: details 2 ✅
+C
 :::
 
-::: details 3
+::: details 3 ✅
+D
 :::
 
-::: details 4
+::: details 4 ✅
+E
 :::
 
-::: details 5
+::: details 5 ✅
+A
 :::
