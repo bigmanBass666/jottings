@@ -14,6 +14,8 @@ fileTitle: 2.长裤
 ![O1CN018L0Sqq2FfSdntB4Ka_!!1818268907-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/O1CN018L0Sqq2FfSdntB4Ka_!!1818268907-0-cib_f59adb07701a2.jpg)
 :::
 
+- 有些过于宽松了
+
 ## [春夏阔腿裤](https://detail.1688.com/offer/885667192883.html)
 
 ::: details 平铺图
