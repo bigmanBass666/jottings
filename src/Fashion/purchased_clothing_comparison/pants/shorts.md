@@ -7,7 +7,7 @@ fileTitle: 1.短裤
 ## [新开衩](https://detail.1688.com/offer/764813383622.html)
 
 ::: details 尺码表
-![1749724743063.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/1749724743063_9647b31888396.png)
+![1750069148353.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/1750069148353_1019ddc3541f7.png)
 :::
 
 ::: details 模特图
