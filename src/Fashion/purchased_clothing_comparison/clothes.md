@@ -6,6 +6,19 @@ fileTitle: 1.衣
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
+## [回力女短袖](https://detail.tmall.com/item.htm)
+
+::: details 尺码表
+![1750431272971.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/1750431272971_deb3759f43da2.png)
+:::
+
+::: details 模特图
+![1750431219559.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/1750431219559_916dd6db7638b.png)
+:::
+
+- `49`的衣长已经是极限了, 不能再短了, 抬手已经会露肉了
+- `85.5`的胸围比 [红背心](#红背心) 多了1.5cm
+
 ## [女背心](https://detail.1688.com/offer/885256318360.html)
 
 ::: details 尺码表
@@ -125,6 +138,14 @@ fileTitle: 1.衣
 - 56cm的袖长略长, 主要还是袖长
 - 230g
 
+## 黑与白中领毛衣
+
+::: details 尺码表
+![O1CN01rbzP7k1PJbp6Vj6J0_!!3007911820-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01rbzP7k1PJbp6Vj6J0_!!3007911820-0-cib_5d5faaf942464.jpg)
+:::
+
+- 修身, 比古老黑毛衣稍大一丝丝
+
 ## 古老黑色毛衣
 
 ::: details 平铺图
@@ -139,14 +160,6 @@ fileTitle: 1.衣
 
 - 穿上是修身款式
 - 衣服可以堆在腰间, 所以衣长看起来会比较短
-
-## 黑与白中领毛衣
-
-::: details 尺码表
-![O1CN01rbzP7k1PJbp6Vj6J0_!!3007911820-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01rbzP7k1PJbp6Vj6J0_!!3007911820-0-cib_5d5faaf942464.jpg)
-:::
-
-- 修身, 比古老黑毛衣稍大一丝丝
 
 ## 灰色卫衣
 
