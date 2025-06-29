@@ -6,6 +6,22 @@ fileTitle: 1.衣
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
+## [惠本女短袖](https://detail.1688.com/offer/885194661400.html)
+
+::: details 尺码表
+![1751200208630.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/1751200208630_2b1440b2d582c.png)
+:::
+
+::: details 商品图
+![O1CN01N4JRQZ1whJh1954Be_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/O1CN01N4JRQZ1whJh1954Be_!!2213972956339-0-cib_8be4cc5e604e8.jpg)
+:::
+
+### L
+
+### XL
+
+### 2XL
+
 ## [回力女短袖](https://detail.tmall.com/item.htm)
 
 ::: details 尺码表
