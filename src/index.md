@@ -18,6 +18,9 @@ hero:
     - theme: sponsor
       text: Todo
       link: /todo/todo.md
+    - theme: sponsor
+      text: clipboard
+      link: /clipboard/clipboard.md
     # - theme: alt 
     #   text: 哇哇
     #   link: /#
