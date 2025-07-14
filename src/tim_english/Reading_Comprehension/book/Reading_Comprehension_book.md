@@ -63,9 +63,9 @@ Johnson attracted the world’s attention and stole the hearts of thousands of p
    ::: details 35
    :::
 
-## passage 2
+## passage 2 ❌2 18m 11s
 
-What should you think about in trying to find your career? You are probably better at some school subjects than others. These may show strengths that you can use in your work. A boy who is good at mathematics can use that in an engineering career. A girl who spells well and likes English may be good at office work. So, it is important to do well at school. On the other hand, you may not have any especially strong or weak subjects but your records show a general satisfactory standard. Although not all the subjects can be used directly in a job, they may have indirect value. Knowledge of history is not required for most jobs but if history is one of your good subjects you will have learned to remember the facts and details. That is the ability that can be useful in many jobs.
+What should you think about in trying to find your career? You are probably better at some school subjects than others. These may show strengths that you can use in your work. A boy who is good at mathematics can use that in an engineering career. A girl who spells well and likes English may be good at office work. So, **it is important to do well at school.** On the other hand, you may not have any especially strong or weak subjects but your records show a general satisfactory standard. Although not all the subjects can be used directly in a job, they may have indirect value. Knowledge of history is not required for most jobs but if history is one of your good subjects you will have learned to remember the facts and details. That is the ability that can be useful in many jobs.
 
 Your school may have taught you skills, such as typing or technical drawing, which you can use in your work. You may be good at mental work or cookery and look for a job where you can improve these skills.
 
@@ -74,12 +74,15 @@ If you have had a part-time job on Saturdays or in the summer, think what you ga
 Facing your weak points is also part of knowing yourself. Perhaps you are a poor speller or cannot add up a column of figures. It is better to face any weaknesses than to pretend they do not exist. Your school record, for instance, may not be good, yet it is an important part of your background. You should not be apologetic about it but instead recognize that you will have a chance of a fresh start at work.
 
 36. What does the first paragraph mainly tell us?  
-   A. The importance of finding a good job.  
+   ~~A. The importance of finding a good job.~~  
    B. The importance of one’s ability in school.  
-   C. The importance of doing well in school work.  
-   D. The importance of being good at all the subjects.
+   C. The importance of doing well in `school work`.  
+   ~~D. The importance of being good at all the subjects.~~
 
-   ::: details 36
+   ::: details 36 🟨❌
+   B ❌  
+   C ✅  
+   我看到school work里的work就没敢选, 原来是"学校作业"的意思, 我还以为是"学校工作的意思"
    :::
 
 37. What knowledge is not necessary in looking for many jobs according to the writer?  
@@ -88,7 +91,8 @@ Facing your weak points is also part of knowing yourself. Perhaps you are a poor
    C. History  
    D. Typing.
 
-   ::: details 37
+   ::: details 37 ✅
+   C
    :::
 
 38. The writer’s attitude towards a part-time job is _______.  
@@ -97,25 +101,30 @@ Facing your weak points is also part of knowing yourself. Perhaps you are a poor
    C. neutral  
    D. hostile
 
-   ::: details 38
+   ::: details 38 ✅
+   A
    :::
 
 39. It can be inferred from the passage that if a student’s school work is not good, he _______.  
    A. can find his weakness  
    B. can get a new start in his work  
-   C. will fail in looking for a job  
-   D. will feel regret about his ability
+   ~~C. will fail in looking for a job~~  
+   ~~D. will feel regret about his ability~~
 
-   ::: details 39
+   ::: details 39 ✅
+   B
    :::
 
-40. The passage is developed by giving _______.  
-   A. a comparison  
+40. The passage is developed by giving _______. <Badge type='danger' text='看不懂题'/>  
+   ~~A. a comparison~~  
    B. enough evidence  
    C. some examples  
    D. some facts
 
-   ::: details 40
+   ::: details 40 🟨❌🤖
+   D ❌  
+   C ✅  
+   ["那最后一题为什么不能选D呢? 我觉得D是..."](https://yb.tencent.com/s/KafccBNcG9Xe)
    :::
 
 ## passage 3
@@ -171,9 +180,9 @@ Women are also more active in sports now because of two changes in sports. First
    ::: details 45
    :::
 
-## passage 4
+## passage 4 ❌3 14m 45s
 
-New research is trying to find how we learn and make decisions exactly. To the brain, a new thought or idea is like a spider. If it works hard enough, a web of knowledge spins out from it. Photos of the brain taken during learning actually show a kind of nerve cells firing, growing, and forming new connections. This is fascinating in itself, but what’s even more fascinating is that failure can cause this to happen.
+New research is trying to find how we learn and make decisions exactly. To the brain, a new thought or idea is like a spider. If it works hard enough, a web of knowledge `spins` out from it. Photos of the brain taken during learning actually show a kind of nerve cells `firing`, growing, and forming new connections. This is fascinating in itself, but what’s even more fascinating is that failure can cause this to happen.
 
 That’s right; failure can enhance your brain.
 
@@ -184,39 +193,45 @@ Antoine Bechara, a professor of psychology and neuroscience at the University of
 “We always knew people could learn from their mistakes, but now we’re finding out exactly how and where this happens,” explains Bechara. “In a normally functioning brain, failure is taken as an opportunity for learning and strengthening the species.”
 
 46. According to the passage, like a spider, a new thought or idea could ______.  
-   A. come from hard work  
+   ~~A. come from hard work~~  
    B. enrich your brain  
-   C. be very fascinating  
+   C. be very `fascinating`  
    D. form a knowledge web
 
-   ::: details 46
+   ::: details 46 ❌ 忘记填了
+   D ✅
    :::
 
 47. Which of the following statements about Antoine Bechara is true?  
    A. He explored how human beings survive.  
    B. He found how the brain normally functions.  
    C. He probably discovered the physical locations for the twin mind-sets.  
-   D. He studied the brain waves of people with growth and fixed mind-sets.
+   ~~D. He studied the brain waves of people with growth and fixed mind-sets.~~
 
-   ::: details 47
+   ::: details 47 ✅
+   C
    :::
 
 48. Carol Dweck’s work has something to do with ______.  
-   A. how to take photos of the brain  
-   B. how failure helps the brain “grow”  
+   ~~A. how to take photos of the brain~~  
+   ~~B. how failure helps the brain “grow”~~  
    C. when the areas in the brain interact with each other  
    D. when nerve cells fire, grow, and form new connections
 
-   ::: details 48
+   ::: details 48 ❌
+   C ❌  
+   B ✅
    :::
 
 49. The passage is most probably from a ______.  
    A. laboratory journal  
-   B. newspaper report  
+   ~~B. newspaper report~~  
    C. medical magazine  
-   D. personal resume
+   ~~D. personal resume~~
 
-   ::: details 49
+   ::: details 49 ❌
+   A ❌  
+   C ✅
    :::
 
 50. The author’s tone can be best described as ______.  
@@ -225,7 +240,8 @@ Antoine Bechara, a professor of psychology and neuroscience at the University of
    C. personal  
    D. official
 
-   ::: details 50
+   ::: details 50 ✅
+   A
    :::
 
 更多习题 P316
