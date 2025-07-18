@@ -25,6 +25,7 @@ Johnson attracted the world’s attention and stole the hearts of thousands of p
    D. he had his own idea to fight against the disease
 
    ::: details 31
+   D
    :::
 
 32. What does the underlined expression “claimed his life” mean in the third paragraph?  
@@ -34,6 +35,7 @@ Johnson attracted the world’s attention and stole the hearts of thousands of p
    D. Helped him survive
 
    ::: details 32
+   A
    :::
 
 33. From the fourth paragraph, it can be inferred that 20 HIV or AIDS children _______.  
@@ -43,6 +45,7 @@ Johnson attracted the world’s attention and stole the hearts of thousands of p
    D. were looked after by the government
 
    ::: details 33
+   A
    :::
 
 34. What idea did Johnson give in his speech?  
@@ -52,6 +55,7 @@ Johnson attracted the world’s attention and stole the hearts of thousands of p
    D. He wanted AZT to treat pregnant AIDS women.
 
    ::: details 34
+   D
    :::
 
 35. Which of the following might be the best title of the passage?  
@@ -61,6 +65,7 @@ Johnson attracted the world’s attention and stole the hearts of thousands of p
    D. A Deadly Disease—AIDS
 
    ::: details 35
+   B
    :::
 
 ## passage 2 ❌2 18m 11s

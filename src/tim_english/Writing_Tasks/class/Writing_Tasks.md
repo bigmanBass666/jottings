@@ -4,7 +4,7 @@ fileTitle: 1.写作-课
 
 # 写作
 
-p249
+对应复习全书 p249
 
 ## 第一段
 
@@ -61,7 +61,7 @@ p249
 - I am looking forward to your early reply.
 - 期待您的早日回复。（注意上下文）
 
-## 客套话-如果您能接受我的邀请，我将非常开心，祝您幸福
+如果您能接受我的邀请，我将非常开心，祝您幸福
 
 - I would be grateful if you could accept my invitation.
 - With my best wishes to you.
