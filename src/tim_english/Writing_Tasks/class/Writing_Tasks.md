@@ -38,7 +38,7 @@ fileTitle: 1.写作-课
 
 **分两/三点**
 
-- 第一 In the first place,
+- 第一 In the first place, first and foremost
 - 第二 What's more,（好） what's worse,（坏）
 - 第三 Last but not least,
 - 例如 for instance,

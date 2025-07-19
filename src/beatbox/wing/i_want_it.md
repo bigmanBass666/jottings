@@ -1,7 +1,3 @@
----
-fileTitle: 1.i_want_it
----
-
 # I Want It
 
 [【BBU22线上赛！】16进8 WING vs DROPICAL | I Want It](https://www.bilibili.com/video/BV1eT4y1S7fW)

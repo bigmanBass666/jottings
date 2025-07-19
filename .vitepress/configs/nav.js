@@ -47,15 +47,7 @@ export const nav = [
   // beatbox
   {
     text: 'beatbox',
-    items: [
-      {
-        items: [
-          { text: 'Wing', link: '/beatbox/wing/i_want_it' },
-          { text: 'Osis', link: '/beatbox/osis/cash' },
-          { text: 'Improver', link: '/beatbox/improver/The_Business' },
-        ]
-      }
-    ]
+    link: '/beatbox/wing/adderall'
   },
 
   // 穿搭
