@@ -59,4 +59,4 @@ public String getStatusStr() {
 <td>{{brand.statusStr}}</td>
 ```
 
-虽然brand对象没有statusStr属性, 但是这一段代码`{{brand.statusStr}}`会调用`getStatusStr()`方法
+虽然brand对象没有statusStr属性, 但是这一段代码`{\{brand.statusStr}}`会调用`getStatusStr()`方法
