@@ -9,3 +9,5 @@
 ```
 
 vitepress 在构建的时候就以为要去找brand.statusStr这个东西, 那当然会报错了
+
+解决办法是在双大括号之间加入了个反斜杠`{\{brand.statusStr}}`
