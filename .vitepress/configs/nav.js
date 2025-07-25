@@ -56,9 +56,16 @@ export const nav = [
     link: '/Fashion/fabric'
   },
 
-  // Tim英语学习
+  // 学习
   {
-    text: 'Tim英语',
-    link: '/tim_english/WordFormation1/adjective_practice'
+    text: '学习',
+    items: [
+      {
+        items: [
+          { text: 'Tim英语', link: '/tim_english/WordFormation1/adjective_practice' },
+          { text: '计算机', link: '/CS/vim' },
+        ]
+      }
+    ]
   },
 ]

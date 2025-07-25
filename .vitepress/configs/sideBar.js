@@ -71,6 +71,10 @@ const sideBars = [
     resolvePath: '/tim_english/',
     excludePattern: ['DeepSeek_Analyses/'],
   },
+  {
+    scanStartPath: 'CS',
+    resolvePath: '/CS/',
+  },
 ]
 
 const mergedSideBars = sideBars.map(sidebar => ({
