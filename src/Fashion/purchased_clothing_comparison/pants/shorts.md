@@ -4,7 +4,17 @@ fileTitle: 1.短裤
 
 # 短裤
 
-## [新开衩](https://detail.1688.com/offer/764813383622.html)
+## [良汭短裤](https://detail.1688.com/offer/709424343633.html)
+
+::: details 尺码表
+![1754058421711.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/08/1754058421711_094af8f60b503.png)
+:::
+
+### M
+
+- 感觉臀围有点小
+
+## [韩路开衩](https://detail.1688.com/offer/764813383622.html)
 
 ::: details 尺码表
 ![1750069148353.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/06/1750069148353_1019ddc3541f7.png)
