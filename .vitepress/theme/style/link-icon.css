@@ -2,17 +2,19 @@
 /* 在链接前显示平台icon */
 
 
+/* 闲鱼 */
+.vp-doc a[href*="goofish.com"]:before,
 /* 拼多多 */
-.vp-doc a[href*="https://mobile.yangkeduo.com/"]:before,
+.vp-doc a[href*="mobile.yangkeduo.com"]:before,
 /* youtube */
 .vp-doc a[href*="youtube.com"]:before,
 .vp-doc a[href*="youtu.be"]:before,
 /* 1688 */
 .vp-doc a[href*="1688.com"]:before,
 /* 知网 */
-.vp-doc a[href*="https://kns.cnki.net/"]:before,
+.vp-doc a[href*="kns.cnki.net"]:before,
 /* 微信 */
-.vp-doc a[href*="https://mp.weixin.qq.com/"]:before,
+.vp-doc a[href*="mp.weixin.qq.com"]:before,
 /* 抖音 */
 .vp-doc a[href*="douyin.com"]:before,
 /* 知乎 */
@@ -39,6 +41,11 @@
   margin-right: 4px;
 }
 
+/* 闲鱼 */
+.vp-doc a[href*="goofish.com"]:before
+{
+  background-image: url(/svg/xianyv.svg);
+}
 /* DeepSeek */
 .vp-doc a[href*="DeepSeek_Analyses"]:before
 {
@@ -82,13 +89,13 @@
 }
 
 /* 微信 */
-.vp-doc a[href*="https://mp.weixin.qq.com/"]:before
+.vp-doc a[href*="mp.weixin.qq.com"]:before
 {
   background-image: url(/svg/weixin.svg);
 }
 
 /* 知网 */
-.vp-doc a[href*="https://kns.cnki.net/"]:before
+.vp-doc a[href*="kns.cnki.net"]:before
 {
   background-image: url(/svg/zhiwang.svg);
 }
@@ -100,7 +107,7 @@
 }
 
 /* 拼多多 */
-.vp-doc a[href*="https://mobile.yangkeduo.com/"]:before
+.vp-doc a[href*="mobile.yangkeduo.com"]:before
 {
   background-image: url(/svg/pdd.svg);
 }
