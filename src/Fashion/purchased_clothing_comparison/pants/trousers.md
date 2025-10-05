@@ -4,6 +4,50 @@ fileTitle: 2.长裤
 
 # 长裤
 
+## [良汭 藏青 阔腿](https://detail.1688.com/offer/828610354550.html?spm=a360q.8274423%2Fnew.goods.productname)
+
+::: details 尺码表
+![1759652444097.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/1759652444097_6dbb01d04a096.png)
+:::
+
+::: details 平铺图
+![O1CN01jyxtQt1C84qaDKpWn_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01jyxtQt1C84qaDKpWn_!!2316160035-0-cib_931cb9536a0e7.jpg)
+:::
+
+::: details 模特图
+![O1CN01H54OaP1C84qaDJM5B_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01H54OaP1C84qaDJM5B_!!2316160035-0-cib_27c308d17bcb0.jpg)
+![O1CN01eXvSoo1C84qavC2ob_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01eXvSoo1C84qavC2ob_!!2316160035-0-cib_865752de7ad4f.jpg)
+![O1CN01FMlWuQ1C84qSgC1Zs_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01FMlWuQ1C84qSgC1Zs_!!2316160035-0-cib_b01f486917647.jpg)
+:::
+
+## [良汭 深灰 伞兵裤](https://detail.1688.com/offer/826582427174.html?spm=a360q.8274423%2Fnew.goods.productname)
+
+::: details 尺码表
+![1759652110855.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/1759652110855_10e09da09e706.png)
+:::
+
+::: details 模特图
+![O1CN019eV25v1C84qSICYYN_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN019eV25v1C84qSICYYN_!!2316160035-0-cib_63c8df3a39c7f.jpg)
+![O1CN01Xop0VK1C84qUDEK5W_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01Xop0VK1C84qUDEK5W_!!2316160035-0-cib_505fa6c430b79.jpg)
+![O1CN01XdPPBN1C84qSF9mID_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01XdPPBN1C84qSF9mID_!!2316160035-0-cib_fe1d4957627cc.jpg)
+:::
+
+## [良汭 加绒 打褶 微喇 西裤](https://detail.1688.com/offer/847444904962.html?spm=a360q.8274423%2Fnew.goods.productname)
+
+::: details 尺码表
+![1759650226611.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/1759650226611_dff5c246b12b7.png)
+:::
+
+::: details 平铺图
+![O1CN01lIvfqp1C84ruzcjYu_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/O1CN01lIvfqp1C84ruzcjYu_!!2316160035-0-cib_01bab5880f7ac.jpg)
+:::
+
+- 要穿跟高的鞋, 不然裤脚会拖地
+- L挺好的, 宽松, 但是大腿那边的褶子会很奇怪, 显得大腿肿肿的
+- M好像又不是那么宽松了, 看不出太宽松的感觉, 感觉腿不够宽松
+- 两个尺码穿上老爹鞋都不会拖地
+- L其实是很好的宽松效果了
+
 ## [LKTM 微喇牛仔裤](https://detail.1688.com/offer/741690038837.html)
 
 ::: details 尺码表
@@ -16,7 +60,7 @@ fileTitle: 2.长裤
 
 - 有些过于宽松了
 
-## [春夏阔腿裤](https://detail.1688.com/offer/885667192883.html)
+## [良汭 春夏 蚂蚁腰 阔腿](https://detail.1688.com/offer/885667192883.html)
 
 ::: details 平铺图
 ![O1CN01VHpZ8O1C84tVw6vte_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/O1CN01VHpZ8O1C84tVw6vte_!!2316160035-0-cib_908b0939edcbd.jpg)
@@ -42,11 +86,9 @@ fileTitle: 2.长裤
 - 100cm裤长有些过长了
   > 因为脚口比较大(`60.5cm`), 所以裤子不会堆在鞋子那里, 会直接垂下去
 - 100cm臀围比较显辟谷
-- 裆稍微比[弯刀 加绒卫裤](#弯刀-加绒卫裤)的`33cm`短一点
+- 裆稍微比[弯刀 加绒](#弯刀-加绒)的`33cm`短一点
 
-## [弯刀 加绒卫裤](https://detail.1688.com/offer/860326994515.html)
-
-> 浙江良汭服饰有限公司
+## [良汭 弯刀 加绒](https://detail.1688.com/offer/860326994515.html)
 
 ::: details 平铺图
 ![O1CN01GDbXRq1C84saEMRjs_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/O1CN01GDbXRq1C84saEMRjs_!!2316160035-0-cib_97b1efa10a078.jpg)
@@ -69,16 +111,14 @@ fileTitle: 2.长裤
 ### L {id=微阔-加绒卫裤L}
 
 - 完美~
-- 宽松, 阔腿板型
+- 宽松
 - 脚口有稍微的收小
 
 | 尺码 | 前裆 |
 | :--: | :--: |
 |  L   |  33  |
 
-## [直筒 加绒卫裤 无绳 无扣](https://detail.1688.com/offer/743600890153.html)
-
-> 浙江良汭服饰有限公司
+## [良汭 直筒 加绒 美拉德](https://detail.1688.com/offer/743600890153.html)
 
 ::: details 商品图
 ![O1CN01fiek2e1C84kVOG2vq_!!2316160035-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/O1CN01fiek2e1C84kVOG2vq_!!2316160035-0-cib_db3fdeb4c9ac4.jpg)
@@ -104,9 +144,7 @@ fileTitle: 2.长裤
 - 腰也有些过高
 - 690g?
 
-## [直筒 原色牛仔](https://detail.1688.com/offer/623840204468.html)
-
-> 广州市尼本服饰有限公司
+## [尼本 直筒 原牛](https://detail.1688.com/offer/623840204468.html)
 
 ::: details 商品图
 ![直筒-原色牛仔.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/直筒-原色牛仔_f4c9d16a8810b.png)
@@ -128,8 +166,6 @@ fileTitle: 2.长裤
   > 63cm大腿围, 只比自身大腿围(58cm)大了`5cm`
 
 ## [尼本微喇牛仔裤](https://detail.1688.com/offer/606744934792.html?spm=a360q.8274423.0.0.61344c9a9W1Myd)
-
-> 广州市尼本服饰有限公司
 
 ::: details 平铺图
 ![O1CN01sxS7z328m93LYBQwd_!!2682667974-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/O1CN01sxS7z328m93LYBQwd_!!2682667974-0-cib_118bd12ee45fd.jpg)
@@ -174,7 +210,9 @@ fileTitle: 2.长裤
 - 92cm的裤长不够
 - 难看, 丑
 
-## 灰色冰丝运动裤
+- 服了, 79贵死了, 都够在良汭买两条了
+
+## [灰色冰丝运动裤](https://item.jd.com/10054933448208.html)
 
 ::: details 尺码表
 ![灰色冰丝长裤](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/IMG_20250111_002339_05bf203bb23ef.png)

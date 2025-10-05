@@ -1,9 +1,10 @@
 /* .vitepress/theme/style/link-icon.css */
 /* 在链接前显示平台icon */
 
-
 /* 闲鱼 */
 .vp-doc a[href*="goofish.com"]:before,
+/* 京东 */
+.vp-doc a[href*="jd.com"]:before,
 /* 拼多多 */
 .vp-doc a[href*="mobile.yangkeduo.com"]:before,
 /* youtube */
@@ -28,8 +29,7 @@
 /* 混元 */
 .vp-doc a[href*="yuanbao.tencent.com"]:before,
 /* DeepSeek */
-.vp-doc a[href*="DeepSeek_Analyses"]:before
-{
+.vp-doc a[href*="DeepSeek_Analyses"]:before {
   content: '';
   width: 20px;
   height: 20px;
@@ -41,80 +41,73 @@
   margin-right: 4px;
 }
 
+/* 京东 */
+.vp-doc a[href*="jd.com"]:before {
+  background-image: url(/svg/jd.svg);
+}
+
 /* 闲鱼 */
-.vp-doc a[href*="goofish.com"]:before
-{
+.vp-doc a[href*='goofish.com']:before {
   background-image: url(/svg/xianyv.svg);
 }
+
 /* DeepSeek */
-.vp-doc a[href*="DeepSeek_Analyses"]:before
-{
+.vp-doc a[href*='DeepSeek_Analyses']:before {
   background-image: url(/svg/deepseek.svg);
 }
 
 /* 混元 */
-.vp-doc a[href*="yuanbao.tencent.com"]:before
-{
+.vp-doc a[href*='yuanbao.tencent.com']:before {
   background-image: url(/svg/hunyuan.svg);
 }
 
 /* 哔哩哔哩 */
-.vp-doc a[href*="bilibili.com"]:before
-{
+.vp-doc a[href*='bilibili.com']:before {
   background-image: url(/svg/bilibili.svg);
 }
 
 /* 淘宝 */
-.vp-doc a[href*="taobao.com"]:before
-{
+.vp-doc a[href*='taobao.com']:before {
   background-image: url(/svg/taobao.svg);
 }
 
 /* 天猫 */
-.vp-doc a[href*="tmall.com"]:before
-{
+.vp-doc a[href*='tmall.com']:before {
   background-image: url(/svg/tianmao.svg);
 }
 
 /* 知乎 */
-.vp-doc a[href*="zhihu.com"]:before
-{
+.vp-doc a[href*='zhihu.com']:before {
   background-image: url(/svg/zhihu.svg);
 }
 
 /* 抖音 */
-.vp-doc a[href*="douyin.com"]:before
-{
+.vp-doc a[href*='douyin.com']:before {
   background-image: url(/svg/douyin.svg);
 }
 
 /* 微信 */
-.vp-doc a[href*="mp.weixin.qq.com"]:before
-{
+.vp-doc a[href*='mp.weixin.qq.com']:before {
   background-image: url(/svg/weixin.svg);
 }
 
 /* 知网 */
-.vp-doc a[href*="kns.cnki.net"]:before
-{
+.vp-doc a[href*='kns.cnki.net']:before {
   background-image: url(/svg/zhiwang.svg);
 }
 
 /* 1688 */
-.vp-doc a[href*="1688.com"]:before
-{
+.vp-doc a[href*='1688.com']:before {
   background-image: url(/svg/1688.svg);
 }
 
 /* 拼多多 */
-.vp-doc a[href*="mobile.yangkeduo.com"]:before
-{
+.vp-doc a[href*='mobile.yangkeduo.com']:before {
   background-image: url(/svg/pdd.svg);
 }
 
 /* youtube */
-.vp-doc a[href*="youtube.com"]:before,
-.vp-doc a[href*="youtu.be"]:before
-{
+.vp-doc a[href*='youtube.com']:before,
+.vp-doc a[href*='youtu.be']:before {
   background-image: url(/svg/youtube.svg);
 }
