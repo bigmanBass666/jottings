@@ -30,9 +30,19 @@ fileTitle: 6.夹克
 ![1761247439165.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/1761247439165_ea2e39188cdb8.png)
 :::
 
+::: details 上身效果
+![IMG_20251026_020640.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/IMG_20251026_020640_3ac96f98711b3.jpg)
+:::
+
+- 我去, 很一般啊, 软软的软趴趴的, 领口很大, 莫名其妙
+- 穿起来像夜店男模, 不穿了
+
 - M
+  - `50` 衣长略短
 - L
+  - `52` 衣长还好
 - XL
+  - 没怎么注意, `54` 这个长度已经有些55分了
 
 ## [1688 三无 红夹克](https://detail.1688.com/offer/962744121881.html?spm=a360q.8274423%2Fnew.goods.productname)
 
