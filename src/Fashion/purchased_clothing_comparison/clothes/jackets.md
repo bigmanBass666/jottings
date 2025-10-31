@@ -15,7 +15,25 @@ fileTitle: 6.夹克
 :::
 
 - M
+  - 衣长合适 但有些 过于贴身
+
+::: details 1
+![IMG_20251027_235141.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/11/IMG_20251027_235141_7352e22b18902.jpg)
+:::
+
 - L
+  - 稍长但显肩宽
+
+::: details 1
+![IMG_20251028_012203.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/11/IMG_20251028_012203_88278aa8ea97c.jpg)
+:::
+::: details 2
+![IMG_20251028_011922.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/11/IMG_20251028_011922_609d30038be5d.jpg)
+:::
+::: details 3
+![IMG_20251028_011858.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/11/IMG_20251028_011858_8cf143813e3e3.jpg)
+:::
+
 - XL
 
 ## [淘宝 双拉头 红夹克](https://detail.tmall.com/item.htm?id=975809413322)
