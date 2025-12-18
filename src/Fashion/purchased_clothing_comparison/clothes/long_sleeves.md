@@ -4,7 +4,21 @@ fileTitle: 3.长袖
 
 # 长袖
 
-## [惠本女打底长袖](https://detail.1688.com/offer/947340795256.html?spm=a360q.8274423%2Fnew.goods.productname)
+## [惠本女打底中领长袖](https://detail.1688.com/offer/996291685111.html)
+
+::: details 尺码表
+![1766067582008.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/12/1766067582008_232583f37dbac.png)
+:::
+
+::: details 商品图
+![O1CN01YGy5xI1whJlcMOUyA_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/12/O1CN01YGy5xI1whJlcMOUyA_!!2213972956339-0-cib_fd7c03f1c3d8f.jpg)
+:::
+
+::: details 模特图
+![O1CN01VhZSpr1whJlbqzdv2_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/12/O1CN01VhZSpr1whJlbqzdv2_!!2213972956339-0-cib_8ac71c948e24b.jpg)
+:::
+
+## [惠本女打底圆领长袖](https://detail.1688.com/offer/947340795256.html)
 
 ::: details 尺码表
 ![1759649687962.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/1759649687962_fe6765d17f710.png)
@@ -17,9 +31,9 @@ fileTitle: 3.长袖
 
 - XL不够修身, 也不宽松, 丑
 - M码又太擦边
-- L码这个长度还行 `55`
+- L码这个长度还行 `55`, 完美打底了属于是
 
-## [惠本男长袖](https://detail.1688.com/offer/673700606253.html?spm=a360q.8274423%2Fnew.goods.productname)
+## [惠本男长袖](https://detail.1688.com/offer/673700606253.html)
 
 ::: details 尺码表
 ![1759649075862.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/10/1759649075862_3c4337ad43eb4.png)
