@@ -18,6 +18,8 @@ fileTitle: 3.长袖
 ![O1CN01VhZSpr1whJlbqzdv2_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/12/O1CN01VhZSpr1whJlbqzdv2_!!2213972956339-0-cib_8ac71c948e24b.jpg)
 :::
 
+- L码好, 也是, 很完美👍💥😍
+
 ## [惠本女打底圆领长袖](https://detail.1688.com/offer/947340795256.html)
 
 ::: details 尺码表
