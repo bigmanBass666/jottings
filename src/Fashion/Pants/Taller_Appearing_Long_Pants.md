@@ -32,7 +32,7 @@
 
 [109元！显高第1名直筒裤]( https://item.taobao.com/item.htm?id=757383721126&tkSid=1734536020957_557748110_0.0&ali_trackid=2:mm_2300980027_2816900356_114689550381:1734536020957_557748110_0&union_lens=lensId:TAPI@1710299517@213ee40a_2428_18e35cb9427_d8f9@01;recoveryid:557748110_0@1734536020958&ak=27696150&bxsign=tbkMPGVmguCUB3qcmpx06Gbckz999HxCMXgsB6RQ1jUM62FHbe7nBj50zP783oxXImk2SutMCifvBmhhojYjNtsKkUiS_dPI-Rx10tL4krp_OsxTzBKroRLpPE6Uc7vg000-XXV9ODvvQSyanZjS4iEWtGx0ZSFj0Pblb7MOIUbx8LRTDYh7pCUvEbrXmvBSMUI )
 
-![alt text](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/109元！显高第1名直筒裤_138d8683f90cf.png)
+![alt text](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/109元！显高第1名直筒裤_138d8683f90cf.png)
 
 - "显高秘诀就是膝盖处不起眼的收边条, 把容易弯曲的地方固定住, 让整个裤筒笔直不臃肿"
 
@@ -48,4 +48,4 @@
 
 [期期都穿！烟灰牛仔裤](https://item.taobao.com/item.htm?ak=27696150&ali_trackid=2%3Amm_2300980027_2816900356_114689550381%3A1734538664447_554211438_0&bxsign=tbkzGpSU3qiS49tB6wvRAbGmVpO-nykzpIFAV27dTF0VygYRY3ufXmdIPBbGzqdZEWQCifDV7g6jcXMvxusnozJnupeomD92Fr4GrJdYRYfwIxor7LvT20x3u25U3eGY9XOQmtVM4FIDuyg9lXPGkZgPy2W696Kazy6A0dL5cMJZ0QAp7s8fNkPXZuwvsFaA43x&id=722569101464&sku_properties=1627207%3A843392134&tkSid=1734538664447_554211438_0.0&union_lens=lensId%3ATAPI%401710299521%40213d5695_1269_18e35cba1a9_8555%4001%3Brecoveryid%3A554211438_0%401734538664447)
 
-![alt text](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/期期都穿！烟灰牛仔裤_7ac2d6a1d229c.png)
+![alt text](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/期期都穿！烟灰牛仔裤_7ac2d6a1d229c.png)

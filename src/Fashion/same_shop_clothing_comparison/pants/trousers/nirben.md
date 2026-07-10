@@ -11,12 +11,12 @@ fileTitle: 1.广州市尼本服饰有限公司
 ### [浅蓝 直筒 60](https://detail.1688.com/offer/661077669350.html)
 
   ::: details 商品图
-  ![未命名的设计.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/未命名的设计_2c3f4095fa881.png)
+  ![未命名的设计.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/未命名的设计_2c3f4095fa881.png)
   :::
   
   ::: details 尺码表
   注意**臀围**和**腰围**, 需要多买几条尼本的裤子来对比
-  ![1736085478316.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736085478316_571394f9a4ff1.png)
+  ![1736085478316.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736085478316_571394f9a4ff1.png)
   :::
 
 - M码不错
@@ -30,11 +30,11 @@ fileTitle: 1.广州市尼本服饰有限公司
 [已买衣物对照](../../../purchased_clothing_comparison/pants/trousers.md#直筒-原色牛仔)
 
   ::: details 商品图
-  ![直筒-原色牛仔.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/直筒-原色牛仔_f4c9d16a8810b.png)
+  ![直筒-原色牛仔.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/直筒-原色牛仔_f4c9d16a8810b.png)
   :::
   
   ::: details 尺码表
-  ![1736081701755.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736081701755_673b106e03549.png)
+  ![1736081701755.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736081701755_673b106e03549.png)
   :::
 
 ### [直筒 牛仔蓝 55](https://detail.1688.com/offer/639660475190.html)
@@ -42,12 +42,12 @@ fileTitle: 1.广州市尼本服饰有限公司
 比上面那件 `直筒 原色牛仔` 要更小, 更紧, 特别是大腿围. 可以看看裤长98的[浅蓝 直筒](#浅蓝-直筒-60)
 
   ::: details 商品图
-  ![直筒 原色牛仔.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/直筒%20原色牛仔_5ac13899eff95.png)
+  ![直筒 原色牛仔.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/直筒 原色牛仔_5ac13899eff95.png)
   :::
   
   ::: details 尺码表
   注意大腿围
-  ![1736082992010.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736082992010_03b150f24489e.png)
+  ![1736082992010.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736082992010_03b150f24489e.png)
   :::
 
 ## 裤长102 ⭐
@@ -55,11 +55,11 @@ fileTitle: 1.广州市尼本服饰有限公司
 ### [渐变星河条纹 55](https://detail.1688.com/offer/649706020672.html)
 
   ::: details 商品图
-  ![渐变星河条纹.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/渐变星河条纹_4efacd418ae96.png)
+  ![渐变星河条纹.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/渐变星河条纹_4efacd418ae96.png)
   :::
   
   ::: details 尺码表
-  ![1736083237157.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736083237157_06d78bb507c3e.png)
+  ![1736083237157.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736083237157_06d78bb507c3e.png)
   :::
 
 - 看着好矮啊
@@ -78,9 +78,9 @@ fileTitle: 1.广州市尼本服饰有限公司
 - 腰围更小
 
 ::: details 商品图
-![多色微喇.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/多色微喇_dd314795bb9cb.png)
+![多色微喇.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/多色微喇_dd314795bb9cb.png)
 :::
 
 ::: details 尺码表
-![微喇平替.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/微喇平替_e856887ed8e8c.png)
+![微喇平替.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/微喇平替_e856887ed8e8c.png)
 :::

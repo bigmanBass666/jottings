@@ -70,6 +70,6 @@ fileTitle: 4.卫衣
 
 [BOxy卫衣/179元](https://s.click.taobao.com/ctl3wQt)
 
-![boxy卫衣.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/boxy卫衣_cedbaebd1d5a0.png)
+![boxy卫衣.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/boxy卫衣_cedbaebd1d5a0.png)
 
 > "我们必须得承认，不是所有人都拥有「小头」、「宽肩」、「九头身」等等怎么穿都好看的「模特身材条件」，所以对于身形不具备过多优势的大众群体，Boxy 版型就能很大程度上帮助我们完成这一「视觉魔术」。"-- [Boxy 版型还得「火爆」2023 年？](https://nowre.com/editorial/739216/boxy-banxinghuandehuobao2023-nian/)

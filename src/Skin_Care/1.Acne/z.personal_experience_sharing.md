@@ -53,7 +53,7 @@ fileTitle: z.个人经验分享
 
 芙丽芳丝 (太贵了, 没必要买)
 
-![freePlus.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/freePlus_888043d23a312.jpg)
+![freePlus.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/freePlus_888043d23a312.jpg)
 
 > "这些氨基酸洗面奶, 真正使用起来他们的感受不会差太多, 所以我也不建议大家花太多钱在洗面奶上"
 > -- [北大医学博士：这些冤枉钱没必要花！我最常遇到的10个错误护肤理念｜全嘻嘻x皮科医生魏小博]( https://www.bilibili.com/video/BV1LW4y1V7ot/?share_source=copy_web&vd_source=dbdac2a7096f7d2656e413a441bd7afe&t=906 )
@@ -95,7 +95,7 @@ fileTitle: z.个人经验分享
 
 一个道理的, 12小时后就 **"切勿再使用其处理创口"** 了
 
-![ziFengKouWuJvnMianQian.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/ziFengKouWuJvnMianQian_0e190ce8e50cb.jpg)
+![ziFengKouWuJvnMianQian.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/ziFengKouWuJvnMianQian_0e190ce8e50cb.jpg)
 
 ### 大宝
 
@@ -105,4 +105,4 @@ fileTitle: z.个人经验分享
 > 有的同学觉得先涂了保湿修复霜会影响药效，其实完全不影响，你在之前涂只会让皮肤更快吸收，刺激感更强。
 > -- [阿达帕林详解](https://www.zhihu.com/question/64456413/answer/1768882365)
 
-![daBao.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/daBao_45b74ca12cb46.jpg) -->
+![daBao.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/daBao_45b74ca12cb46.jpg) -->

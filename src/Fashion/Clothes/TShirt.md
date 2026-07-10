@@ -10,7 +10,7 @@ fileTitle: 2.T恤
 
 ## 版型
 
-![640.webp](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_722182eeaaeff.webp)
+![640.webp](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/640_722182eeaaeff.webp)
 
 ### @Kk今天穿什么
 

@@ -7,27 +7,27 @@ fileTitle: 7.搭配&灵感
 ⭐[男生需要哪些穿搭基本单品?](https://mp.weixin.qq.com/s/RiLbmuSmMRw8sJd19ecKWA)⭐
 
 ::: details 黄背心+黄黑鬼塚虎
-![1739951494536.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/02/1739951494536_e06370859863b.png)
+![1739951494536.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1739951494536_e06370859863b.png)
 :::
 
 ::: details 短款羽绒服
-![640.webp](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/640_da9a29c4337c9.webp)
+![640.webp](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/640_da9a29c4337c9.webp)
 :::
 
 ::: details 蓝毛衣+灰裤
-![640.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_4158ca4eb278d.png)
+![640.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/640_4158ca4eb278d.png)
 :::
 
 ::: details 短款棉服
-![1736355549538.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736355549538_206e4dccc2983.png)
+![1736355549538.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736355549538_206e4dccc2983.png)
 :::
 
 ::: details @kk今天穿什么
-![640.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_059e3771d1954.jpg)
+![640.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/640_059e3771d1954.jpg)
 :::
 
 ::: details 白毛衣+浅蓝牛仔裤
-![1736355787916.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/1736355787916_7d33e0cc543e9.png)
+![1736355787916.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736355787916_7d33e0cc543e9.png)
 :::
 
 ::: details 黑t+深色牛仔裤

@@ -41,8 +41,8 @@ regularly ✅
 ### 形容词变副词规律
 
 ::: details 形容词变副词规律
-![1741362775143.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/03/1741362775143_08aabd71acf69.png)
-![1741362953135.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/03/1741362953135_cd1bf9e5cafbd.png)
+![1741362775143.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1741362775143_08aabd71acf69.png)
+![1741362953135.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1741362953135_cd1bf9e5cafbd.png)
 :::
 
 We drink the tea ____ (happy).

@@ -4,7 +4,7 @@ fileTitle: zz.个人数据
 
 # 个人数据
 
-[如何测量身体维度?](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/640_63f805c9afd70.jpg)
+[如何测量身体维度?](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/640_63f805c9afd70.jpg)
 
 ## 身体维度
 
