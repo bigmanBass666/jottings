@@ -19,7 +19,7 @@ fileTitle: 9.矮个
 
 ## 皮筋卷衣服
 
-[视频](https://imgur.la/images/2025/01/11/2025-01-11-00-04-03-694.mp4)
+[视频](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/2025-01-11-00-04-03-694_387fbc01.mp4)
 
 ## 鞋
 

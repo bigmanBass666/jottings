@@ -33,8 +33,6 @@ https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/<filename>
 
 添加新图片时，上传到该 R2 bucket 后在 Markdown 中引用即可。如需绑定自定义域名，可在 R2 Dashboard 中设置。
 
-> ⚠️ 部分视频/GIF 仍引用 imgur.la（`Fashion/shorty.md`、`matches&inspiration.md`、`shoes.md`、`hoodies.md`），imgur.la 不可访问后这些媒体会失效。
-
 ## 内容管理
 
 所有 Markdown 内容在 `src/` 目录下，按分类放在子目录中。添加新 `.md` 文件到对应目录即可自动出现在侧边栏（由 `vitepress-sidebar` 驱动）。

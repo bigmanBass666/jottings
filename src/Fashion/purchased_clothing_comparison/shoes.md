@@ -23,7 +23,7 @@ fileTitle: 3.鞋
 ## [拼多多老爹鞋](https://mobile.yangkeduo.com/goods1.html?ps=18jLo3PJZO)
 
 ::: details 商品图
-[实货视频](https://imgur.la/images/2025/01/05/8c8f9483eb12946fbd31944d2e88a94d.mp4)
+[实货视频](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/8c8f9483eb12946fbd31944d2e88a94d_a171e289.mp4)
 ![1736061952405.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1736061952405_cf6dbb09b719c.png)
 :::
 
