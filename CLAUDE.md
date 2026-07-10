@@ -21,6 +21,20 @@ pnpm start         # 运行爬虫脚本 (test/crawler-config.js)
 
 项目没有配置 linter、formatter 或 test runner。
 
+`pnpm docs:build` 首次在新环境中运行前，可能需要先执行 `pnpm approve-builds` 批准 esbuild 构建脚本（或设置 `CI=true pnpm install`）。
+
+## 图片存储
+
+所有图片托管在 **Cloudflare R2**（bucket `jason-jottings-images`），通过 r2.dev 域名公开访问：
+
+```
+https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/<filename>
+```
+
+添加新图片时，上传到该 R2 bucket 后在 Markdown 中引用即可。如需绑定自定义域名，可在 R2 Dashboard 中设置。
+
+> ⚠️ 部分视频/GIF 仍引用 imgur.la（`Fashion/shorty.md`、`matches&inspiration.md`、`shoes.md`、`hoodies.md`），imgur.la 不可访问后这些媒体会失效。
+
 ## 内容管理
 
 所有 Markdown 内容在 `src/` 目录下，按分类放在子目录中。添加新 `.md` 文件到对应目录即可自动出现在侧边栏（由 `vitepress-sidebar` 驱动）。
@@ -68,3 +82,25 @@ Algolia DocSearch（主）和本地搜索（备选），在 `.vitepress/configs/
 | `src/clipboard/` | 剪贴板 |
 | `src/todo/` | 待办 |
 | `src/public/` | 静态资源（图标、SVG） |
+
+## 项目级 Skill
+
+### r2-image-upload
+
+通用 Cloudflare R2 图片上传工具，位于 `.claude/skills/r2-image-upload/`。
+
+当需要上传图片到项目时（本地截图或网络图片 URL），调用此 skill 自动上传到 R2 并返回可直接引用的公开 URL。
+
+使用方法：
+```bash
+# 上传本地图片
+node .claude/skills/r2-image-upload/scripts/upload-to-r2.js <本地路径>
+
+# 上传网络图片
+node .claude/skills/r2-image-upload/scripts/upload-to-r2.js <URL>
+
+# 同时上传多个
+node .claude/skills/r2-image-upload/scripts/upload-to-r2.js <路径1> <URL2> ...
+```
+
+输出格式（tsv）：`R2_URL \t 文件名 \t 内容哈希`

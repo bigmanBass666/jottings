@@ -6,14 +6,28 @@ fileTitle: 1.背心
 
 [服装尺寸测量标准方法](https://zhuanlan.zhihu.com/p/625267980)
 
-## [惠本女背心](https://detail.1688.com/offer/885256318360.html)
+## [惠本女无袖背心](https://detail.1688.com/offer/1053657244237.html)
 
 ::: details 尺码表
-![1747052886841.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1747052886841_486a6c84cfc3c.png)
+![惠本女无袖背心 尺码表](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/tank_top_sizechart_1783698157075.png)
 :::
 
 ::: details 平铺图
-![O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib_5d26a73560580.jpg)
+![惠本女无袖背心 平铺图](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/O1CN01utG4aG1whJno6Pwl3_!!2213972956339-0-cib_1783698157075.jpg)
+:::
+
+::: details 模特图
+![惠本女无袖背心 模特上身图](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/O1CN01XJP4GB1whJnoApxyk_!!2213972956339-0-cib_1783698157075.jpg)
+:::
+
+## [惠本女背心](https://detail.1688.com/offer/885256318360.html)
+
+::: details 尺码表
+![惠本女背心 尺码表](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1747052886841_486a6c84cfc3c.png)
+:::
+
+::: details 平铺图
+![惠本女背心 平铺图](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib_5d26a73560580.jpg)
 :::
 
 ### L
@@ -42,7 +56,7 @@ fileTitle: 1.背心
 ## 红背心
 
 ::: details 平铺图
-![IMG_20250507_132650.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/IMG_20250507_132650_5a31d66e43318.jpg)
+![红背心 平铺图](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/IMG_20250507_132650_5a31d66e43318.jpg)
 :::
 
 | 衣长  | 胸围  | 肩宽  |
@@ -54,7 +68,7 @@ fileTitle: 1.背心
 ## 很紧深蓝背心
 
 ::: details 平铺图
-![IMG_20250302_221303.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/IMG_20250302_221303_73b8dba8cfd89.jpg)
+![很紧深蓝背心 平铺图](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/IMG_20250302_221303_73b8dba8cfd89.jpg)
 :::
 
 | 衣长  | 胸围  | 肩宽  |

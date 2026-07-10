@@ -1,0 +1,8 @@
+{
+  "name": "r2-upload-script",
+  "private": true,
+  "type": "commonjs",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.1084.0"
+  }
+}

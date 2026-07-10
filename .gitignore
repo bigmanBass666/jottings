@@ -12,3 +12,6 @@ dist-ssr
 node_modules/
 
 test/
+
+# R2 credentials (contains secret keys)
+.claude/r2-credentials.json
