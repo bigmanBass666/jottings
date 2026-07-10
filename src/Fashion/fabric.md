@@ -7,7 +7,7 @@ fileTitle: 1.面料
 [服装常见面料优缺点【带图识面料】](https://zhuanlan.zhihu.com/p/334623537)
 
 [各类服装面料成分专业详解~通俗易懂](https://www.bilibili.com/video/BV1dL4y1F7Ga/?share_source=copy_web&vd_source=dbdac2a7096f7d2656e413a441bd7afe) |
-[脑图](https://pic2.ziyuan.wang/user/bigmanBass666/2025/01/3305a166f3bd78568f8619b96d5eac121601851537_f6a8d0f54d2c9.png)
+[脑图](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/3305a166f3bd78568f8619b96d5eac121601851537_f6a8d0f54d2c9.png)
 
 ## 天然纤维
 

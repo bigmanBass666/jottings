@@ -9,11 +9,11 @@ fileTitle: 1.背心
 ## [惠本女背心](https://detail.1688.com/offer/885256318360.html)
 
 ::: details 尺码表
-![1747052886841.png](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/1747052886841_486a6c84cfc3c.png)
+![1747052886841.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1747052886841_486a6c84cfc3c.png)
 :::
 
 ::: details 平铺图
-![O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib_5d26a73560580.jpg)
+![O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/O1CN01LlGurh1whJh2m7NYi_!!2213972956339-0-cib_5d26a73560580.jpg)
 :::
 
 ### L
@@ -42,7 +42,7 @@ fileTitle: 1.背心
 ## 红背心
 
 ::: details 平铺图
-![IMG_20250507_132650.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/05/IMG_20250507_132650_5a31d66e43318.jpg)
+![IMG_20250507_132650.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/IMG_20250507_132650_5a31d66e43318.jpg)
 :::
 
 | 衣长  | 胸围  | 肩宽  |
@@ -54,7 +54,7 @@ fileTitle: 1.背心
 ## 很紧深蓝背心
 
 ::: details 平铺图
-![IMG_20250302_221303.jpg](https://pic2.ziyuan.wang/user/bigmanBass666/2025/03/IMG_20250302_221303_73b8dba8cfd89.jpg)
+![IMG_20250302_221303.jpg](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/IMG_20250302_221303_73b8dba8cfd89.jpg)
 :::
 
 | 衣长  | 胸围  | 肩宽  |

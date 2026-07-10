@@ -13,7 +13,7 @@ export default defineConfig({
 
   themeConfig: {
     // 左上角品牌
-    logo: 'https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/melon_round06d334931cff05c9_90967a56c0b4b.png',
+    logo: 'https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/melon_round06d334931cff05c9_90967a56c0b4b.png',
     siteTitle: '杂记',
 
     // 搜索

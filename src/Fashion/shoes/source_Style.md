@@ -58,4 +58,4 @@ fileTitle: 2.货源地 & 风格关键词
 > [!IMPORTANT]
 >"**175以下选六孔, 显高**; 175以上选八孔, 显气质"
 
-![马丁靴.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/马丁靴_d40e33c319e07.png)
+![马丁靴.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/马丁靴_d40e33c319e07.png)

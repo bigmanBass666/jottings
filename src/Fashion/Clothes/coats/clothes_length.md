@@ -6,7 +6,7 @@ fileTitle: 1.衣长
 
 ## 不同身高衣长选择
 
-![1734624405790.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/1734624405790_832008b0b5d87.png)
+![1734624405790.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/1734624405790_832008b0b5d87.png)
 
 ### ⭐计算结果 {id=result}
 

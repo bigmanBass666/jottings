@@ -14,4 +14,4 @@ fileTitle: 1.长
 
 - [水洗做旧牛仔裤](https://s.click.taobao.com/AAg1fUt)
 
-  ![640.png](https://pic2.ziyuan.wang/user/bigmanBass666/2024/12/640_5a562557a0f75.png)
+  ![640.png](https://pub-dcb07a5e74a14d9aa904f344ccba75f5.r2.dev/640_5a562557a0f75.png)
