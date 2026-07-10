@@ -82,3 +82,25 @@ Algolia DocSearch（主）和本地搜索（备选），在 `.vitepress/configs/
 | `src/clipboard/` | 剪贴板 |
 | `src/todo/` | 待办 |
 | `src/public/` | 静态资源（图标、SVG） |
+
+## 项目级 Skill
+
+### r2-image-upload
+
+通用 Cloudflare R2 图片上传工具，位于 `.claude/skills/r2-image-upload/`。
+
+当需要上传图片到项目时（本地截图或网络图片 URL），调用此 skill 自动上传到 R2 并返回可直接引用的公开 URL。
+
+使用方法：
+```bash
+# 上传本地图片
+node .claude/skills/r2-image-upload/scripts/upload-to-r2.js <本地路径>
+
+# 上传网络图片
+node .claude/skills/r2-image-upload/scripts/upload-to-r2.js <URL>
+
+# 同时上传多个
+node .claude/skills/r2-image-upload/scripts/upload-to-r2.js <路径1> <URL2> ...
+```
+
+输出格式（tsv）：`R2_URL \t 文件名 \t 内容哈希`
